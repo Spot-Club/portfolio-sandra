@@ -173,6 +173,19 @@ const educationInfo = {
         "Gained hands-on experience in software engineering principles, including object-oriented programming, algorithms, and database management.",
         "Developed practical skills in web development, operating systems, and software security through coursework and team projects."
       ]
+    },
+    {
+      schoolName: "University of Montreal",
+      logo: require("./assets/images/udemLogo.webp"), 
+      subHeader: "Bachelor of Biomedical Sciences",
+      duration: "September 2014 - April 2017", 
+      desc: "Developed strong analytical, problem-solving, and research skills through a multidisciplinary program focused on human biology and health sciences. These skills are highly transferable to product management, particularly in understanding complex systems, data-driven decision-making, and user-centric solutions.",
+      descBullets: [
+          "Gained expertise in analyzing complex biological systems, a skill that translates to breaking down intricate product challenges and identifying root causes.",
+          "Conducted research projects requiring critical thinking, hypothesis testing, and data interpretation, fostering a structured approach to problem-solving.",
+          "Collaborated in multidisciplinary teams, enhancing communication and teamwork skills essential for cross-functional collaboration in product development.",
+          "Developed a user-centric mindset by studying human biology, which aligns with creating products that address real user needs and pain points."
+      ]
     }
   ]
 };
@@ -199,8 +212,8 @@ const techStack = {
       progressPercentage: "98%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backlog Prioritization & User Story Mapping",
-      progressPercentage: "70%"
+      Stack: "Product Roadmapping & Strategy",
+      progressPercentage: "80%"
     },
     {
       Stack: "Stakeholder Communication & Collaboration",
@@ -256,13 +269,6 @@ const workExperiences = {
         "Designed user interfaces with ReactJS, TypeScript, and MaterialUI.",
         "Implemented asynchronous communication with an event-driven system."
       ],
-      footerLink: [
-        {
-          name: "Visit Instagram",
-          url: "https://www.instagram.com/ferya.eventdecor?igsh=YTRvdDlpY2hocXM5"
-        }
-        //  you can add extra buttons here.
-      ]
     }
   ]
 };
