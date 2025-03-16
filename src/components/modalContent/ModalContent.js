@@ -61,18 +61,39 @@ const ListTabContent = ({ description, items }) => {
 }
 
 const RoadmapTabContent = ({ description, doneItems, todoItems }) => {
-    return <div className="list-tab-content">
+    return <div className="roadmap-tab-content">
         {description.map((desc, index) => <div key={index}>{desc}</div>)}
-        <div className="list-tab-items">
-            {doneItems.map((item, index) =>
-                <div key={index} className="list-tab-item">
-                    <span>{emoji("⚡ ")}{item.title}</span>
-                    <ul className="list-tab-item-description">
-                        {item.descriptions.map((description, index) => <li key={index}>{description}</li>)}
-                    </ul>
-                </div>
-            )}
+        <div className="all-items-header">
+            <h3>Milestones Achieved</h3>
+            <h3>Next Horizons</h3>
         </div>
+        <div className="all-items">
+            <div className="done-items">
+                <div className="list-tab-items">
+                    {doneItems.map((item, index) =>
+                        <div key={index} className="list-tab-item">
+                            <span>{emoji("⚡ ")}{item.title}</span>
+                            <ul className="list-tab-item-description">
+                                {item.descriptions.map((description, index) => <li key={index}>{description}</li>)}
+                            </ul>
+                        </div>
+                    )}
+                </div>
+            </div>
+            <div className="todo-items">
+                <div className="list-tab-items">
+                    {todoItems.map((item, index) =>
+                        <div key={index} className="list-tab-item">
+                            <span>{emoji("⚡ ")}{item.title}</span>
+                            <ul className="list-tab-item-description">
+                                {item.descriptions.map((description, index) => <li key={index}>{description}</li>)}
+                            </ul>
+                        </div>
+                    )}
+                </div>
+            </div>
+        </div>
+
 
 
     </div>
