@@ -1,14 +1,28 @@
-import React, {useContext} from "react";
-import "./WorkExperience.scss";
+import React, { useContext, useState } from "react";
+import { Fade } from "react-reveal";
 import ExperienceCard from "../../components/experienceCard/ExperienceCard";
-import {workExperiences} from "../../portfolio";
-import {Fade} from "react-reveal";
+import { Modal } from "../../components/modal/modal";
 import StyleContext from "../../contexts/StyleContext";
+import { workExperiences } from "../../portfolio";
+import "./WorkExperience.scss";
 
 export default function WorkExperience() {
-  const {isDark} = useContext(StyleContext);
+  const { isDark } = useContext(StyleContext);
+  const [showModal, setshowModal] = useState(false);
+  const [modalContent, setmodalContent] = useState();
+
+  function changeModalContent(component) {
+    if (!component) {
+      return;
+    }
+    setmodalContent(component);
+    setshowModal(true);
+  }
   if (workExperiences.display) {
-    return (
+    return (<>
+      <Modal visible={showModal} onClose={() => setshowModal(false)}>
+        {modalContent}
+      </Modal>
       <div id="experience">
         <Fade bottom duration={1000} distance="20px">
           <div className="experience-container" id="workExperience">
@@ -27,7 +41,8 @@ export default function WorkExperience() {
                         companylogo: card.companylogo,
                         role: card.role,
                         descBullets: card.descBullets,
-                        footerLink: card.footerLink
+                        footerLink: card.footerLink,
+                        onFooterLinkClick: changeModalContent,
                       }}
                     />
                   );
@@ -37,6 +52,7 @@ export default function WorkExperience() {
           </div>
         </Fade>
       </div>
+    </>
     );
   }
   return null;
