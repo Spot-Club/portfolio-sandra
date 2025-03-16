@@ -4,7 +4,7 @@
 
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
-import FeryaEventDecor from "./containers/ferya/FeryaEventDecor";
+import Genetec from "./containers/genetec/Genetec";
 
 // Splash Screen
 
@@ -272,7 +272,7 @@ const workExperiences = {
         {
           isHyperlink: false,
           name: "More",
-          component: <FeryaEventDecor />
+          component: <Genetec />
         }
         //  you can add extra buttons here.
       ]
