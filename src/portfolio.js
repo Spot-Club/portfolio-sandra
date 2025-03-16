@@ -63,86 +63,86 @@ const skillsSection = {
     emoji("⚡ Prioritize and manage product backlogs to deliver maximum value with each sprint"),
     emoji("⚡ Bridge the gap between technical teams and stakeholders with clear communication and a developer background")
   ],
-  
+
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "Angular",
-      fontAwesomeClassname: "fab fa-angular"
-    },
+    // // {
+    // //   skillName: "html-5",
+    // //   fontAwesomeClassname: "fab fa-html5"
+    // // },
+    // // {
+    // //   skillName: "css3",
+    // //   fontAwesomeClassname: "fab fa-css3-alt"
+    // // },
+    // // {
+    // //   skillName: "Angular",
+    // //   fontAwesomeClassname: "fab fa-angular"
+    // // },
+    // // {
+    // //   skillName: "reactjs",
+    // //   fontAwesomeClassname: "fab fa-react"
+    // // },
     // {
-    //   skillName: "reactjs",
+    //   skillName: "react",
     //   fontAwesomeClassname: "fab fa-react"
     // },
-    {
-      skillName: "react",
-      fontAwesomeClassname: "fab fa-react"
-    },
+    // // {
+    // //   skillName: "typescript",
+    // //   fontAwesomeClassname: "fab fa-react"
+    // // },
+
     // {
-    //   skillName: "typescript",
-    //   fontAwesomeClassname: "fab fa-react"
-    // },
-    
-    {
-      skillName: "c#",
-      fontAwesomeClassname: "fab fa-csharp"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    // {
-    //   skillName: "JavaScript",
-    //   fontAwesomeClassname: "fab fa-js"
-    // },
-    
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    // {
-    //   skillName: "swift",
-    //   fontAwesomeClassname: "fab fa-swift"
+    //   skillName: "c#",
+    //   fontAwesomeClassname: "fab fa-csharp"
     // },
     // {
-    //   skillName: "npm",
-    //   fontAwesomeClassname: "fab fa-npm"
+    //   skillName: "sass",
+    //   fontAwesomeClassname: "fab fa-sass"
     // },
-    {
-      skillName: "sql and no-sql database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
+    // // {
+    // //   skillName: "JavaScript",
+    // //   fontAwesomeClassname: "fab fa-js"
+    // // },
+
     // {
-    //   skillName: "firebase",
-    //   fontAwesomeClassname: "fas fa-fire"
+    //   skillName: "nodejs",
+    //   fontAwesomeClassname: "fab fa-node"
     // },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "java",
-      fontAwesomeClassname: "fab fa-java"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
+    // // {
+    // //   skillName: "swift",
+    // //   fontAwesomeClassname: "fab fa-swift"
+    // // },
+    // // {
+    // //   skillName: "npm",
+    // //   fontAwesomeClassname: "fab fa-npm"
+    // // },
+    // {
+    //   skillName: "sql and no-sql database",
+    //   fontAwesomeClassname: "fas fa-database"
+    // },
+    // {
+    //   skillName: "aws",
+    //   fontAwesomeClassname: "fab fa-aws"
+    // },
+    // // {
+    // //   skillName: "firebase",
+    // //   fontAwesomeClassname: "fas fa-fire"
+    // // },
+    // {
+    //   skillName: "python",
+    //   fontAwesomeClassname: "fab fa-python"
+    // },
+    // {
+    //   skillName: "java",
+    //   fontAwesomeClassname: "fab fa-java"
+    // },
+    // {
+    //   skillName: "docker",
+    //   fontAwesomeClassname: "fab fa-docker"
+    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -275,42 +275,6 @@ const openSource = {
   display: false // Set false to hide this section, defaults to true
 };
 
-// Some big projects you have worked on
-
-const bigProjects = {
-  title: "Projects",
-  subtitle: "INNOVATIVE INITIATIVES I'VE SHAPED FROM CONCEPT TO EXECUTION",
-  projects: [
-    {
-      image: require("./assets/images/ferya.jpg"),
-      projectName: "Ferya Event Decor & Design",
-      projectDesc: "Co-founded and developed a unique event decoration brand, defining its identity, business strategy, and client-focused solutions. Managed the product side, including service design, pricing strategies, and customer experience optimization.",
-      footerLink: [
-        {
-          name: "Visit Instagram",
-          url: "https://www.instagram.com/ferya.eventdecor?igsh=YTRvdDlpY2hocXM5"
-        },
-        {
-          name: "Know More",
-          url: ""
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/theLink.jpeg"),
-      projectName: "The Link",
-      projectDesc: "Contributed to an innovative stealth project aimed at transforming entrepreneurship through a scalable, user-centric platform. Managed the product side, including feature prioritization, user research, and roadmap development to align with business goals.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://the-link.ca/"
-        }
-      ]
-    }
-  ],
-  display: true // Set false to hide this section, defaults to true
-};
 
 // Achievement Section
 // Include certificates, talks etc
@@ -327,7 +291,7 @@ const achievementSection = {
       image: require("./assets/images/cspo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        { name: "Certification", url: "" },
         // {
         //   name: "Final Project",
         //   url: "https://pakistan-olx-1.firebaseapp.com/"
@@ -478,22 +442,7 @@ const twitterDetails = {
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
-  illustration,
-  greeting,
-  socialMediaLinks,
-  splashScreen,
-  skillsSection,
-  educationInfo,
-  techStack,
-  workExperiences,
-  openSource,
-  bigProjects,
-  achievementSection,
-  blogSection,
-  talkSection,
-  podcastSection,
-  contactInfo,
-  twitterDetails,
-  isHireable,
-  resumeSection
+  achievementSection, blogSection, contactInfo, educationInfo, greeting, illustration, isHireable, openSource, podcastSection, resumeSection, skillsSection, socialMediaLinks,
+  splashScreen, talkSection, techStack, twitterDetails, workExperiences
 };
+
