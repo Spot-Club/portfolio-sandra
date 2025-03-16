@@ -4,7 +4,8 @@
 
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
-import FeryaEventDecor from "./containers/ferya/FeryaEventDecor";
+import Genetec from "./containers/genetec/Genetec";
+import Recursyve from "./containers/recursyve/Recursyve";
 
 // Splash Screen
 
@@ -239,6 +240,14 @@ const workExperiences = {
         "Automated workflows in Jira to streamline processes across teams.",
         "Optimized development processes through creation and improvement initiatives.",
         "Monitored project progression and applied corrective measures as needed."
+      ],
+      footerLink: [
+        {
+          isHyperlink: false,
+          name: "More",
+          component: <Recursyve />
+        }
+        //  you can add extra buttons here.
       ]
     },
     {
@@ -272,7 +281,7 @@ const workExperiences = {
         {
           isHyperlink: false,
           name: "More",
-          component: <FeryaEventDecor />
+          component: <Genetec />
         }
         //  you can add extra buttons here.
       ]

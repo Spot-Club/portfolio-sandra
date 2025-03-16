@@ -94,9 +94,41 @@ span.project-tag:hover {
   transition: 0.2s ease-in;
 }
 
+.project-text-role {
+  text-align: center;
+  color: $textColor;
+  font-weight: 700;
+  font-size: 18px;
+  margin: 0px;
+  padding-top: 1.5rem;
+  line-height: normal;
+}
+
+.dark-mode-text {
+  color: $textColorDark !important;
+}
+
+/* Media Query */
+
 @media (max-width: 768px) {
   .project-subtitle {
     font-size: 16px;
     text-align: center;
+  }
+  .project-text-role {
+    padding-top: 0.5rem;
+    font-size: 22px;
+  }
+  .project-text-date {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 768px) {
+  .project-text-role {
+    font-size: 22px;
+  }
+  .project-text-date {
+    font-size: 18px;
   }
 }
