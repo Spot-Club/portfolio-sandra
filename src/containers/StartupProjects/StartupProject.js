@@ -14,6 +14,8 @@ const bigProjects = {
     {
       image: require("../../assets/images/ferya.jpg"),
       projectName: "Ferya Event Decor & Design",
+      role: "Co-Founder & Product Manager",
+      date: "September 2024 – Ongoing",
       projectDesc: "Co-founded and developed a unique event decoration brand, defining its identity, business strategy, and client-focused solutions. Managed the product side, including service design, pricing strategies, and customer experience optimization.",
       footerLink: [
         {
@@ -32,6 +34,8 @@ const bigProjects = {
     {
       image: require("../../assets/images/theLink.jpeg"),
       projectName: "The Link",
+      role: "Product Manager",
+      date: "February 2025 – Ongoing",
       projectDesc: "Contributed to an innovative stealth project aimed at transforming entrepreneurship through a scalable, user-centric platform. Managed the product side, including feature prioritization, user research, and roadmap development to align with business goals.",
       footerLink: [
         {
@@ -117,6 +121,24 @@ export default function StartupProject() {
                       className={isDark ? "dark-mode card-title" : "card-title"}
                     >
                       {project.projectName}
+                    </h5>
+                    <h5
+                      className={
+                        isDark
+                          ? "project-text-role dark-mode-text"
+                          : "project-text-role"
+                      }
+                    >
+                      {project.role}
+                    </h5>
+                    <h5
+                      className={
+                        isDark
+                          ? "project-text-date dark-mode-text"
+                          : "project-text-date"
+                      }
+                    >
+                      {project.date}
                     </h5>
                     <p
                       className={
