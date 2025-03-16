@@ -177,9 +177,9 @@ const educationInfo = {
     },
     {
       schoolName: "University of Montreal",
-      logo: require("./assets/images/udemLogo.webp"), 
+      logo: require("./assets/images/udemLogo.webp"),
       subHeader: "Bachelor of Biomedical Sciences",
-      duration: "September 2014 - April 2017", 
+      duration: "September 2014 - April 2017",
       desc: "Developed analytical and problem-solving skills through the study of complex biological systems and research projects.",
       descBullets: [
         "Gained expertise in analyzing complex systems, translating to breaking down intricate product challenges and identifying root causes.",
@@ -441,7 +441,6 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Looking to hire or discuss a project? Let's connect and explore how I can add value to your team or initiative!",
-  number: "+1 (514) 962-9841",
   email_address: "sandra.benamara@hec.ca"
 };
 

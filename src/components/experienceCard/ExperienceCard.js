@@ -1,6 +1,6 @@
-import React, { useState, createRef } from "react";
-import "./ExperienceCard.scss";
 import ColorThief from "colorthief";
+import React, { createRef, useState } from "react";
+import "./ExperienceCard.scss";
 
 export default function ExperienceCard({ cardInfo, isDark }) {
   const [colorArrays, setColorArrays] = useState([]);
@@ -88,7 +88,7 @@ export default function ExperienceCard({ cardInfo, isDark }) {
                     className={
                       isDark ? "dark-mode experience-tag" : "experience-tag"
                     }
-                    onClick={() => console.log(link.url)}
+                    onClick={() => cardInfo.onFooterLinkClick(link.component)}
                   >
                     {link.name}
                   </span>
