@@ -5,6 +5,7 @@ import StyleContext from "../../contexts/StyleContext";
 import { Modal } from "../../components/modal/modal";
 import FeryaEventDecor from "../ferya/FeryaEventDecor";
 import "./StartupProjects.scss";
+import TheLink from "../theLink/TheLink";
 
 const bigProjects = {
   title: "Projects",
@@ -37,6 +38,11 @@ const bigProjects = {
           isHyperlink: true,
           name: "Visit Website",
           url: "https://the-link.ca/"
+        },
+        {
+          isHyperlink: false,
+          name: "More",
+          component: <TheLink />
         }
       ]
     }
