@@ -54,41 +54,41 @@ const TheLink = () => {
             title: "Roadmap",
             content:
                 <RoadmapTabContent
-                    description={["Our journey with The Link by Evolvia is driven by a commitment to solving real-world problems through innovative solutions. Below, you'll find a summary of the key milestones we've achieved and the exciting steps we're planning to take as we refine our vision and deliver impactful value."]}
+                    description={["Our journey with The Link by Evolvia is driven by a commitment to solving real-world problems through innovative solutions. Below, you'll find a summary of the key milestones we've achieved and the exciting steps we're planning to take as we refine our vision and deliver impactful value"]}
                     doneItems={[
                         {
-                            title: "Market Research",
-                            descriptions: ["Analysis of event decoration trends.", "Identification of client needs and expectations.", "Competitive analysis to identify opportunities."]
+                            title: "Market and Competitor Research",
+                            descriptions: ["Conducted in-depth analysis of market trends and competitors to identify opportunities."]
                         }, {
-                            title: "‍Pricing Study",
-                            descriptions: ["Definition of a competitive pricing strategy.", "Cost and margin analysis for each service and product."]
+                            title: "‍‍Business Model Canvas",
+                            descriptions: ["Defined the business model, value proposition, and revenue streams."]
                         }, {
-                            title: "‍Marketing and Branding Strategy",
-                            descriptions: ["Definition of the visual identity and core values of the brand.", "Planning of photo sessions to create an attractive portfolio.", "Selection of a photo style that reflects Ferya's elegance and creativity."]
+                            title: "‍‍Persona Analysis",
+                            descriptions: ["Identified and analyzed target user personas to better understand their needs and pain points."]
                         }, {
-                            title: "‍Supplier Research",
-                            descriptions: ["Identification and selection of reliable suppliers for materials and products.", "Negotiation of contracts and supply terms."]
+                            title: "‍‍Problem and Opportunity Identification",
+                            descriptions: ["Pinpointed key problems and opportunities in the market."]
                         }, {
-                            title: "‍Product Offering Development",
-                            descriptions: ["Selection of items to sell (e.g., wedding menus, cake toppers for birthdays, centerpieces, etc.).", "Creation of prototypes and testing with a target audience."]
+                            title: "‍‍Vision and Value Proposition",
+                            descriptions: ["Established a clear vision and defined the unique value The Link brings to its users."]
                         }
                     ]}
                     todoItems={
                         [{
-                            title: "Launch of the Online Platform",
-                            descriptions: ["Development of a user-friendly and responsive e-commerce website.", "Integration of a secure booking and payment system."]
+                            title: "User Feedback Form",
+                            descriptions: ["Develop and deploy a feedback form to gather insights on real user problems and validate our solution."]
                         }, {
-                            title: "‍Launch Campaign",
-                            descriptions: ["Planning and execution of a digital marketing campaign (social media, targeted ads, etc.).", "Collaboration with influencers and partners to increase visibility."]
+                            title: "‍‍Solution Adaptation",
+                            descriptions: ["Analyze feedback to adapt and refine our solution to better meet user needs."]
                         }, {
-                            title: "‍Expansion of Offerings",
-                            descriptions: ["Addition of new products and services based on customer feedback.", "Exploration of collaborations with local event planners and vendors."]
+                            title: "‍Prototype Testing",
+                            descriptions: ["Test the updated solution with a target audience to ensure it effectively addresses identified problems."]
                         }, {
-                            title: "Operations Optimization",
-                            descriptions: ["Implementation of a stock and order management system.", "Automation of administrative processes to improve efficiency."]
+                            title: "‍Partnership Exploration",
+                            descriptions: ["Explore collaborations with industry partners to enhance the platform's reach and impact."]
                         }, {
-                            title: "‍Customer Experience",
-                            descriptions: ["Creation of customized packages to meet specific client needs.", "Implementation of a feedback system to continuously improve services."]
+                            title: "‍Roadmap Refinement",
+                            descriptions: ["Continuously refine the product roadmap based on user feedback and market trends."]
                         }
                         ]}
                 />
