@@ -17,7 +17,7 @@ import Skills from "./skills/Skills";
 import SplashScreen from "./splashScreen/SplashScreen";
 import StartupProject from "./StartupProjects/StartupProject";
 import Talks from "./talks/Talks";
-import ScrollToTopButton from "./topbutton/Top";
+import { Top } from "./topbutton/Top";
 import WorkExperience from "./workExperience/WorkExperience";
 
 const Main = () => {
@@ -63,7 +63,7 @@ const Main = () => {
             <Podcast />
             <Profile />
             <Footer />
-            <ScrollToTopButton />
+            <Top />
           </>
         )}
       </StyleProvider>

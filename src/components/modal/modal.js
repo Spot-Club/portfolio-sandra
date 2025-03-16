@@ -1,4 +1,5 @@
 import { useEffect, useRef } from "react";
+import { scrollFunction } from "../../containers/topbutton/Top";
 import "./modal.scss";
 
 function useEscape(callback, disableCallback = false) {
@@ -17,10 +18,20 @@ export function Modal({ visible, onClose, children, className = "" }) {
     const elementRef = useRef();
     useEscape(onClose, !visible);
     const handleOnBackDropClick = (e) => {
+        e.preventDefault();
         if (e.target.id === "backdrop") {
             onClose();
         }
     };
+
+    useEffect(() => {
+        scrollFunction();
+        if (visible) {
+            document.body.style.overflow = "hidden";
+        } else {
+            document.body.style.overflow = "auto";
+        }
+    }, [visible]);
 
     if (!visible) return <></>;
     return (

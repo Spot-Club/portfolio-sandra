@@ -18,8 +18,10 @@ const ModalContent = ({ title, contentTabs }) => {
         </div>
 
         <div className="tab-divider"></div>
+        <div className="modal-content-section">
 
-        {contentTabs[activeTab].content}
+            {contentTabs[activeTab].content}
+        </div>
     </div >;
 };
 
