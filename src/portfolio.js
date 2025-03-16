@@ -4,6 +4,7 @@
 
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
+import Ruse from "./containers/ruse/Ruse";
 
 // Splash Screen
 
@@ -179,12 +180,10 @@ const educationInfo = {
       logo: require("./assets/images/udemLogo.webp"), 
       subHeader: "Bachelor of Biomedical Sciences",
       duration: "September 2014 - April 2017", 
-      desc: "Developed strong analytical, problem-solving, and research skills through a multidisciplinary program focused on human biology and health sciences. These skills are highly transferable to product management, particularly in understanding complex systems, data-driven decision-making, and user-centric solutions.",
+      desc: "Developed analytical and problem-solving skills through the study of complex biological systems and research projects.",
       descBullets: [
-          "Gained expertise in analyzing complex biological systems, a skill that translates to breaking down intricate product challenges and identifying root causes.",
-          "Conducted research projects requiring critical thinking, hypothesis testing, and data interpretation, fostering a structured approach to problem-solving.",
-          "Collaborated in multidisciplinary teams, enhancing communication and teamwork skills essential for cross-functional collaboration in product development.",
-          "Developed a user-centric mindset by studying human biology, which aligns with creating products that address real user needs and pain points."
+        "Gained expertise in analyzing complex systems, translating to breaking down intricate product challenges and identifying root causes.",
+        "Conducted research requiring critical thinking, hypothesis testing, and data interpretation, fostering a structured problem-solving approach."
       ]
     }
   ]
@@ -269,6 +268,14 @@ const workExperiences = {
         "Designed user interfaces with ReactJS, TypeScript, and MaterialUI.",
         "Implemented asynchronous communication with an event-driven system."
       ],
+      footerLink: [
+        {
+          isHyperlink: false,
+          name: "More",
+          component: <Ruse />
+        }
+        //  you can add extra buttons here.
+      ]
     }
   ]
 };
