@@ -311,6 +311,19 @@ const achievementSection = {
         // }
       ]
     },
+    {
+      title: "Project Management Professional (PMP)®",
+      subtitle: "Ongoing Certifcation from Project Management Institute for PMP",
+      image: require("./assets/images/pmp.png"),
+      imageAlt: "PWA Logo",
+      footerLink: [
+        { name: "Certification", url: "" },
+        // {
+        //   name: "Final Project",
+        //   url: "https://pakistan-olx-1.firebaseapp.com/"
+        // }
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
