@@ -37,6 +37,10 @@
   text-transform: capitalize;
 }
 
+.modal-tab:hover {
+  background: $buttonHover;
+}
+
 .modal-tab-active {
   background-color: $buttonColor;
   color: $textColorDark;
