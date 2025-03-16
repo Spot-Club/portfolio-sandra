@@ -20,6 +20,10 @@
   box-shadow: $lightBoxShadowDark 0px 20px 30px -10px;
 }
 
+span.experience-tag:hover {
+  background: $buttonHover !important;
+}
+
 .experience-banner {
   background-position: center;
   background-repeat: no-repeat;

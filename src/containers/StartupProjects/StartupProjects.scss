@@ -1,5 +1,9 @@
 @import "../../_globalColor";
 
+span.project-tag:hover {
+  background: $buttonHover !important;
+}
+
 .card-image {
   max-width: 100%;
   height: auto;
