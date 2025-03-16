@@ -1,5 +1,5 @@
 import React from "react";
-import { ListTabContent, ModalContent, RoadmapTabContent, TextTabContent, TimelineTabContent } from "../../components/modalContent/ModalContent";
+import { ListTabContent, ModalContent, TextTabContent, TimelineTabContent } from "../../components/modalContent/ModalContent";
 import "./Genetec.scss";
 
 const Genetec = () => {
