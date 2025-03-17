@@ -1,12 +1,14 @@
-import React, {useContext} from "react";
-import "./Talks.scss";
+import React, { useContext } from "react";
+import { Fade } from "react-reveal";
 import TalkCard from "../../components/talkCard/TalkCard";
-import {talkSection} from "../../portfolio";
-import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
+import { usePortfolio } from "../../portfolio";
+import "./Talks.scss";
 
 export default function Talks() {
-  const {isDark} = useContext(StyleContext);
+  const { talkSection } = usePortfolio();
+
+  const { isDark } = useContext(StyleContext);
   if (!talkSection.display) {
     return null;
   }

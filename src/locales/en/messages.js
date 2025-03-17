@@ -1,0 +1,1 @@
+/*eslint-disable*/module.exports={messages:JSON.parse("{\"e36FK4\":[\"Establish a Unique Value Proposition\"],\"/DgYS5\":[\"Hi there! I'm Sandra\"],\"PCSkw2\":[\"Skills\"]}")};

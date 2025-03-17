@@ -1,21 +1,25 @@
-import React, {useContext} from "react";
+import { t } from "@lingui/core/macro";
+import React, { useContext } from "react";
 import Headroom from "react-headroom";
-import "./Header.scss";
-import ToggleSwitch from "../ToggleSwitch/ToggleSwitch";
 import StyleContext from "../../contexts/StyleContext";
 import {
-  greeting,
-  workExperiences,
-  skillsSection,
-  openSource,
-  blogSection,
-  talkSection,
-  achievementSection,
-  resumeSection
+  usePortfolio
 } from "../../portfolio";
+import LanguageSwitch from "../LanguageSwitch/LanguageSwitch";
+import ToggleSwitch from "../ToggleSwitch/ToggleSwitch";
+import "./Header.scss";
 
 function Header() {
-  const {isDark} = useContext(StyleContext);
+  const { greeting,
+    workExperiences,
+    skillsSection,
+    openSource,
+    blogSection,
+    talkSection,
+    achievementSection,
+    resumeSection
+  } = usePortfolio();
+  const { isDark } = useContext(StyleContext);
   const viewExperience = workExperiences.display;
   const viewOpenSource = openSource.display;
   const viewSkills = skillsSection.display;
@@ -36,14 +40,14 @@ function Header() {
         <label
           className="menu-icon"
           htmlFor="menu-btn"
-          style={{color: "white"}}
+          style={{ color: "white" }}
         >
           <span className={isDark ? "navicon navicon-dark" : "navicon"}></span>
         </label>
         <ul className={isDark ? "dark-menu menu" : "menu"}>
           {viewSkills && (
             <li>
-              <a href="#skills">Skills</a>
+              <a href="#skills">{t`Skills`}</a>
             </li>
           )}
           {viewExperience && (
@@ -80,10 +84,14 @@ function Header() {
             <a href="#contact">Contact Me</a>
           </li>
           <li>
-            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-            <a>
+            <div>
               <ToggleSwitch />
-            </a>
+            </div>
+          </li>
+          <li>
+            <div>
+              <LanguageSwitch />
+            </div>
           </li>
         </ul>
       </header>

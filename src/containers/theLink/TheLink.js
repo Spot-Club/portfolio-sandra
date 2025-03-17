@@ -1,3 +1,4 @@
+import { t } from "@lingui/core/macro";
 import React from "react";
 import { ListTabContent, ModalContent, RoadmapTabContent, TextTabContent, TimelineTabContent } from "../../components/modalContent/ModalContent";
 import "./TheLink.scss";
@@ -13,7 +14,7 @@ const TheLink = () => {
                 <ListTabContent
                     description={["My primary objectives for The Link by Evolvia are to establish a strong product-market fit, deliver a solution that exceeds user expectations, and position the product as a leader in its space. I aim to create a scalable and sustainable platform that not only addresses current market needs but also anticipates future trends. By fostering innovation, collaboration, and continuous improvement, I strive to ensure the product’s long-term success and impact."]}
                     items={[{
-                        title: "Establish a Unique Value Proposition",
+                        title: t`Establish a Unique Value Proposition`,
                         descriptions: ["Define a clear and compelling value proposition that differentiates The Link by Evolvia in the market."],
                     }, {
                         title: "Deliver a User-Centric Solution",

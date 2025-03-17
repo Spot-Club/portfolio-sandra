@@ -2,10 +2,11 @@ import React from "react";
 import "./App.scss";
 import Main from "./containers/Main";
 
-function App() {
+
+const App = ({ language, setLanguage }) => {
   return (
     <div>
-      <Main />
+      <Main language={language} setLanguage={setLanguage} />
     </div>
   );
 }

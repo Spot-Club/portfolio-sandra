@@ -1,19 +1,21 @@
-import React, {useContext} from "react";
-import {Fade} from "react-reveal";
+import React, { useContext } from "react";
 import emoji from "react-easy-emoji";
-import "./Greeting.scss";
+import { Fade } from "react-reveal";
 import landingPerson from "../../assets/lottie/landingPerson";
+import Button from "../../components/button/Button";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
-import Button from "../../components/button/Button";
-import {illustration, greeting} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
+import { usePortfolio } from "../../portfolio";
+import "./Greeting.scss";
 
 export default function Greeting() {
-  const {isDark} = useContext(StyleContext);
+  const { greeting, illustration } = usePortfolio();
+  const { isDark } = useContext(StyleContext);
   if (!greeting.displayGreeting) {
     return null;
   }
+
   return (
     <Fade bottom duration={1000} distance="40px">
       <div className="greet-main" id="greeting">
