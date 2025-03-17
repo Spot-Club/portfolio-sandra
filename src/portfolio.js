@@ -6,8 +6,10 @@
 import { useLingui } from "@lingui/react/macro";
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
+import FeryaEventDecor from "./containers/ferya/FeryaEventDecor";
 import Genetec from "./containers/genetec/Genetec";
 import Recursyve from "./containers/recursyve/Recursyve";
+import TheLink from "./containers/theLink/TheLink";
 
 // Social Media Links
 
@@ -303,6 +305,53 @@ const usePortfolio = () => {
     display: false // Set false to hide this section, defaults to true
   };
 
+  const bigProjects = {
+    title: "Projects",
+    subtitle: "INNOVATIVE INITIATIVES I'VE SHAPED FROM CONCEPT TO EXECUTION",
+    projects: [
+      {
+        image: require("./assets/images/ferya.jpg"),
+        projectName: "Ferya Event Decor & Design",
+        role: "Co-Founder & Product Manager",
+        date: "September 2024 – Ongoing",
+        projectDesc: "Co-founded and developed a unique event decoration brand, defining its identity, business strategy, and client-focused solutions. Managed the product side, including service design, pricing strategies, and customer experience optimization.",
+        footerLink: [
+          {
+            isHyperlink: true,
+            name: "Visit Instagram",
+            url: "https://www.instagram.com/ferya.eventdecor?igsh=YTRvdDlpY2hocXM5"
+          },
+          {
+            isHyperlink: false,
+            name: "More",
+            component: <FeryaEventDecor />
+          }
+          //  you can add extra buttons here.
+        ]
+      },
+      {
+        image: require("./assets/images/theLink.jpeg"),
+        projectName: "The Link",
+        role: "Product Manager",
+        date: "February 2025 – Ongoing",
+        projectDesc: "Contributed to an innovative stealth project aimed at transforming entrepreneurship through a scalable, user-centric platform. Managed the product side, including feature prioritization, user research, and roadmap development to align with business goals.",
+        footerLink: [
+          {
+            isHyperlink: true,
+            name: "Visit Website",
+            url: "https://the-link.ca/"
+          },
+          {
+            isHyperlink: false,
+            name: "More",
+            component: <TheLink />
+          }
+        ]
+      }
+    ],
+    display: true // Set false to hide this section, defaults to true
+  };
+
 
   // Achievement Section
   // Include certificates, talks etc
@@ -482,7 +531,7 @@ const usePortfolio = () => {
   const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
   return {
-    achievementSection, blogSection, contactInfo, educationInfo, greeting, illustration, isHireable, openSource, podcastSection, resumeSection, skillsSection,
+    achievementSection, blogSection, bigProjects, contactInfo, educationInfo, greeting, illustration, isHireable, openSource, podcastSection, resumeSection, skillsSection,
     splashScreen, talkSection, techStack, twitterDetails, workExperiences
   }
 }
