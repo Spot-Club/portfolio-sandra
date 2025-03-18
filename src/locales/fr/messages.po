@@ -218,6 +218,10 @@ msgstr "Animation de réunions clients pour définir et affiner les exigences ap
 msgid "Looking to hire or discuss a project? Let's connect and explore how I can add value to your team or initiative!"
 msgstr "Vous cherchez à recruter ou à discuter d'un projet ? Contactez-moi pour explorer comment je peux apporter de la valeur à votre équipe ou initiative !"
 
+#: src/components/footer/Footer.js:16
+msgid "Made with ❤️ by DeveloperFolio Team | Adapted by Your Next Product Owner "
+msgstr "Fait avec ❤️ par l'équipe DeveloperFolio | Adapté par Votre Futur Product Owner"
+
 #: src/portfolio.js:202
 msgid "Managed NoSQL databases such as MongoDB and ElasticSearch."
 msgstr "Gestion de bases de données NoSQL telles que MongoDB et ElasticSearch."
@@ -324,6 +328,10 @@ msgstr "Communication et collaboration avec les parties prenantes"
 #: src/portfolio.js:252
 msgid "The Link"
 msgstr "The Link"
+
+#: src/components/footer/Footer.js:19
+msgid "Theme by"
+msgstr "Thème par"
 
 #: src/portfolio.js:165
 msgid "Translated customer needs into Stories and sub-tasks within the Backlog."

@@ -214,6 +214,10 @@ msgstr "Led client meetings to define and refine application requirements."
 msgid "Looking to hire or discuss a project? Let's connect and explore how I can add value to your team or initiative!"
 msgstr "Looking to hire or discuss a project? Let's connect and explore how I can add value to your team or initiative!"
 
+#: src/components/footer/Footer.js:16
+msgid "Made with ❤️ by DeveloperFolio Team | Adapted by Your Next Product Owner "
+msgstr "Made with ❤️ by DeveloperFolio Team | Adapted by Your Next Product Owner "
+
 #: src/portfolio.js:202
 msgid "Managed NoSQL databases such as MongoDB and ElasticSearch."
 msgstr "Managed NoSQL databases such as MongoDB and ElasticSearch."
@@ -320,6 +324,10 @@ msgstr "Stakeholder Communication & Collaboration"
 #: src/portfolio.js:252
 msgid "The Link"
 msgstr "The Link"
+
+#: src/components/footer/Footer.js:19
+msgid "Theme by"
+msgstr "Theme by"
 
 #: src/portfolio.js:165
 msgid "Translated customer needs into Stories and sub-tasks within the Backlog."
