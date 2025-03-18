@@ -98,6 +98,10 @@ msgstr "Completed Certifcation from Scrum Alliance for CSPO"
 msgid "Conducted research requiring critical thinking, hypothesis testing, and data interpretation, fostering a structured problem-solving approach."
 msgstr "Conducted research requiring critical thinking, hypothesis testing, and data interpretation, fostering a structured problem-solving approach."
 
+#: src/containers/greeting/Greeting.js:46
+msgid "Contact me"
+msgstr "Contact me"
+
 #: src/portfolio.js:379
 msgid "Contact Me ☎️"
 msgstr "Contact Me ☎️"
@@ -133,6 +137,10 @@ msgstr "Developed microservices using C# and ASP.NET."
 #: src/portfolio.js:114
 msgid "Developed practical skills in web development, operating systems, and software security through coursework and team projects."
 msgstr "Developed practical skills in web development, operating systems, and software security through coursework and team projects."
+
+#: src/containers/greeting/Greeting.js:53
+msgid "Download my resume"
+msgstr "Download my resume"
 
 #: src/portfolio.js:198
 msgid "Enhanced meeting efficiency by implementing structured agendas and time management techniques."

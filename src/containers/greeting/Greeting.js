@@ -7,11 +7,13 @@ import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import StyleContext from "../../contexts/StyleContext";
 import { usePortfolio } from "../../portfolio";
+import { useLingui } from "@lingui/react/macro";
 import "./Greeting.scss";
 
 export default function Greeting() {
   const { greeting, illustration } = usePortfolio();
   const { isDark } = useContext(StyleContext);
+  const { t } = useLingui();
   if (!greeting.displayGreeting) {
     return null;
   }
@@ -41,14 +43,14 @@ export default function Greeting() {
               <div id="resume" className="empty-div"></div>
               <SocialMedia />
               <div className="button-greeting-div">
-                <Button text="Contact me" href="#contact" />
+                <Button text={t`Contact me`} href="#contact" />
                 {greeting.resumeLink && (
                   <a
                     href={require("./resume.pdf")}
                     download="Resume.pdf"
                     className="download-link-button"
                   >
-                    <Button text="Download my resume" />
+                    <Button text={t`Download my resume`} />
                   </a>
                 )}
               </div>
