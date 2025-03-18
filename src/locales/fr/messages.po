@@ -53,13 +53,25 @@ msgstr "Acquisition de compétences avancées en gestion stratégique, leadershi
 msgid "Agile & Scrum Methodologies"
 msgstr "Méthodologies Agile et Scrum"
 
+#: src/containers/genetec/Genetec.js:41
+msgid "Agile Development"
+msgstr "Développement Agile"
+
 #: src/containers/recursyve/Recursyve.js:57
 msgid "AI-powered analysis tailored to each player’s style and skill level."
 msgstr "Analyse basée sur l'IA, adaptée au style et au niveau de compétence de chaque joueur."
 
+#: src/containers/genetec/Genetec.js:10
+msgid "Another challenge was adapting to the fast-paced environment of a large-scale project, where priorities and requirements often evolved rapidly. This demanded flexibility, quick decision-making, and a focus on delivering high-quality results under tight deadlines. Despite these hurdles, the experience has been incredibly enriching. I’ve deepened my expertise in secure software development, learned to navigate complex technical and organizational challenges, and contributed to building a product that enhances security operations for organizations worldwide."
+msgstr "Un autre défi était de s'adapter à l'environnement rapide d'un projet à grande échelle, où les priorités et les exigences évoluaient souvent rapidement. Cela exigeait de la flexibilité, une prise de décision rapide et une concentration sur la livraison de résultats de haute qualité dans des délais serrés. Malgré ces obstacles, l'expérience a été incroyablement enrichissante. J'ai approfondi mon expertise en développement logiciel sécurisé, appris à naviguer dans des défis techniques et organisationnels complexes, et contribué à la création d'un produit qui améliore les opérations de sécurité pour les organisations du monde entier."
+
 #: src/portfolio.js:103
 msgid "Applied theoretical knowledge to real-world business challenges through case studies and collaborative projects."
 msgstr "Application des connaissances théoriques à des défis business réels à travers des études de cas et des projets collaboratifs."
+
+#: src/containers/genetec/Genetec.js:9
+msgid "As a C# Developer on the ClearID team, I contributed to the development and enhancement of the platform’s core functionalities. My responsibilities included designing and implementing backend systems, integrating secure protocols, and optimizing performance to deliver a seamless user experience. I collaborated closely with cross-functional teams, including UI/UX designers, security experts, and QA engineers, to transform complex requirements into efficient and scalable code. Additionally, I played a role in troubleshooting, performance optimization, and ensuring the platform met the highest standards of security and reliability."
+msgstr "En tant que développeur C# dans l'équipe ClearID, j'ai contribué au développement et à l'amélioration des fonctionnalités principales de la plateforme. Mes responsabilités incluaient la conception et la mise en œuvre de systèmes backend, l'intégration de protocoles sécurisés et l'optimisation des performances pour offrir une expérience utilisateur fluide. J'ai collaboré étroitement avec des équipes interfonctionnelles, incluant des designers UI/UX, des experts en sécurité et des ingénieurs QA, pour transformer des exigences complexes en code efficace et évolutif. De plus, j'ai joué un rôle dans le dépannage, l'optimisation des performances et la garantie que la plateforme répondait aux normes les plus élevées de sécurité et de fiabilité."
 
 #: src/containers/recursyve/Recursyve.js:10
 msgid "As the Project Manager for Ruse, I was responsible for turning a bold vision into reality. My role required me to wear multiple hats, from strategist to problem-solver, while keeping the team motivated and focused."
@@ -94,7 +106,12 @@ msgstr "Blogs"
 msgid "Broke down the project into sprints, enabling continuous feedback and improvement throughout the development process."
 msgstr "J'ai divisé le projet en sprints, permettant un retour continu et des améliorations tout au long du processus de développement."
 
+#: src/containers/genetec/Genetec.js:27
+msgid "Build a system capable of handling growing user demands and organizational complexity."
+msgstr "Construire un système capable de gérer des demandes croissantes des utilisateurs et une complexité organisationnelle."
+
 #: src/portfolio.js:192
+#: src/containers/genetec/Genetec.js:10
 msgid "C# Developer"
 msgstr "Développeuse C#"
 
@@ -115,6 +132,10 @@ msgstr "Certifications 🏆"
 msgid "Certified Scrum Product Owner® "
 msgstr "Scrum Product Owner Certification (CSPO)"
 
+#: src/containers/genetec/Genetec.js:8
+msgid "ClearID by Genetec is an advanced identity and access management solution designed to streamline and secure operations for organizations. As part of the Genetec ecosystem, ClearID focuses on providing a robust platform that simplifies identity verification, enhances security, and integrates seamlessly with existing systems. The project aims to deliver a reliable, scalable, and user-friendly solution that meets the evolving needs of modern security operations."
+msgstr "ClearID par Genetec est une solution avancée de gestion des identités et des accès conçue pour rationaliser et sécuriser les opérations des organisations. Faisant partie de l'écosystème Genetec, ClearID se concentre sur la fourniture d'une plateforme robuste qui simplifie la vérification des identités, améliore la sécurité et s'intègre de manière transparente aux systèmes existants. Le projet vise à fournir une solution fiable, évolutive et conviviale qui répond aux besoins changeants des opérations de sécurité modernes."
+
 #: src/portfolio.js:235
 msgid "Co-founded and developed a unique event decoration brand, defining its identity, business strategy, and client-focused solutions. Managed the product side, including service design, pricing strategies, and customer experience optimization."
 msgstr "Co-fondation et développement d'une marque unique de décoration d'événements, en définissant son identité, sa stratégie business et des solutions centrées sur le client. Gestion du côté produit, incluant la conception des services, les stratégies de tarification et l'optimisation de l'expérience client."
@@ -122,6 +143,10 @@ msgstr "Co-fondation et développement d'une marque unique de décoration d'év�
 #: src/portfolio.js:233
 msgid "Co-Founder & Product Manager"
 msgstr "Co-fondatrice & Product Manager"
+
+#: src/containers/genetec/Genetec.js:17
+msgid "Collaborate Effectively"
+msgstr "Collaborer efficacement"
 
 #: src/containers/recursyve/Recursyve.js:35
 msgid "Collaborative Planning"
@@ -151,9 +176,17 @@ msgstr "Contactez-moi"
 msgid "Contact Me ☎️"
 msgstr "Contactez-moi ☎️"
 
+#: src/containers/genetec/Genetec.js:50
+msgid "Continuous Learning"
+msgstr "Apprentissage continu"
+
 #: src/portfolio.js:186
 msgid "Contributed to the development of a generic data transformation solution (ETL)."
 msgstr "Contribution au développement d'une solution générique de transformation de données (ETL)."
+
+#: src/containers/genetec/Genetec.js:30
+msgid "Create a high-performance application that delivers a seamless user experience."
+msgstr "Créer une application haute performance offrant une expérience utilisateur fluide."
 
 #: src/containers/recursyve/Recursyve.js:27
 msgid "Create an intuitive and engaging experience tailored to poker players' needs."
@@ -171,9 +204,17 @@ msgstr "D.E.S.S. en Gestion"
 msgid "Deliver a platform that truly helps players improve their skills and performance."
 msgstr "Livrer une plateforme qui aide réellement les joueurs à améliorer leurs compétences et leurs performances."
 
+#: src/containers/genetec/Genetec.js:23
+msgid "Deliver a Secure Solution"
+msgstr "Fournir une solution sécurisée"
+
 #: src/portfolio.js:203
 msgid "Designed user interfaces with ReactJS, TypeScript, and MaterialUI."
 msgstr "Conception d'interfaces utilisateur avec ReactJS, TypeScript et MaterialUI."
+
+#: src/containers/genetec/Genetec.js:24
+msgid "Develop a platform that prioritizes security and compliance with industry standards."
+msgstr "Développer une plateforme qui priorise la sécurité et la conformité aux normes de l'industrie."
 
 #: src/portfolio.js:122
 msgid "Developed analytical and problem-solving skills through the study of complex biological systems and research projects."
@@ -203,6 +244,14 @@ msgstr "Télécharger mon CV"
 msgid "Easy-to-understand tips and strategies, avoiding unnecessary complexity."
 msgstr "Conseils et stratégies faciles à comprendre, évitant toute complexité inutile."
 
+#: src/containers/genetec/Genetec.js:45
+msgid "Embed security best practices into every aspect of development to ensure a robust and reliable platform."
+msgstr "Intégrer les meilleures pratiques de sécurité dans chaque aspect du développement pour garantir une plateforme robuste et fiable."
+
+#: src/containers/genetec/Genetec.js:20
+msgid "Enhance User Experience"
+msgstr "Améliorer l'expérience utilisateur"
+
 #: src/containers/recursyve/Recursyve.js:17
 msgid "Enhance User Value"
 msgstr "Améliorer la valeur pour l'utilisateur"
@@ -210,6 +259,10 @@ msgstr "Améliorer la valeur pour l'utilisateur"
 #: src/portfolio.js:198
 msgid "Enhanced meeting efficiency by implementing structured agendas and time management techniques."
 msgstr "Amélioration de l'efficacité des réunions grâce à la mise en place d'ordres du jour structurés et de techniques de gestion du temps."
+
+#: src/containers/genetec/Genetec.js:26
+msgid "Ensure Scalability"
+msgstr "Assurer l'évolutivité"
 
 #: src/containers/recursyve/Recursyve.js:26
 msgid "Ensure User-Centric Design"
@@ -242,6 +295,14 @@ msgstr "N'hésitez pas à télécharger mon CV"
 #: src/portfolio.js:232
 msgid "Ferya Event Decor & Design"
 msgstr "Ferya, Décoration et design d'évènements"
+
+#: src/containers/genetec/Genetec.js:21
+msgid "Focus on intuitive design and functionality to ensure the platform is easy to use and meets user needs."
+msgstr "Se concentrer sur une conception intuitive et une fonctionnalité pour garantir que la plateforme est facile à utiliser et répond aux besoins des utilisateurs."
+
+#: src/containers/genetec/Genetec.js:48
+msgid "Foster open communication and teamwork to address challenges, share knowledge, and achieve shared goals."
+msgstr "Favoriser une communication ouverte et le travail d'équipe pour relever les défis, partager les connaissances et atteindre des objectifs communs."
 
 #: src/containers/recursyve/Recursyve.js:42
 msgid "Fostered collaboration between developers, designers, and the product owner to align on priorities and ensure seamless execution."
@@ -295,6 +356,10 @@ msgstr "Développement itératif"
 msgid "January 2023 – August 2024"
 msgstr "Janvier 2023 – Août 2024"
 
+#: src/containers/genetec/Genetec.js:10
+msgid "January 2023 — August 2024"
+msgstr "Janvier 2023 — Août 2024"
+
 #: src/portfolio.js:180
 msgid "Java Backend Developer"
 msgstr "Développeuse Backend Java"
@@ -335,18 +400,30 @@ msgid "More"
 msgstr "Plus"
 
 #: src/containers/recursyve/Recursyve.js:31
+#: src/containers/genetec/Genetec.js:34
 msgid "My approach"
 msgstr "Mon approche"
 
+#: src/containers/genetec/Genetec.js:36
+msgid "My approach is rooted in collaboration and precision. I believe in working closely with teams to understand requirements, solve problems, and deliver solutions that align with both technical and business objectives. By embracing agile methodologies and a user-first mindset, I ensure the platform is both secure and intuitive."
+msgstr "Mon approche est ancrée dans la collaboration et la précision. Je crois en un travail étroit avec les équipes pour comprendre les exigences, résoudre les problèmes et fournir des solutions alignées sur les objectifs techniques et business. En adoptant des méthodologies agiles et un état d'esprit centré sur l'utilisateur, je m'assure que la plateforme est à la fois sécurisée et intuitive."
+
 #: src/containers/recursyve/Recursyve.js:9
+#: src/containers/genetec/Genetec.js:9
 msgid "My Contributions"
 msgstr "Mes contributions"
 
 #: src/containers/recursyve/Recursyve.js:10
+#: src/containers/genetec/Genetec.js:10
 msgid "My Experience"
 msgstr "Mon expérience"
 
+#: src/containers/genetec/Genetec.js:15
+msgid "My primary objectives for ClearID were to deliver a secure, scalable, and user-friendly identity management platform that meets the evolving needs of organizations. I aimed to ensure the platform’s reliability, performance, and compliance with industry standards while driving continuous improvement."
+msgstr "Mes principaux objectifs pour ClearID étaient de fournir une plateforme de gestion des identités sécurisée, évolutive et conviviale qui répond aux besoins changeants des organisations. Je visais à garantir la fiabilité, les performances et la conformité de la plateforme aux normes de l'industrie tout en favorisant une amélioration continue."
+
 #: src/containers/recursyve/Recursyve.js:12
+#: src/containers/genetec/Genetec.js:12
 msgid "Objectives"
 msgstr "Objectifs"
 
@@ -365,6 +442,10 @@ msgstr "Certification en cours auprès du Project Management Institute pour PMP"
 #: src/components/header/Header.js:61
 msgid "Open Source"
 msgstr "Open Source"
+
+#: src/containers/genetec/Genetec.js:29
+msgid "Optimize Performance"
+msgstr "Optimiser les performances"
 
 #: src/portfolio.js:167
 msgid "Optimized development processes through creation and improvement initiatives."
@@ -385,6 +466,10 @@ msgstr "Analyses personnalisées"
 #: src/portfolio.js:107
 msgid "Polytechnique Montreal"
 msgstr "Polytechnique Montréal"
+
+#: src/containers/genetec/Genetec.js:39
+msgid "Prioritize user needs to create an intuitive and efficient platform."
+msgstr "Prioriser les besoins des utilisateurs pour créer une plateforme intuitive et efficace."
 
 #: src/containers/recursyve/Recursyve.js:45
 msgid "Proactively identified and mitigated risks to keep the project on track and within scope."
@@ -412,6 +497,7 @@ msgid "Project Manager"
 msgstr "Gestionnaire de projet"
 
 #: src/containers/recursyve/Recursyve.js:8
+#: src/containers/genetec/Genetec.js:8
 msgid "Project Overview"
 msgstr "perçu du projet"
 
@@ -460,6 +546,10 @@ msgstr "Ruse est une plateforme innovante alimentée par l'IA, conçue pour comb
 msgid "Ruse was designed to address the shortcomings of existing poker tools by offering the following key features"
 msgstr "Ruse a été conçu pour pallier les lacunes des outils de poker existants en offrant les fonctionnalités clés suivantes"
 
+#: src/containers/genetec/Genetec.js:44
+msgid "Security-Focused Design"
+msgstr "Conception axée sur la sécurité"
+
 #: src/portfolio.js:121
 msgid "September 2014 - April 2017"
 msgstr "Septembre 2014 - Avril 2017"
@@ -500,9 +590,17 @@ msgstr "Compétences"
 msgid "Stakeholder Communication & Collaboration"
 msgstr "Communication et collaboration avec les parties prenantes"
 
+#: src/containers/genetec/Genetec.js:51
+msgid "Stay updated on industry trends and technologies to drive innovation."
+msgstr "Rester à jour sur les tendances et technologies de l'industrie pour stimuler l'innovation."
+
 #: src/components/header/Header.js:76
 msgid "Talks"
 msgstr "Conférences"
+
+#: src/containers/genetec/Genetec.js:47
+msgid "Team Collaboration"
+msgstr "Collaboration d'équipe"
 
 #: src/portfolio.js:252
 msgid "The Link"
@@ -532,9 +630,17 @@ msgstr "Traduction des besoins clients en Stories et sous-tâches dans le Backlo
 msgid "University of Montreal"
 msgstr "Université de Montréal"
 
+#: src/containers/genetec/Genetec.js:42
+msgid "Use agile practices to break down tasks, deliver incremental improvements, and adapt quickly to changing requirements."
+msgstr "Utiliser des pratiques agiles pour décomposer les tâches, livrer des améliorations incrémentielles et s'adapter rapidement aux exigences changeantes."
+
 #: src/containers/recursyve/Recursyve.js:47
 msgid "User Feedback Integration"
 msgstr "Intégration des retours utilisateurs"
+
+#: src/containers/genetec/Genetec.js:38
+msgid "User-First Mindset"
+msgstr "État d'esprit centré sur l'utilisateur"
 
 #: src/portfolio.js:280
 msgid "Validating my expertise and commitment to continuous learning"
@@ -556,6 +662,10 @@ msgstr "Ce que je fais"
 msgid "With Love for Developing cool stuff, I love to write and teach others what I have learnt."
 msgstr "Avec une passion pour le développement de choses cool, j'adore écrire et partager ce que j'ai appris."
 
+#: src/containers/genetec/Genetec.js:18
+msgid "Work closely with cross-functional teams to align technical solutions with business goals."
+msgstr "Travailler en étroite collaboration avec des équipes interfonctionnelles pour aligner les solutions techniques sur les objectifs business."
+
 #: src/components/header/Header.js:56
 msgid "Work Experiences"
 msgstr "Expériences professionnelles"
@@ -563,3 +673,7 @@ msgstr "Expériences professionnelles"
 #: src/containers/recursyve/Recursyve.js:36
 msgid "Worked closely with stakeholders to define clear objectives and deliverables, ensuring alignment with business goals and user needs."
 msgstr "J'ai travaillé en étroite collaboration avec les parties prenantes pour définir des objectifs et des livrables clairs, en m'assurant qu'ils étaient alignés sur les objectifs business et les besoins des utilisateurs."
+
+#: src/containers/genetec/Genetec.js:10
+msgid "Working on ClearID has been both challenging and rewarding. One of the main challenges was developing a secure and scalable identity management system capable of handling diverse organizational needs while maintaining high performance. Balancing the technical complexity of security protocols with user-friendly functionality required innovative problem-solving and close collaboration with the team."
+msgstr "Travailler sur ClearID a été à la fois stimulant et gratifiant. L'un des principaux défis était de développer un système de gestion des identités sécurisé et évolutif capable de répondre aux divers besoins organisationnels tout en maintenant des performances élevées. Équilibrer la complexité technique des protocoles de sécurité avec une fonctionnalité conviviale nécessitait une résolution de problèmes innovante et une collaboration étroite avec l'équipe."
