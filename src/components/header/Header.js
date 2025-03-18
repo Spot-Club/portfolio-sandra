@@ -28,6 +28,7 @@ function Header() {
   const viewTalks = talkSection.display;
   const viewResume = resumeSection.display;
 
+
   return (
     <Headroom>
       <header className={isDark ? "dark-menu header noselect" : "header noselect"}>
@@ -52,36 +53,36 @@ function Header() {
           )}
           {viewExperience && (
             <li>
-              <a href="#experience">Work Experiences</a>
+              <a href="#experience"> {t`Work Experiences`}</a>
             </li>
           )}
           {viewOpenSource && (
             <li>
-              <a href="#opensource">Open Source</a>
+              <a href="#opensource">{t`Open Source`}</a>
             </li>
           )}
           {viewAchievement && (
             <li>
-              <a href="#achievements">Achievements</a>
+              <a href="#achievements">{t`Achievements`}</a>
             </li>
           )}
           {viewBlog && (
             <li>
-              <a href="#blogs">Blogs</a>
+              <a href="#blogs">{t`Blogs`}</a>
             </li>
           )}
           {viewTalks && (
             <li>
-              <a href="#talks">Talks</a>
+              <a href="#talks">{t`Talks`}</a>
             </li>
           )}
           {viewResume && (
             <li>
-              <a href="#resume">Resume</a>
+              <a href="#resume">{t`Resume`}</a>
             </li>
           )}
           <li>
-            <a href="#contact">Contact Me</a>
+            <a href="#contact">{t`Contact Me`}</a>
           </li>
           <li>
             <div>

@@ -33,6 +33,10 @@ msgstr "⚡ Transform complex business requirements into clear user stories and 
 msgid "A Product Owner with a developer background, I bring a unique blend of technical expertise and user-centric vision to every project. Passionate about transforming bold ideas into impactful digital experiences, I thrive on bridging the gap between technology and business goals. Let’s shape the future, one user story at a time. 🚀"
 msgstr "A Product Owner with a developer background, I bring a unique blend of technical expertise and user-centric vision to every project. Passionate about transforming bold ideas into impactful digital experiences, I thrive on bridging the gap between technology and business goals. Let’s shape the future, one user story at a time. 🚀"
 
+#: src/components/header/Header.js:68
+msgid "Achievements"
+msgstr "Certifications"
+
 #: src/portfolio.js:111
 msgid "Acquired a solid foundation in software development, system design, and problem-solving, with a focus on building scalable and secure applications."
 msgstr "Acquired a solid foundation in software development, system design, and problem-solving, with a focus on building scalable and secure applications."
@@ -62,6 +66,7 @@ msgid "Bachelor of Engineering in Software Engineering"
 msgstr "Bachelor of Engineering in Software Engineering"
 
 #: src/portfolio.js:316
+#: src/components/header/Header.js:73
 msgid "Blogs"
 msgstr "Blogs"
 
@@ -101,6 +106,10 @@ msgstr "Conducted research requiring critical thinking, hypothesis testing, and 
 #: src/containers/greeting/Greeting.js:46
 msgid "Contact me"
 msgstr "Contact me"
+
+#: src/components/header/Header.js:87
+msgid "Contact Me"
+msgstr "Contact Me"
 
 #: src/portfolio.js:379
 msgid "Contact Me ☎️"
@@ -241,6 +250,10 @@ msgstr "More"
 msgid "Ongoing Certifcation from Project Management Institute for PMP"
 msgstr "Ongoing Certifcation from Project Management Institute for PMP"
 
+#: src/components/header/Header.js:63
+msgid "Open Source"
+msgstr "Open Source"
+
 #: src/portfolio.js:167
 msgid "Optimized development processes through creation and improvement initiatives."
 msgstr "Optimized development processes through creation and improvement initiatives."
@@ -286,6 +299,7 @@ msgid "Recursyve Solutions"
 msgstr "Recursyve Solutions"
 
 #: src/portfolio.js:371
+#: src/components/header/Header.js:83
 msgid "Resume"
 msgstr "Resume"
 
@@ -313,13 +327,17 @@ msgstr "September 2021 – February 2022"
 msgid "September 2024 – Ongoing"
 msgstr "September 2024 – Ongoing"
 
-#: src/components/header/Header.js:50
+#: src/components/header/Header.js:53
 msgid "Skills"
 msgstr "Skills"
 
 #: src/portfolio.js:145
 msgid "Stakeholder Communication & Collaboration"
 msgstr "Stakeholder Communication & Collaboration"
+
+#: src/components/header/Header.js:78
+msgid "Talks"
+msgstr "Talks"
 
 #: src/portfolio.js:252
 msgid "The Link"
@@ -356,3 +374,7 @@ msgstr "What I do"
 #: src/portfolio.js:318
 msgid "With Love for Developing cool stuff, I love to write and teach others what I have learnt."
 msgstr "With Love for Developing cool stuff, I love to write and teach others what I have learnt."
+
+#: src/components/header/Header.js:58
+msgid "Work Experiences"
+msgstr "Work Experiences"
