@@ -29,11 +29,15 @@ msgstr "⚡ Prioriser et gérer les backlogs produit pour fournir une valeur max
 msgid "⚡ Transform complex business requirements into clear user stories and actionable tasks"
 msgstr "⚡ Transformer des exigences business complexes en user stories claires et en tâches actionnables"
 
+#: src/containers/recursyve/Recursyve.js:66
+msgid "A clean, intuitive design that made it easy for players to navigate and use the platform."
+msgstr "Un design propre et intuitif qui facilite la navigation et l'utilisation de la plateforme pour les joueurs."
+
 #: src/portfolio.js:49
 msgid "A Product Owner with a developer background, I bring a unique blend of technical expertise and user-centric vision to every project. Passionate about transforming bold ideas into impactful digital experiences, I thrive on bridging the gap between technology and business goals. Let’s shape the future, one user story at a time. 🚀"
 msgstr "En tant que Product Owner avec une expérience en développement, je combine une expertise technique et une vision centrée sur l'utilisateur pour chaque projet. Passionnée par la transformation d'idées audacieuses en expériences numériques impactantes, j'excelle à faire le lien entre la technologie et les objectifs business. Ensemble, façonnons l'avenir, une user story à la fois. 🚀"
 
-#: src/components/header/Header.js:68
+#: src/components/header/Header.js:66
 msgid "Achievements"
 msgstr "Certifications"
 
@@ -49,9 +53,25 @@ msgstr "Acquisition de compétences avancées en gestion stratégique, leadershi
 msgid "Agile & Scrum Methodologies"
 msgstr "Méthodologies Agile et Scrum"
 
+#: src/containers/recursyve/Recursyve.js:57
+msgid "AI-powered analysis tailored to each player’s style and skill level."
+msgstr "Analyse basée sur l'IA, adaptée au style et au niveau de compétence de chaque joueur."
+
 #: src/portfolio.js:103
 msgid "Applied theoretical knowledge to real-world business challenges through case studies and collaborative projects."
 msgstr "Application des connaissances théoriques à des défis business réels à travers des études de cas et des projets collaboratifs."
+
+#: src/containers/recursyve/Recursyve.js:10
+msgid "As the Project Manager for Ruse, I was responsible for turning a bold vision into reality. My role required me to wear multiple hats, from strategist to problem-solver, while keeping the team motivated and focused."
+msgstr "En tant que chef de projet pour Ruse, j'étais responsable de transformer une vision audacieuse en réalité. Mon rôle exigeait de porter plusieurs casquettes, de stratège à résolveur de problèmes, tout en gardant l'équipe motivée et concentrée."
+
+#: src/containers/recursyve/Recursyve.js:33
+msgid "As the Project Manager, I adopted a user-first, agile approach to ensure the project’s success."
+msgstr "En tant que chef de projet, j'ai adopté une approche agile centrée sur l'utilisateur pour assurer le succès du projet."
+
+#: src/containers/recursyve/Recursyve.js:9
+msgid "As the Project Manager, I excelled in planning, execution, and team leadership. I defined clear objectives, created detailed roadmaps, and managed cross-functional teams to deliver results. By fostering collaboration and facilitating agile practices like stand-ups and retrospectives, I ensured seamless progress. I acted as the bridge between stakeholders and the team, translating business needs into actionable tasks like epics and user stories. Proactively identifying risks and implementing solutions, I kept projects on track. My focus on quality assurance and user feedback ensured the final product met high standards of functionality and usability."
+msgstr "En tant que chef de projet, j'ai excellé dans la planification, l'exécution et le leadership d'équipe. J'ai défini des objectifs clairs, créé des roadmaps détaillées et géré des équipes interfonctionnelles pour obtenir des résultats. En favorisant la collaboration et en facilitant des pratiques agiles comme les stand-ups et les rétrospectives, j'ai assuré une progression fluide. J'ai servi de pont entre les parties prenantes et l'équipe, traduisant les besoins métiers en tâches actionnables comme des epics et des user stories. En identifiant et en atténuant les risques de manière proactive, j'ai maintenu les projets sur la bonne voie. Mon accent sur l'assurance qualité et les retours utilisateurs a permis au produit final de répondre à des normes élevées de fonctionnalité et de convivialité."
 
 #: src/portfolio.js:166
 msgid "Automated workflows in Jira to streamline processes across teams."
@@ -66,9 +86,13 @@ msgid "Bachelor of Engineering in Software Engineering"
 msgstr "Baccalauréat en Ingénierie en Génie Logiciel"
 
 #: src/portfolio.js:316
-#: src/components/header/Header.js:73
+#: src/components/header/Header.js:71
 msgid "Blogs"
 msgstr "Blogs"
+
+#: src/containers/recursyve/Recursyve.js:39
+msgid "Broke down the project into sprints, enabling continuous feedback and improvement throughout the development process."
+msgstr "J'ai divisé le projet en sprints, permettant un retour continu et des améliorations tout au long du processus de développement."
 
 #: src/portfolio.js:192
 msgid "C# Developer"
@@ -99,9 +123,17 @@ msgstr "Co-fondation et développement d'une marque unique de décoration d'év�
 msgid "Co-Founder & Product Manager"
 msgstr "Co-fondatrice & Product Manager"
 
+#: src/containers/recursyve/Recursyve.js:35
+msgid "Collaborative Planning"
+msgstr "Planification collaborative"
+
 #: src/portfolio.js:285
 msgid "Completed Certifcation from Scrum Alliance for CSPO"
 msgstr "Certification obtenue auprès de Scrum Alliance pour CSPO"
+
+#: src/containers/recursyve/Recursyve.js:48
+msgid "Conducted demos with clients to gather their feedback, making adjustments as needed to meet their expectations."
+msgstr "J'ai réalisé des démonstrations avec les clients pour recueillir leurs retours, en apportant des ajustements pour répondre à leurs attentes."
 
 #: src/portfolio.js:125
 msgid "Conducted research requiring critical thinking, hypothesis testing, and data interpretation, fostering a structured problem-solving approach."
@@ -111,7 +143,7 @@ msgstr "Réalisation de recherches nécessitant une pensée critique, des tests 
 msgid "Contact me"
 msgstr "Contactez-moi"
 
-#: src/components/header/Header.js:87
+#: src/components/header/Header.js:85
 msgid "Contact Me"
 msgstr "Contactez-moi"
 
@@ -123,9 +155,21 @@ msgstr "Contactez-moi ☎️"
 msgid "Contributed to the development of a generic data transformation solution (ETL)."
 msgstr "Contribution au développement d'une solution générique de transformation de données (ETL)."
 
+#: src/containers/recursyve/Recursyve.js:27
+msgid "Create an intuitive and engaging experience tailored to poker players' needs."
+msgstr "Créer une expérience intuitive et engageante adaptée aux besoins des joueurs de poker."
+
+#: src/containers/recursyve/Recursyve.js:41
+msgid "Cross-Functional Teamwork"
+msgstr "Travail d'équipe interfonctionnel"
+
 #: src/portfolio.js:98
 msgid "D.E.S.S. in Management"
 msgstr "D.E.S.S. en Gestion"
+
+#: src/containers/recursyve/Recursyve.js:18
+msgid "Deliver a platform that truly helps players improve their skills and performance."
+msgstr "Livrer une plateforme qui aide réellement les joueurs à améliorer leurs compétences et leurs performances."
 
 #: src/portfolio.js:203
 msgid "Designed user interfaces with ReactJS, TypeScript, and MaterialUI."
@@ -155,9 +199,21 @@ msgstr "Acquisition de compétences pratiques en développement web, systèmes d
 msgid "Download my resume"
 msgstr "Télécharger mon CV"
 
+#: src/containers/recursyve/Recursyve.js:63
+msgid "Easy-to-understand tips and strategies, avoiding unnecessary complexity."
+msgstr "Conseils et stratégies faciles à comprendre, évitant toute complexité inutile."
+
+#: src/containers/recursyve/Recursyve.js:17
+msgid "Enhance User Value"
+msgstr "Améliorer la valeur pour l'utilisateur"
+
 #: src/portfolio.js:198
 msgid "Enhanced meeting efficiency by implementing structured agendas and time management techniques."
 msgstr "Amélioration de l'efficacité des réunions grâce à la mise en place d'ordres du jour structurés et de techniques de gestion du temps."
+
+#: src/containers/recursyve/Recursyve.js:26
+msgid "Ensure User-Centric Design"
+msgstr "Assurer une conception centrée sur l'utilisateur"
 
 #: src/containers/theLink/TheLink.js:17
 msgid "Establish a Unique Value Proposition"
@@ -171,6 +227,10 @@ msgstr "Facilitation de la personnalisation des e-mails via une API dans le cadr
 msgid "Facilitated the transition from a Kanban to Shape Up development process, streamlining workflows and increasing productivity."
 msgstr "Facilitation de la transition d'un processus de développement Kanban à Shape Up, optimisant les workflows et augmentant la productivité."
 
+#: src/containers/recursyve/Recursyve.js:52
+msgid "Features"
+msgstr "Fonctionnalités"
+
 #: src/portfolio.js:254
 msgid "February 2025 – Ongoing"
 msgstr "Février 2025 – En cours"
@@ -182,6 +242,10 @@ msgstr "N'hésitez pas à télécharger mon CV"
 #: src/portfolio.js:232
 msgid "Ferya Event Decor & Design"
 msgstr "Ferya, Décoration et design d'évènements"
+
+#: src/containers/recursyve/Recursyve.js:42
+msgid "Fostered collaboration between developers, designers, and the product owner to align on priorities and ensure seamless execution."
+msgstr "J'ai favorisé la collaboration entre les développeurs, les designers et le product owner pour aligner les priorités et assurer une exécution fluide."
 
 #: src/portfolio.js:124
 msgid "Gained expertise in analyzing complex systems, translating to breaking down intricate product challenges and identifying root causes."
@@ -207,9 +271,25 @@ msgstr "Salut ! Je m'appelle Sandra"
 msgid "Implemented asynchronous communication with an event-driven system."
 msgstr "Mise en œuvre d'une communication asynchrone avec un système basé sur les événements."
 
+#: src/containers/recursyve/Recursyve.js:10
+msgid "In the end, my role was about more than delivering a product—it was about fostering collaboration, solving problems, and creating something that truly resonated with users. This experience reinforced the importance of adaptability, clear communication, and a user-first mindset in driving successful projects."
+msgstr "Au final, mon rôle allait au-delà de la livraison d'un produit : il s'agissait de favoriser la collaboration, de résoudre des problèmes et de créer quelque chose qui résonne vraiment avec les utilisateurs. Cette expérience a renforcé l'importance de l'adaptabilité, de la communication claire et d'un état d'esprit centré sur l'utilisateur pour mener à bien des projets réussis."
+
 #: src/portfolio.js:228
 msgid "INNOVATIVE INITIATIVES I'VE SHAPED FROM CONCEPT TO EXECUTION"
 msgstr "INITIATIVES INNOVANTES QUE J'AI CONÇUES ET MISES EN ŒUVRE"
+
+#: src/containers/recursyve/Recursyve.js:60
+msgid "Instant recommendations during gameplay to help players make better decisions"
+msgstr "Recommandations instantanées pendant le jeu pour aider les joueurs à prendre de meilleures décisions"
+
+#: src/containers/recursyve/Recursyve.js:65
+msgid "Interactive Interface"
+msgstr "Interface interactive"
+
+#: src/containers/recursyve/Recursyve.js:38
+msgid "Iterative Development"
+msgstr "Développement itératif"
 
 #: src/portfolio.js:195
 msgid "January 2023 – August 2024"
@@ -231,6 +311,10 @@ msgstr "Vous cherchez à recruter ou à discuter d'un projet ? Contactez-moi pou
 msgid "Made with ❤️ by DeveloperFolio Team | Adapted by Your Next Product Owner "
 msgstr "Fait avec ❤️ par l'équipe DeveloperFolio | Adapté par Votre Futur Product Owner"
 
+#: src/containers/recursyve/Recursyve.js:21
+msgid "Make advanced poker strategies accessible to players of all levels."
+msgstr "Rendre les stratégies de poker avancées accessibles aux joueurs de tous niveaux."
+
 #: src/portfolio.js:202
 msgid "Managed NoSQL databases such as MongoDB and ElasticSearch."
 msgstr "Gestion de bases de données NoSQL telles que MongoDB et ElasticSearch."
@@ -250,11 +334,35 @@ msgstr "Suivi de la progression du projet et application de mesures correctives 
 msgid "More"
 msgstr "Plus"
 
+#: src/containers/recursyve/Recursyve.js:31
+msgid "My approach"
+msgstr "Mon approche"
+
+#: src/containers/recursyve/Recursyve.js:9
+msgid "My Contributions"
+msgstr "Mes contributions"
+
+#: src/containers/recursyve/Recursyve.js:10
+msgid "My Experience"
+msgstr "Mon expérience"
+
+#: src/containers/recursyve/Recursyve.js:12
+msgid "Objectives"
+msgstr "Objectifs"
+
+#: src/containers/recursyve/Recursyve.js:24
+msgid "Offer immediate, actionable recommendations during gameplay."
+msgstr "Offrir des recommandations immédiates et actionnables pendant le jeu."
+
+#: src/containers/recursyve/Recursyve.js:10
+msgid "One of the biggest challenges was addressing the core problem with existing poker tools: they provided data but failed to deliver actionable, personalized insights. Players often found the strategies too complex and the feedback too generic. Ruse aimed to solve this by leveraging AI algorithms to analyze gameplay and provide tailored recommendations that were easy to understand and implement."
+msgstr "L'un des plus grands défis était de résoudre le problème central des outils de poker existants : ils fournissaient des données mais ne livraient pas d'analyses actionnables et personnalisées. Les joueurs trouvaient souvent les stratégies trop complexes et les retours trop génériques. Ruse visait à résoudre cela en utilisant des algorithmes d'IA pour analyser le gameplay et fournir des recommandations sur mesure, faciles à comprendre et à mettre en œuvre."
+
 #: src/portfolio.js:298
 msgid "Ongoing Certifcation from Project Management Institute for PMP"
 msgstr "Certification en cours auprès du Project Management Institute pour PMP"
 
-#: src/components/header/Header.js:63
+#: src/components/header/Header.js:61
 msgid "Open Source"
 msgstr "Open Source"
 
@@ -270,9 +378,17 @@ msgstr "Organisation et animation d'événements de team-building pour favoriser
 msgid "Passionate about continuous learning and growth as a Product Owner, with a strong focus on motivating teams and delivering impactful, innovative solutions."
 msgstr "Passionnée par l'apprentissage continu et la croissance en tant que Product Owner, avec un accent fort sur la motivation des équipes et la livraison de solutions innovantes et impactantes."
 
+#: src/containers/recursyve/Recursyve.js:56
+msgid "Personalized Insights"
+msgstr "Analyses personnalisées"
+
 #: src/portfolio.js:107
 msgid "Polytechnique Montreal"
 msgstr "Polytechnique Montréal"
+
+#: src/containers/recursyve/Recursyve.js:45
+msgid "Proactively identified and mitigated risks to keep the project on track and within scope."
+msgstr "J'ai identifié et atténué les risques de manière proactive pour maintenir le projet sur la bonne voie et dans le cadre défini."
 
 #: src/portfolio.js:253
 msgid "Product Manager"
@@ -282,17 +398,34 @@ msgstr "Product Manager"
 msgid "Product Roadmapping & Strategy"
 msgstr "Roadmap produit et stratégie"
 
+#: src/containers/recursyve/Recursyve.js:68
+msgid "Progress Tracking"
+msgstr "Suivi des progrès"
+
 #: src/portfolio.js:297
 msgid "Project Management Professional (PMP)®"
 msgstr "Project Management Professional (PMP)®"
 
 #: src/portfolio.js:158
+#: src/containers/recursyve/Recursyve.js:10
 msgid "Project Manager"
 msgstr "Gestionnaire de projet"
+
+#: src/containers/recursyve/Recursyve.js:8
+msgid "Project Overview"
+msgstr "perçu du projet"
 
 #: src/portfolio.js:227
 msgid "Projects"
 msgstr "Projets"
+
+#: src/containers/recursyve/Recursyve.js:23
+msgid "Provide Real-Time Feedback"
+msgstr "Fournir des retours en temps réel"
+
+#: src/containers/recursyve/Recursyve.js:59
+msgid "Real-Time Feedback"
+msgstr "Retour en temps réel"
 
 #: src/portfolio.js:162
 msgid "Recursyve is a dynamic software development company specializing in innovative, scalable, and user-centric solutions. I optimized processes, translated client needs into tasks, and ensured seamless project execution."
@@ -302,14 +435,30 @@ msgstr "Recursyve est une entreprise dynamique de développement logiciel spéci
 msgid "Recursyve Solutions"
 msgstr "Recursyve Solutions"
 
+#: src/containers/recursyve/Recursyve.js:48
+msgid "Regularly tested the platform with QA to refine features and ensure usability."
+msgstr "J'ai régulièrement testé la plateforme avec l'assurance qualité pour affiner les fonctionnalités et garantir la convivialité."
+
 #: src/portfolio.js:371
-#: src/components/header/Header.js:83
+#: src/components/header/Header.js:81
 msgid "Resume"
 msgstr "CV"
 
 #: src/portfolio.js:184
 msgid "Revelate is a data integration platform that simplifies data sharing and monetization for businesses. I contributed to building scalable ETL solutions and enhancing notification services using Spring Boot."
 msgstr "Revelate est une plateforme d'intégration de données qui simplifie le partage et la monétisation des données pour les entreprises. J'ai contribué à la construction de solutions ETL évolutives et à l'amélioration des services de notifications en utilisant Spring Boot."
+
+#: src/containers/recursyve/Recursyve.js:44
+msgid "Risk Management"
+msgstr "Gestion des risques"
+
+#: src/containers/recursyve/Recursyve.js:8
+msgid "Ruse is an innovative AI-powered platform designed to address a critical gap in the poker community. While existing poker analysis tools provided data, they often failed to deliver real value to players. These tools lacked personalization, offered overly complex strategies, and provided little to no actionable feedback. Ruse aimed to change that by offering personalized, easy-to-understand insights and real-time feedback to help players improve their game."
+msgstr "Ruse est une plateforme innovante alimentée par l'IA, conçue pour combler une lacune critique dans la communauté du poker. Alors que les outils d'analyse de poker existants fournissaient des données, ils ne livraient souvent pas de réelle valeur aux joueurs. Ces outils manquaient de personnalisation, proposaient des stratégies trop complexes et offraient peu ou pas de retours actionnables. Ruse visait à changer cela en offrant des analyses personnalisées, faciles à comprendre, et des retours en temps réel pour aider les joueurs à améliorer leur jeu."
+
+#: src/containers/recursyve/Recursyve.js:54
+msgid "Ruse was designed to address the shortcomings of existing poker tools by offering the following key features"
+msgstr "Ruse a été conçu pour pallier les lacunes des outils de poker existants en offrant les fonctionnalités clés suivantes"
 
 #: src/portfolio.js:121
 msgid "September 2014 - April 2017"
@@ -327,11 +476,23 @@ msgstr "Septembre 2021 - Avril 2023"
 msgid "September 2021 – February 2022"
 msgstr "Septembre 2021 - Février 2022"
 
+#: src/containers/recursyve/Recursyve.js:10
+msgid "September 2021 — December 2021"
+msgstr "Septembre 2021 — Décembre 2021"
+
 #: src/portfolio.js:234
 msgid "September 2024 – Ongoing"
 msgstr "Septembre 2024 – En cours"
 
-#: src/components/header/Header.js:53
+#: src/containers/recursyve/Recursyve.js:62
+msgid "Simplified Strategies"
+msgstr "Stratégies simplifiées"
+
+#: src/containers/recursyve/Recursyve.js:20
+msgid "Simplify Complexity"
+msgstr "Simplifier la complexité"
+
+#: src/components/header/Header.js:51
 msgid "Skills"
 msgstr "Compétences"
 
@@ -339,7 +500,7 @@ msgstr "Compétences"
 msgid "Stakeholder Communication & Collaboration"
 msgstr "Communication et collaboration avec les parties prenantes"
 
-#: src/components/header/Header.js:78
+#: src/components/header/Header.js:76
 msgid "Talks"
 msgstr "Conférences"
 
@@ -347,9 +508,21 @@ msgstr "Conférences"
 msgid "The Link"
 msgstr "The Link"
 
+#: src/containers/recursyve/Recursyve.js:15
+msgid "The primary goal of Ruse was to revolutionize the way poker players analyze and improve their gameplay. Unlike existing tools that offered generic data and overly complex strategies, Ruse aimed to provide personalized, actionable insights that were easy to understand and implement. The objectives were."
+msgstr "L'objectif principal de Ruse était de révolutionner la façon dont les joueurs de poker analysent et améliorent leur jeu. Contrairement aux outils existants qui offraient des données génériques et des stratégies trop complexes, Ruse visait à fournir des analyses personnalisées et actionnables, faciles à comprendre et à mettre en œuvre. Les objectifs étaient les suivants."
+
 #: src/components/footer/Footer.js:19
 msgid "Theme by"
 msgstr "Thème par"
+
+#: src/containers/recursyve/Recursyve.js:10
+msgid "To ensure success, I had to deeply understand the AI algorithm to effectively communicate its requirements to developers through user stories and epics. I also determined the development sequence, ensuring alignment with the roadmap. Balancing the needs of stakeholders—from founders eager for quick results to developers needing time to perfect the technology—was another key aspect of my role.\", \"By maintaining clear communication and setting realistic expectations, I kept everyone aligned and focused on the end goal. One of the most rewarding moments was successfully delivering the project within tight deadlines, enabling the founders to apply for grants and accelerate their startup. Knowing that our work made a real difference in the founders' journey was incredibly fulfilling."
+msgstr "Pour assurer le succès, j'ai dû comprendre en profondeur l'algorithme d'IA afin de communiquer efficacement ses exigences aux développeurs à travers des user stories et des epics. J'ai également déterminé la séquence de développement, en m'assurant qu'elle était alignée sur la roadmap. Équilibrer les besoins des parties prenantes—des fondateurs désireux de résultats rapides aux développeurs ayant besoin de temps pour perfectionner la technologie—était un autre aspect clé de mon rôle. En maintenant une communication claire et en fixant des attentes réalistes, j'ai gardé tout le monde aligné et concentré sur l'objectif final. L'un des moments les plus gratifiants a été de livrer le projet avec succès dans des délais serrés, permettant aux fondateurs de demander des subventions et d'accélérer leur startup. Savoir que notre travail a fait une réelle différence dans le parcours des fondateurs a été incroyablement gratifiant."
+
+#: src/containers/recursyve/Recursyve.js:69
+msgid "Tools to help players monitor their improvement over time."
+msgstr "Outils pour aider les joueurs à suivre leurs progrès au fil du temps."
 
 #: src/portfolio.js:165
 msgid "Translated customer needs into Stories and sub-tasks within the Backlog."
@@ -358,6 +531,10 @@ msgstr "Traduction des besoins clients en Stories et sous-tâches dans le Backlo
 #: src/portfolio.js:118
 msgid "University of Montreal"
 msgstr "Université de Montréal"
+
+#: src/containers/recursyve/Recursyve.js:47
+msgid "User Feedback Integration"
+msgstr "Intégration des retours utilisateurs"
 
 #: src/portfolio.js:280
 msgid "Validating my expertise and commitment to continuous learning"
@@ -379,6 +556,10 @@ msgstr "Ce que je fais"
 msgid "With Love for Developing cool stuff, I love to write and teach others what I have learnt."
 msgstr "Avec une passion pour le développement de choses cool, j'adore écrire et partager ce que j'ai appris."
 
-#: src/components/header/Header.js:58
+#: src/components/header/Header.js:56
 msgid "Work Experiences"
 msgstr "Expériences professionnelles"
+
+#: src/containers/recursyve/Recursyve.js:36
+msgid "Worked closely with stakeholders to define clear objectives and deliverables, ensuring alignment with business goals and user needs."
+msgstr "J'ai travaillé en étroite collaboration avec les parties prenantes pour définir des objectifs et des livrables clairs, en m'assurant qu'ils étaient alignés sur les objectifs business et les besoins des utilisateurs."
