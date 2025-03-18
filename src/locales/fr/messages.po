@@ -13,14 +13,334 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
+#: src/portfolio.js:255
+msgid "\"Contributed to an innovative stealth project aimed at transforming entrepreneurship through a scalable, user-centric platform. Managed the product side, including feature prioritization, user research, and roadmap development to align with business goals."
+msgstr "J'ai contribué à un projet innovant visant à transformer l'entrepreneuriat grâce à une plateforme évolutive et centrée sur l'utilisateur. J'ai géré le côté produit, incluant la priorisation des fonctionnalités, la recherche utilisateur et l'élaboration de la roadmap pour aligner les objectifs business."
+
+#: src/portfolio.js:74
+msgid "⚡ Bridge the gap between technical teams and stakeholders with clear communication and a developer background"
+msgstr "⚡ Faire le lien entre les équipes techniques et les parties prenantes grâce à une communication claire et une expérience en développement"
+
+#: src/portfolio.js:73
+msgid "⚡ Prioritize and manage product backlogs to deliver maximum value with each sprint"
+msgstr "⚡ Prioriser et gérer les backlogs produit pour fournir une valeur maximale à chaque sprint"
+
+#: src/portfolio.js:72
+msgid "⚡ Transform complex business requirements into clear user stories and actionable tasks"
+msgstr "⚡ Transformer des exigences business complexes en user stories claires et en tâches actionnables"
+
+#: src/portfolio.js:49
+msgid "A Product Owner with a developer background, I bring a unique blend of technical expertise and user-centric vision to every project. Passionate about transforming bold ideas into impactful digital experiences, I thrive on bridging the gap between technology and business goals. Let’s shape the future, one user story at a time. 🚀"
+msgstr "En tant que Product Owner avec une expérience en développement, je combine une expertise technique et une vision centrée sur l'utilisateur pour chaque projet. Passionnée par la transformation d'idées audacieuses en expériences numériques impactantes, j'excelle à faire le lien entre la technologie et les objectifs business. Ensemble, façonnons l'avenir, une user story à la fois. 🚀"
+
+#: src/portfolio.js:111
+msgid "Acquired a solid foundation in software development, system design, and problem-solving, with a focus on building scalable and secure applications."
+msgstr "Acquisition d'une solide base en développement logiciel, conception de systèmes et résolution de problèmes, avec un accent sur la création d'applications évolutives et sécurisées."
+
+#: src/portfolio.js:100
+msgid "Acquired advanced skills in strategic management, leadership, and business decision-making, with a focus on driving innovation and operational efficiency in dynamic environments."
+msgstr "Acquisition de compétences avancées en gestion stratégique, leadership et prise de décision business, avec un accent sur l'innovation et l'efficacité opérationnelle dans des environnements dynamiques."
+
+#: src/portfolio.js:137
+msgid "Agile & Scrum Methodologies"
+msgstr "Méthodologies Agile et Scrum"
+
+#: src/portfolio.js:103
+msgid "Applied theoretical knowledge to real-world business challenges through case studies and collaborative projects."
+msgstr "Application des connaissances théoriques à des défis business réels à travers des études de cas et des projets collaboratifs."
+
+#: src/portfolio.js:166
+msgid "Automated workflows in Jira to streamline processes across teams."
+msgstr "Automatisation des workflows dans Jira pour optimiser les processus entre les équipes."
+
+#: src/portfolio.js:120
+msgid "Bachelor of Biomedical Sciences"
+msgstr "Baccalauréat en Sciences Biomédicales"
+
+#: src/portfolio.js:109
+msgid "Bachelor of Engineering in Software Engineering"
+msgstr "Baccalauréat en Ingénierie en Génie Logiciel"
+
+#: src/portfolio.js:316
+msgid "Blogs"
+msgstr "Blogs"
+
+#: src/portfolio.js:192
+msgid "C# Developer"
+msgstr "Développeuse C#"
+
+#: src/portfolio.js:289
+#: src/portfolio.js:302
+msgid "Certification"
+msgstr "Certification"
+
+#: src/portfolio.js:278
+msgid "Certifications 🏆 "
+msgstr "Certifications 🏆"
+
+#: src/portfolio.js:284
+#~ msgid "Certified Scrum Product Owner®"
+#~ msgstr "Scrum Product Owner Certification"
+
+#: src/portfolio.js:284
+msgid "Certified Scrum Product Owner® "
+msgstr "Scrum Product Owner Certification (CSPO)"
+
+#: src/portfolio.js:235
+msgid "Co-founded and developed a unique event decoration brand, defining its identity, business strategy, and client-focused solutions. Managed the product side, including service design, pricing strategies, and customer experience optimization."
+msgstr "Co-fondation et développement d'une marque unique de décoration d'événements, en définissant son identité, sa stratégie business et des solutions centrées sur le client. Gestion du côté produit, incluant la conception des services, les stratégies de tarification et l'optimisation de l'expérience client."
+
+#: src/portfolio.js:233
+msgid "Co-Founder & Product Manager"
+msgstr "Co-fondatrice & Product Manager"
+
+#: src/portfolio.js:285
+msgid "Completed Certifcation from Scrum Alliance for CSPO"
+msgstr "Certification obtenue auprès de Scrum Alliance pour CSPO"
+
+#: src/portfolio.js:125
+msgid "Conducted research requiring critical thinking, hypothesis testing, and data interpretation, fostering a structured problem-solving approach."
+msgstr "Réalisation de recherches nécessitant une pensée critique, des tests d'hypothèses et l'interprétation de données, favorisant une approche structurée de résolution de problèmes."
+
+#: src/portfolio.js:379
+msgid "Contact Me ☎️"
+msgstr "Contactez-moi ☎️"
+
+#: src/portfolio.js:186
+msgid "Contributed to the development of a generic data transformation solution (ETL)."
+msgstr "Contribution au développement d'une solution générique de transformation de données (ETL)."
+
+#: src/portfolio.js:98
+msgid "D.E.S.S. in Management"
+msgstr "D.E.S.S. en Gestion"
+
+#: src/portfolio.js:203
+msgid "Designed user interfaces with ReactJS, TypeScript, and MaterialUI."
+msgstr "Conception d'interfaces utilisateur avec ReactJS, TypeScript et MaterialUI."
+
+#: src/portfolio.js:122
+msgid "Developed analytical and problem-solving skills through the study of complex biological systems and research projects."
+msgstr "Développement de compétences analytiques et de résolution de problèmes grâce à l'étude de systèmes biologiques complexes et à des projets de recherche."
+
+#: src/portfolio.js:188
+msgid "Developed and executed unit tests to ensure the proper functioning of all features."
+msgstr "Développement et exécution de tests unitaires pour garantir le bon fonctionnement de toutes les fonctionnalités."
+
+#: src/portfolio.js:102
+msgid "Developed expertise in project management, Agile methodologies, and cross-functional team leadership."
+msgstr "Développement d'une expertise en gestion de projet, méthodologies Agile et leadership d'équipes pluridisciplinaires."
+
+#: src/portfolio.js:201
+msgid "Developed microservices using C# and ASP.NET."
+msgstr "Développement de microservices en utilisant C# et ASP.NET."
+
+#: src/portfolio.js:114
+msgid "Developed practical skills in web development, operating systems, and software security through coursework and team projects."
+msgstr "Acquisition de compétences pratiques en développement web, systèmes d'exploitation et sécurité logicielle à travers des cours et des projets d'équipe."
+
+#: src/portfolio.js:198
+msgid "Enhanced meeting efficiency by implementing structured agendas and time management techniques."
+msgstr "Amélioration de l'efficacité des réunions grâce à la mise en place d'ordres du jour structurés et de techniques de gestion du temps."
+
 #: src/containers/theLink/TheLink.js:17
 msgid "Establish a Unique Value Proposition"
-msgstr ""
+msgstr "Définir une proposition de valeur unique"
 
-#: src/portfolio.js:35
+#: src/portfolio.js:187
+msgid "Facilitated email customization through an API as part of a custom notification service powered by Spring Boot."
+msgstr "Facilitation de la personnalisation des e-mails via une API dans le cadre d'un service de notifications personnalisées utilisant Spring Boot."
+
+#: src/portfolio.js:199
+msgid "Facilitated the transition from a Kanban to Shape Up development process, streamlining workflows and increasing productivity."
+msgstr "Facilitation de la transition d'un processus de développement Kanban à Shape Up, optimisant les workflows et augmentant la productivité."
+
+#: src/portfolio.js:254
+msgid "February 2025 – Ongoing"
+msgstr "Février 2025 – En cours"
+
+#: src/portfolio.js:372
+msgid "Feel free to download my resume"
+msgstr "N'hésitez pas à télécharger mon CV"
+
+#: src/portfolio.js:232
+msgid "Ferya Event Decor & Design"
+msgstr "Ferya, Décoration et design d'évènements"
+
+#: src/portfolio.js:124
+msgid "Gained expertise in analyzing complex systems, translating to breaking down intricate product challenges and identifying root causes."
+msgstr "Acquisition d'une expertise dans l'analyse de systèmes complexes, permettant de décomposer des défis produits complexes et d'identifier les causes profondes."
+
+#: src/portfolio.js:113
+msgid "Gained hands-on experience in software engineering principles, including object-oriented programming, algorithms, and database management."
+msgstr "Acquisition d'une expérience pratique en principes de génie logiciel, incluant la programmation orientée objet, les algorithmes et la gestion de bases de données."
+
+#: src/portfolio.js:196
+msgid "Genetec is a global leader in security solutions, providing innovative technologies for video surveillance, access control, and analytics. I contributed to enhancing development processes, building microservices, and designing user interfaces."
+msgstr "Genetec est un leader mondial en solutions de sécurité, fournissant des technologies innovantes pour la vidéosurveillance, le contrôle d'accès et l'analyse. J'ai contribué à l'amélioration des processus de développement, à la construction de microservices et à la conception d'interfaces utilisateur."
+
+#: src/portfolio.js:96
+msgid "HEC Montreal"
+msgstr "HEC Montréal"
+
+#: src/portfolio.js:47
 msgid "Hi there! I'm Sandra"
 msgstr "Salut ! Je m'appelle Sandra"
 
-#: src/components/header/Header.js:48
+#: src/portfolio.js:204
+msgid "Implemented asynchronous communication with an event-driven system."
+msgstr "Mise en œuvre d'une communication asynchrone avec un système basé sur les événements."
+
+#: src/portfolio.js:228
+msgid "INNOVATIVE INITIATIVES I'VE SHAPED FROM CONCEPT TO EXECUTION"
+msgstr "INITIATIVES INNOVANTES QUE J'AI CONÇUES ET MISES EN ŒUVRE"
+
+#: src/portfolio.js:195
+msgid "January 2023 – August 2024"
+msgstr "Janvier 2023 – Août 2024"
+
+#: src/portfolio.js:180
+msgid "Java Backend Developer"
+msgstr "Développeuse Backend Java"
+
+#: src/portfolio.js:164
+msgid "Led client meetings to define and refine application requirements."
+msgstr "Animation de réunions clients pour définir et affiner les exigences applicatives."
+
+#: src/portfolio.js:381
+msgid "Looking to hire or discuss a project? Let's connect and explore how I can add value to your team or initiative!"
+msgstr "Vous cherchez à recruter ou à discuter d'un projet ? Contactez-moi pour explorer comment je peux apporter de la valeur à votre équipe ou initiative !"
+
+#: src/portfolio.js:202
+msgid "Managed NoSQL databases such as MongoDB and ElasticSearch."
+msgstr "Gestion de bases de données NoSQL telles que MongoDB et ElasticSearch."
+
+#: src/portfolio.js:183
+msgid "March 2022 – November 2022"
+msgstr "Mars 2022 - Novembre 2022"
+
+#: src/portfolio.js:168
+msgid "Monitored project progression and applied corrective measures as needed."
+msgstr "Suivi de la progression du projet et application de mesures correctives si nécessaire."
+
+#: src/portfolio.js:173
+#: src/portfolio.js:209
+#: src/portfolio.js:244
+#: src/portfolio.js:264
+msgid "More"
+msgstr "Plus"
+
+#: src/portfolio.js:298
+msgid "Ongoing Certifcation from Project Management Institute for PMP"
+msgstr "Certification en cours auprès du Project Management Institute pour PMP"
+
+#: src/portfolio.js:167
+msgid "Optimized development processes through creation and improvement initiatives."
+msgstr "Optimisation des processus de développement grâce à des initiatives de création et d'amélioration."
+
+#: src/portfolio.js:200
+msgid "Organized and led team-building events to foster collaboration and improve team dynamics."
+msgstr "Organisation et animation d'événements de team-building pour favoriser la collaboration et améliorer la dynamique d'équipe."
+
+#: src/portfolio.js:63
+msgid "Passionate about continuous learning and growth as a Product Owner, with a strong focus on motivating teams and delivering impactful, innovative solutions."
+msgstr "Passionnée par l'apprentissage continu et la croissance en tant que Product Owner, avec un accent fort sur la motivation des équipes et la livraison de solutions innovantes et impactantes."
+
+#: src/portfolio.js:107
+msgid "Polytechnique Montreal"
+msgstr "Polytechnique Montréal"
+
+#: src/portfolio.js:253
+msgid "Product Manager"
+msgstr "Product Manager"
+
+#: src/portfolio.js:141
+msgid "Product Roadmapping & Strategy"
+msgstr "Roadmap produit et stratégie"
+
+#: src/portfolio.js:297
+msgid "Project Management Professional (PMP)®"
+msgstr "Project Management Professional (PMP)®"
+
+#: src/portfolio.js:158
+msgid "Project Manager"
+msgstr "Gestionnaire de projet"
+
+#: src/portfolio.js:227
+msgid "Projects"
+msgstr "Projets"
+
+#: src/portfolio.js:162
+msgid "Recursyve is a dynamic software development company specializing in innovative, scalable, and user-centric solutions. I optimized processes, translated client needs into tasks, and ensured seamless project execution."
+msgstr "Recursyve est une entreprise dynamique de développement logiciel spécialisée dans des solutions innovantes, évolutives et centrées sur l'utilisateur. J'ai optimisé les processus, traduit les besoins clients en tâches et assuré une exécution fluide des projets."
+
+#: src/portfolio.js:159
+msgid "Recursyve Solutions"
+msgstr "Recursyve Solutions"
+
+#: src/portfolio.js:371
+msgid "Resume"
+msgstr "CV"
+
+#: src/portfolio.js:184
+msgid "Revelate is a data integration platform that simplifies data sharing and monetization for businesses. I contributed to building scalable ETL solutions and enhancing notification services using Spring Boot."
+msgstr "Revelate est une plateforme d'intégration de données qui simplifie le partage et la monétisation des données pour les entreprises. J'ai contribué à la construction de solutions ETL évolutives et à l'amélioration des services de notifications en utilisant Spring Boot."
+
+#: src/portfolio.js:121
+msgid "September 2014 - April 2017"
+msgstr "Septembre 2014 - Avril 2017"
+
+#: src/portfolio.js:110
+msgid "September 2017 - August 2021"
+msgstr "Septembre 2017 - Août 2021"
+
+#: src/portfolio.js:99
+msgid "September 2021 - April 2023"
+msgstr "Septembre 2021 - Avril 2023"
+
+#: src/portfolio.js:161
+msgid "September 2021 – February 2022"
+msgstr "Septembre 2021 - Février 2022"
+
+#: src/portfolio.js:234
+msgid "September 2024 – Ongoing"
+msgstr "Septembre 2024 – En cours"
+
+#: src/components/header/Header.js:50
 msgid "Skills"
 msgstr "Compétences"
+
+#: src/portfolio.js:145
+msgid "Stakeholder Communication & Collaboration"
+msgstr "Communication et collaboration avec les parties prenantes"
+
+#: src/portfolio.js:252
+msgid "The Link"
+msgstr "The Link"
+
+#: src/portfolio.js:165
+msgid "Translated customer needs into Stories and sub-tasks within the Backlog."
+msgstr "Traduction des besoins clients en Stories et sous-tâches dans le Backlog."
+
+#: src/portfolio.js:118
+msgid "University of Montreal"
+msgstr "Université de Montréal"
+
+#: src/portfolio.js:280
+msgid "Validating my expertise and commitment to continuous learning"
+msgstr "Validation de mon expertise et de mon engagement envers l'apprentissage continu"
+
+#: src/portfolio.js:239
+msgid "Visit Instagram"
+msgstr "Visiter Instagram"
+
+#: src/portfolio.js:259
+msgid "Visit Website"
+msgstr "Visiter le site web"
+
+#: src/portfolio.js:62
+msgid "What I do"
+msgstr "Ce que je fais"
+
+#: src/portfolio.js:318
+msgid "With Love for Developing cool stuff, I love to write and teach others what I have learnt."
+msgstr "Avec une passion pour le développement de choses cool, j'adore écrire et partager ce que j'ai appris."
