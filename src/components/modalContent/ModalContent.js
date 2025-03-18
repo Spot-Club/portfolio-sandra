@@ -2,6 +2,7 @@ import React, { useContext, useState } from "react";
 import emoji from "react-easy-emoji";
 import StyleContext from "../../contexts/StyleContext";
 import "./ModalContent.scss";
+import { t } from "@lingui/core/macro";
 
 const ModalContent = ({ title, contentTabs }) => {
 
@@ -66,8 +67,8 @@ const RoadmapTabContent = ({ description, doneItems, todoItems }) => {
     return <div className="roadmap-tab-content">
         {description.map((desc, index) => <div key={index}>{desc}</div>)}
         <div className="all-items-header">
-            <h3>Milestones Achieved</h3>
-            <h3>Next Horizons</h3>
+            <h3>{t`Milestones Achieved`}</h3>
+            <h3>{t`Next Horizons`}</h3>
         </div>
         <div className="all-items">
             <div className="done-items">

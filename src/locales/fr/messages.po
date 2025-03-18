@@ -37,6 +37,10 @@ msgstr "Un design propre et intuitif qui facilite la navigation et l'utilisation
 msgid "A Product Owner with a developer background, I bring a unique blend of technical expertise and user-centric vision to every project. Passionate about transforming bold ideas into impactful digital experiences, I thrive on bridging the gap between technology and business goals. Let’s shape the future, one user story at a time. 🚀"
 msgstr "En tant que Product Owner avec une expérience en développement, je combine une expertise technique et une vision centrée sur l'utilisateur pour chaque projet. Passionnée par la transformation d'idées audacieuses en expériences numériques impactantes, j'excelle à faire le lien entre la technologie et les objectifs business. Ensemble, façonnons l'avenir, une user story à la fois. 🚀"
 
+#: src/containers/theLink/TheLink.js:29
+msgid "Achieve Market Validation"
+msgstr "Atteindre la validation du marché"
+
 #: src/components/header/Header.js:66
 msgid "Achievements"
 msgstr "Certifications"
@@ -49,6 +53,10 @@ msgstr "Acquisition d'une solide base en développement logiciel, conception de 
 msgid "Acquired advanced skills in strategic management, leadership, and business decision-making, with a focus on driving innovation and operational efficiency in dynamic environments."
 msgstr "Acquisition de compétences avancées en gestion stratégique, leadership et prise de décision business, avec un accent sur l'innovation et l'efficacité opérationnelle dans des environnements dynamiques."
 
+#: src/containers/theLink/TheLink.js:10
+msgid "Additionally, managing limited resources in the early stages—from budget constraints to building a skilled team—has tested my adaptability and strategic thinking. Despite these hurdles, the experience has been incredibly rewarding. I’ve gained valuable knowledge in areas such as grants, making strategic technology choices for both immediate and future development, and laying the groundwork for building a successful product from scratch."
+msgstr "De plus, la gestion des ressources limitées dans les premières étapes—des contraintes budgétaires à la constitution d'une équipe qualifiée—a testé mon adaptabilité et ma réflexion stratégique. Malgré ces obstacles, l'expérience a été incroyablement enrichissante. J'ai acquis des connaissances précieuses dans des domaines tels que les subventions, les choix technologiques stratégiques pour le développement immédiat et futur, et la mise en place des bases pour construire un produit réussi à partir de zéro."
+
 #: src/portfolio.js:137
 msgid "Agile & Scrum Methodologies"
 msgstr "Méthodologies Agile et Scrum"
@@ -57,9 +65,17 @@ msgstr "Méthodologies Agile et Scrum"
 msgid "Agile Development"
 msgstr "Développement Agile"
 
+#: src/containers/theLink/TheLink.js:41
+msgid "Agile Methodology"
+msgstr "Méthodologie Agile"
+
 #: src/containers/recursyve/Recursyve.js:57
 msgid "AI-powered analysis tailored to each player’s style and skill level."
 msgstr "Analyse basée sur l'IA, adaptée au style et au niveau de compétence de chaque joueur."
+
+#: src/containers/theLink/TheLink.js:83
+msgid "Analyze feedback to adapt and refine our solution to better meet user needs."
+msgstr "Analyser les retours pour adapter et affiner notre solution afin de mieux répondre aux besoins des utilisateurs."
 
 #: src/containers/genetec/Genetec.js:10
 msgid "Another challenge was adapting to the fast-paced environment of a large-scale project, where priorities and requirements often evolved rapidly. This demanded flexibility, quick decision-making, and a focus on delivering high-quality results under tight deadlines. Despite these hurdles, the experience has been incredibly enriching. I’ve deepened my expertise in secure software development, learned to navigate complex technical and organizational challenges, and contributed to building a product that enhances security operations for organizations worldwide."
@@ -72,6 +88,10 @@ msgstr "Application des connaissances théoriques à des défis business réels 
 #: src/containers/genetec/Genetec.js:9
 msgid "As a C# Developer on the ClearID team, I contributed to the development and enhancement of the platform’s core functionalities. My responsibilities included designing and implementing backend systems, integrating secure protocols, and optimizing performance to deliver a seamless user experience. I collaborated closely with cross-functional teams, including UI/UX designers, security experts, and QA engineers, to transform complex requirements into efficient and scalable code. Additionally, I played a role in troubleshooting, performance optimization, and ensuring the platform met the highest standards of security and reliability."
 msgstr "En tant que développeur C# dans l'équipe ClearID, j'ai contribué au développement et à l'amélioration des fonctionnalités principales de la plateforme. Mes responsabilités incluaient la conception et la mise en œuvre de systèmes backend, l'intégration de protocoles sécurisés et l'optimisation des performances pour offrir une expérience utilisateur fluide. J'ai collaboré étroitement avec des équipes interfonctionnelles, incluant des designers UI/UX, des experts en sécurité et des ingénieurs QA, pour transformer des exigences complexes en code efficace et évolutif. De plus, j'ai joué un rôle dans le dépannage, l'optimisation des performances et la garantie que la plateforme répondait aux normes les plus élevées de sécurité et de fiabilité."
+
+#: src/containers/theLink/TheLink.js:9
+msgid "As Product Owner, I drive the vision and execution of The Link by Evolvia. I conducted market research, competitor analysis, and user pain point studies to validate the app’s potential. Using a Business Model Canvas, I defined the business plan and identified key customer personas. I establish the product roadmap, prioritize features, and align stakeholders and teams with business goals. By gathering user feedback and iterating on the product, I ensure it meets user needs and business objectives, fostering innovation and ensuring viability."
+msgstr "En tant que Product Owner, je pilote la vision et l'exécution de The Link by Evolvia. J'ai mené des études de marché, des analyses concurrentielles et des recherches sur les points de douleur des utilisateurs pour valider le potentiel de l'application. En utilisant un Business Model Canvas, j'ai défini le plan d'affaires et identifié les personas clients clés. J'établis la roadmap produit, priorise les fonctionnalités et aligne les parties prenantes et les équipes sur les objectifs business. En recueillant les retours utilisateurs et en itérant sur le produit, je m'assure qu'il répond aux besoins des utilisateurs et aux objectifs business, en favorisant l'innovation et en garantissant la viabilité."
 
 #: src/containers/recursyve/Recursyve.js:10
 msgid "As the Project Manager for Ruse, I was responsible for turning a bold vision into reality. My role required me to wear multiple hats, from strategist to problem-solver, while keeping the team motivated and focused."
@@ -97,6 +117,14 @@ msgstr "Baccalauréat en Sciences Biomédicales"
 msgid "Bachelor of Engineering in Software Engineering"
 msgstr "Baccalauréat en Ingénierie en Génie Logiciel"
 
+#: src/containers/theLink/TheLink.js:10
+msgid "Balancing creativity with practicality remains a key focus. While we aim to deliver stunning designs, we also ensure they are feasible within clients' budgets and timelines."
+msgstr "L'équilibre entre créativité et praticité reste une priorité. Bien que nous visons à livrer des designs impressionnants, nous nous assurons également qu'ils sont réalisables dans les budgets et délais des clients."
+
+#: src/containers/theLink/TheLink.js:12
+msgid "bjectives"
+msgstr "Objectifs"
+
 #: src/portfolio.js:316
 #: src/components/header/Header.js:71
 msgid "Blogs"
@@ -106,9 +134,17 @@ msgstr "Blogs"
 msgid "Broke down the project into sprints, enabling continuous feedback and improvement throughout the development process."
 msgstr "J'ai divisé le projet en sprints, permettant un retour continu et des améliorations tout au long du processus de développement."
 
+#: src/containers/theLink/TheLink.js:23
+msgid "Build a Scalable Product"
+msgstr "Construire un produit évolutif"
+
 #: src/containers/genetec/Genetec.js:27
 msgid "Build a system capable of handling growing user demands and organizational complexity."
 msgstr "Construire un système capable de gérer des demandes croissantes des utilisateurs et une complexité organisationnelle."
+
+#: src/containers/theLink/TheLink.js:64
+msgid "Business Model Canvas"
+msgstr "Business Model Canvas"
 
 #: src/portfolio.js:192
 #: src/containers/genetec/Genetec.js:10
@@ -148,6 +184,10 @@ msgstr "Co-fondatrice & Product Manager"
 msgid "Collaborate Effectively"
 msgstr "Collaborer efficacement"
 
+#: src/containers/theLink/TheLink.js:47
+msgid "Collaborative Leadership"
+msgstr "Leadership collaboratif"
+
 #: src/containers/recursyve/Recursyve.js:35
 msgid "Collaborative Planning"
 msgstr "Planification collaborative"
@@ -159,6 +199,10 @@ msgstr "Certification obtenue auprès de Scrum Alliance pour CSPO"
 #: src/containers/recursyve/Recursyve.js:48
 msgid "Conducted demos with clients to gather their feedback, making adjustments as needed to meet their expectations."
 msgstr "J'ai réalisé des démonstrations avec les clients pour recueillir leurs retours, en apportant des ajustements pour répondre à leurs attentes."
+
+#: src/containers/theLink/TheLink.js:62
+msgid "Conducted in-depth analysis of market trends and competitors to identify opportunities."
+msgstr "J'ai mené une analyse approfondie des tendances du marché et des concurrents pour identifier les opportunités."
 
 #: src/portfolio.js:125
 msgid "Conducted research requiring critical thinking, hypothesis testing, and data interpretation, fostering a structured problem-solving approach."
@@ -180,6 +224,10 @@ msgstr "Contactez-moi ☎️"
 msgid "Continuous Learning"
 msgstr "Apprentissage continu"
 
+#: src/containers/theLink/TheLink.js:92
+msgid "Continuously refine the product roadmap based on user feedback and market trends."
+msgstr "Affiner continuellement la roadmap produit en fonction des retours utilisateurs et des tendances du marché."
+
 #: src/portfolio.js:186
 msgid "Contributed to the development of a generic data transformation solution (ETL)."
 msgstr "Contribution au développement d'une solution générique de transformation de données (ETL)."
@@ -187,6 +235,10 @@ msgstr "Contribution au développement d'une solution générique de transformat
 #: src/containers/genetec/Genetec.js:30
 msgid "Create a high-performance application that delivers a seamless user experience."
 msgstr "Créer une application haute performance offrant une expérience utilisateur fluide."
+
+#: src/containers/theLink/TheLink.js:24
+msgid "Create a solution that can grow and adapt to evolving market demands and user expectations."
+msgstr "Créer une solution capable de croître et de s'adapter aux demandes changeantes du marché et aux attentes des utilisateurs."
 
 #: src/containers/recursyve/Recursyve.js:27
 msgid "Create an intuitive and engaging experience tailored to poker players' needs."
@@ -200,6 +252,22 @@ msgstr "Travail d'équipe interfonctionnel"
 msgid "D.E.S.S. in Management"
 msgstr "D.E.S.S. en Gestion"
 
+#: src/containers/theLink/TheLink.js:44
+msgid "Data-Driven Decisions"
+msgstr "Décisions basées sur les données"
+
+#: src/containers/theLink/TheLink.js:18
+msgid "Define a clear and compelling value proposition that differentiates The Link by Evolvia in the market."
+msgstr "Définir une proposition de valeur claire et convaincante qui différencie The Link by Evolvia sur le marché."
+
+#: src/containers/theLink/TheLink.js:65
+msgid "Defined the business model, value proposition, and revenue streams."
+msgstr "Définition du modèle d'affaires, de la proposition de valeur et des flux de revenus."
+
+#: src/containers/theLink/TheLink.js:51
+msgid "Deliver a high-quality product that not only meets but exceeds user expectations."
+msgstr "Livrer un produit de haute qualité qui dépasse les attentes des utilisateurs."
+
 #: src/containers/recursyve/Recursyve.js:18
 msgid "Deliver a platform that truly helps players improve their skills and performance."
 msgstr "Livrer une plateforme qui aide réellement les joueurs à améliorer leurs compétences et leurs performances."
@@ -208,6 +276,10 @@ msgstr "Livrer une plateforme qui aide réellement les joueurs à améliorer leu
 msgid "Deliver a Secure Solution"
 msgstr "Fournir une solution sécurisée"
 
+#: src/containers/theLink/TheLink.js:20
+msgid "Deliver a User-Centric Solution"
+msgstr "Fournir une solution centrée sur l'utilisateur"
+
 #: src/portfolio.js:203
 msgid "Designed user interfaces with ReactJS, TypeScript, and MaterialUI."
 msgstr "Conception d'interfaces utilisateur avec ReactJS, TypeScript et MaterialUI."
@@ -215,6 +287,14 @@ msgstr "Conception d'interfaces utilisateur avec ReactJS, TypeScript et Material
 #: src/containers/genetec/Genetec.js:24
 msgid "Develop a platform that prioritizes security and compliance with industry standards."
 msgstr "Développer une plateforme qui priorise la sécurité et la conformité aux normes de l'industrie."
+
+#: src/containers/theLink/TheLink.js:21
+msgid "Develop a platform that prioritizes user needs, ensuring an intuitive and seamless experience."
+msgstr "Développer une plateforme qui priorise les besoins des utilisateurs, en assurant une expérience intuitive et fluide."
+
+#: src/containers/theLink/TheLink.js:80
+msgid "Develop and deploy a feedback form to gather insights on real user problems and validate our solution."
+msgstr "Développer et déployer un formulaire de feedback pour recueillir des insights sur les problèmes réels des utilisateurs et valider notre solution."
 
 #: src/portfolio.js:122
 msgid "Developed analytical and problem-solving skills through the study of complex biological systems and research projects."
@@ -244,6 +324,10 @@ msgstr "Télécharger mon CV"
 msgid "Easy-to-understand tips and strategies, avoiding unnecessary complexity."
 msgstr "Conseils et stratégies faciles à comprendre, évitant toute complexité inutile."
 
+#: src/containers/education/Education.js:13
+msgid "Education"
+msgstr "Éducation"
+
 #: src/containers/genetec/Genetec.js:45
 msgid "Embed security best practices into every aspect of development to ensure a robust and reliable platform."
 msgstr "Intégrer les meilleures pratiques de sécurité dans chaque aspect du développement pour garantir une plateforme robuste et fiable."
@@ -272,6 +356,14 @@ msgstr "Assurer une conception centrée sur l'utilisateur"
 msgid "Establish a Unique Value Proposition"
 msgstr "Définir une proposition de valeur unique"
 
+#: src/containers/theLink/TheLink.js:74
+msgid "Established a clear vision and defined the unique value The Link brings to its users."
+msgstr "Établir une vision claire et définir la valeur unique que The Link apporte à ses utilisateurs."
+
+#: src/containers/theLink/TheLink.js:89
+msgid "Explore collaborations with industry partners to enhance the platform's reach and impact."
+msgstr "Explorer des collaborations avec des partenaires industriels pour accroître la portée et l'impact de la plateforme."
+
 #: src/portfolio.js:187
 msgid "Facilitated email customization through an API as part of a custom notification service powered by Spring Boot."
 msgstr "Facilitation de la personnalisation des e-mails via une API dans le cadre d'un service de notifications personnalisées utilisant Spring Boot."
@@ -288,6 +380,10 @@ msgstr "Fonctionnalités"
 msgid "February 2025 – Ongoing"
 msgstr "Février 2025 – En cours"
 
+#: src/containers/theLink/TheLink.js:10
+msgid "February 2025 — Ongoing"
+msgstr "Février 2025 — En cours"
+
 #: src/portfolio.js:372
 msgid "Feel free to download my resume"
 msgstr "N'hésitez pas à télécharger mon CV"
@@ -299,6 +395,18 @@ msgstr "Ferya, Décoration et design d'évènements"
 #: src/containers/genetec/Genetec.js:21
 msgid "Focus on intuitive design and functionality to ensure the platform is easy to use and meets user needs."
 msgstr "Se concentrer sur une conception intuitive et une fonctionnalité pour garantir que la plateforme est facile à utiliser et répond aux besoins des utilisateurs."
+
+#: src/containers/theLink/TheLink.js:50
+msgid "Focus on Quality"
+msgstr "Se concentrer sur la qualité"
+
+#: src/containers/theLink/TheLink.js:48
+msgid "Foster a culture of teamwork and open communication to ensure alignment and shared ownership of the product vision."
+msgstr "Favoriser une culture de travail d'équipe et de communication ouverte pour assurer l'alignement et la propriété partagée de la vision du produit."
+
+#: src/containers/theLink/TheLink.js:26
+msgid "Foster Innovation"
+msgstr "Favoriser l'innovation"
 
 #: src/containers/genetec/Genetec.js:48
 msgid "Foster open communication and teamwork to address challenges, share knowledge, and achieve shared goals."
@@ -328,6 +436,10 @@ msgstr "HEC Montréal"
 msgid "Hi there! I'm Sandra"
 msgstr "Salut ! Je m'appelle Sandra"
 
+#: src/containers/theLink/TheLink.js:68
+msgid "Identified and analyzed target user personas to better understand their needs and pain points."
+msgstr "Identification et analyse des personas utilisateurs cibles pour mieux comprendre leurs besoins et points de douleur."
+
 #: src/portfolio.js:204
 msgid "Implemented asynchronous communication with an event-driven system."
 msgstr "Mise en œuvre d'une communication asynchrone avec un système basé sur les événements."
@@ -335,6 +447,10 @@ msgstr "Mise en œuvre d'une communication asynchrone avec un système basé sur
 #: src/containers/recursyve/Recursyve.js:10
 msgid "In the end, my role was about more than delivering a product—it was about fostering collaboration, solving problems, and creating something that truly resonated with users. This experience reinforced the importance of adaptability, clear communication, and a user-first mindset in driving successful projects."
 msgstr "Au final, mon rôle allait au-delà de la livraison d'un produit : il s'agissait de favoriser la collaboration, de résoudre des problèmes et de créer quelque chose qui résonne vraiment avec les utilisateurs. Cette expérience a renforcé l'importance de l'adaptabilité, de la communication claire et d'un état d'esprit centré sur l'utilisateur pour mener à bien des projets réussis."
+
+#: src/containers/theLink/TheLink.js:27
+msgid "Incorporate cutting-edge technologies and creative ideas to keep the product ahead of industry trends."
+msgstr "Intégrer des technologies de pointe et des idées créatives pour maintenir le produit en avance sur les tendances de l'industrie."
 
 #: src/portfolio.js:228
 msgid "INNOVATIVE INITIATIVES I'VE SHAPED FROM CONCEPT TO EXECUTION"
@@ -368,6 +484,10 @@ msgstr "Développeuse Backend Java"
 msgid "Led client meetings to define and refine application requirements."
 msgstr "Animation de réunions clients pour définir et affiner les exigences applicatives."
 
+#: src/containers/theLink/TheLink.js:42
+msgid "Leverage agile practices to ensure flexibility, transparency, and continuous improvement throughout the development process."
+msgstr "Utiliser des pratiques agiles pour assurer flexibilité, transparence et amélioration continue tout au long du processus de développement."
+
 #: src/portfolio.js:381
 msgid "Looking to hire or discuss a project? Let's connect and explore how I can add value to your team or initiative!"
 msgstr "Vous cherchez à recruter ou à discuter d'un projet ? Contactez-moi pour explorer comment je peux apporter de la valeur à votre équipe ou initiative !"
@@ -388,6 +508,14 @@ msgstr "Gestion de bases de données NoSQL telles que MongoDB et ElasticSearch."
 msgid "March 2022 – November 2022"
 msgstr "Mars 2022 - Novembre 2022"
 
+#: src/containers/theLink/TheLink.js:61
+msgid "Market and Competitor Research"
+msgstr "Recherche de marché et analyse concurrentielle"
+
+#: src/components/modalContent/ModalContent.js:70
+msgid "Milestones Achieved"
+msgstr "Étapes clés Accomplies"
+
 #: src/portfolio.js:168
 msgid "Monitored project progression and applied corrective measures as needed."
 msgstr "Suivi de la progression du projet et application de mesures correctives si nécessaire."
@@ -399,20 +527,27 @@ msgstr "Suivi de la progression du projet et application de mesures correctives 
 msgid "More"
 msgstr "Plus"
 
+#: src/containers/theLink/TheLink.js:34
 #: src/containers/recursyve/Recursyve.js:31
 #: src/containers/genetec/Genetec.js:34
 msgid "My approach"
 msgstr "Mon approche"
 
+#: src/containers/theLink/TheLink.js:36
+msgid "My approach is centered on collaboration, agility, and a relentless focus on delivering value. I believe in working closely with stakeholders, developers, and users to ensure the product aligns with both business goals and user expectations. By embracing an iterative process, I aim to adapt quickly to challenges and opportunities, ensuring the product evolves in response to real-world feedback."
+msgstr "Mon approche est centrée sur la collaboration, l'agilité et une concentration inébranlable sur la livraison de valeur. Je crois en un travail étroit avec les parties prenantes, les développeurs et les utilisateurs pour m'assurer que le produit est aligné sur les objectifs business et les attentes des utilisateurs. En adoptant un processus itératif, je vise à m'adapter rapidement aux défis et opportunités, en veillant à ce que le produit évolue en fonction des retours du monde réel."
+
 #: src/containers/genetec/Genetec.js:36
 msgid "My approach is rooted in collaboration and precision. I believe in working closely with teams to understand requirements, solve problems, and deliver solutions that align with both technical and business objectives. By embracing agile methodologies and a user-first mindset, I ensure the platform is both secure and intuitive."
 msgstr "Mon approche est ancrée dans la collaboration et la précision. Je crois en un travail étroit avec les équipes pour comprendre les exigences, résoudre les problèmes et fournir des solutions alignées sur les objectifs techniques et business. En adoptant des méthodologies agiles et un état d'esprit centré sur l'utilisateur, je m'assure que la plateforme est à la fois sécurisée et intuitive."
 
+#: src/containers/theLink/TheLink.js:9
 #: src/containers/recursyve/Recursyve.js:9
 #: src/containers/genetec/Genetec.js:9
 msgid "My Contributions"
 msgstr "Mes contributions"
 
+#: src/containers/theLink/TheLink.js:10
 #: src/containers/recursyve/Recursyve.js:10
 #: src/containers/genetec/Genetec.js:10
 msgid "My Experience"
@@ -421,6 +556,14 @@ msgstr "Mon expérience"
 #: src/containers/genetec/Genetec.js:15
 msgid "My primary objectives for ClearID were to deliver a secure, scalable, and user-friendly identity management platform that meets the evolving needs of organizations. I aimed to ensure the platform’s reliability, performance, and compliance with industry standards while driving continuous improvement."
 msgstr "Mes principaux objectifs pour ClearID étaient de fournir une plateforme de gestion des identités sécurisée, évolutive et conviviale qui répond aux besoins changeants des organisations. Je visais à garantir la fiabilité, les performances et la conformité de la plateforme aux normes de l'industrie tout en favorisant une amélioration continue."
+
+#: src/containers/theLink/TheLink.js:15
+msgid "My primary objectives for The Link by Evolvia are to establish a strong product-market fit, deliver a solution that exceeds user expectations, and position the product as a leader in its space. I aim to create a scalable and sustainable platform that not only addresses current market needs but also anticipates future trends. By fostering innovation, collaboration, and continuous improvement, I strive to ensure the product’s long-term success and impact."
+msgstr "Mes principaux objectifs pour The Link by Evolvia sont d'établir un fort product-market fit, de livrer une solution qui dépasse les attentes des utilisateurs et de positionner le produit comme un leader dans son domaine. Je vise à créer une plateforme évolutive et durable qui répond non seulement aux besoins actuels du marché, mais anticipe également les tendances futures. En favorisant l'innovation, la collaboration et l'amélioration continue, je m'efforce d'assurer le succès et l'impact à long terme du produit."
+
+#: src/components/modalContent/ModalContent.js:71
+msgid "Next Horizons"
+msgstr "Prochaines Étapes"
 
 #: src/containers/recursyve/Recursyve.js:12
 #: src/containers/genetec/Genetec.js:12
@@ -455,17 +598,37 @@ msgstr "Optimisation des processus de développement grâce à des initiatives d
 msgid "Organized and led team-building events to foster collaboration and improve team dynamics."
 msgstr "Organisation et animation d'événements de team-building pour favoriser la collaboration et améliorer la dynamique d'équipe."
 
+#: src/containers/theLink/TheLink.js:58
+msgid "Our journey with The Link by Evolvia is driven by a commitment to solving real-world problems through innovative solutions. Below, you'll find a summary of the key milestones we've achieved and the exciting steps we're planning to take as we refine our vision and deliver impactful value"
+msgstr "Notre parcours avec The Link by Evolvia est motivé par un engagement à résoudre des problèmes réels grâce à des solutions innovantes. Ci-dessous, vous trouverez un résumé des étapes clés que nous avons franchies et des étapes passionnantes que nous prévoyons de prendre pour affiner notre vision et fournir une valeur impactante."
+
+#: src/containers/theLink/TheLink.js:88
+msgid "Partnership Exploration"
+msgstr "Exploration de partenariats"
+
 #: src/portfolio.js:63
 msgid "Passionate about continuous learning and growth as a Product Owner, with a strong focus on motivating teams and delivering impactful, innovative solutions."
 msgstr "Passionnée par l'apprentissage continu et la croissance en tant que Product Owner, avec un accent fort sur la motivation des équipes et la livraison de solutions innovantes et impactantes."
+
+#: src/containers/theLink/TheLink.js:67
+msgid "Persona Analysis"
+msgstr "Analyse des personas"
 
 #: src/containers/recursyve/Recursyve.js:56
 msgid "Personalized Insights"
 msgstr "Analyses personnalisées"
 
+#: src/containers/theLink/TheLink.js:71
+msgid "Pinpointed key problems and opportunities in the market."
+msgstr "Identification des problèmes et opportunités clés sur le marché."
+
 #: src/portfolio.js:107
 msgid "Polytechnique Montreal"
 msgstr "Polytechnique Montréal"
+
+#: src/containers/theLink/TheLink.js:39
+msgid "Prioritize understanding user needs and pain points to create a solution that truly resonates."
+msgstr "Prioriser la compréhension des besoins et des points de douleur des utilisateurs pour créer une solution qui résonne vraiment."
 
 #: src/containers/genetec/Genetec.js:39
 msgid "Prioritize user needs to create an intuitive and efficient platform."
@@ -475,13 +638,25 @@ msgstr "Prioriser les besoins des utilisateurs pour créer une plateforme intuit
 msgid "Proactively identified and mitigated risks to keep the project on track and within scope."
 msgstr "J'ai identifié et atténué les risques de manière proactive pour maintenir le projet sur la bonne voie et dans le cadre défini."
 
+#: src/containers/theLink/TheLink.js:70
+msgid "Problem and Opportunity Identification"
+msgstr "Identification des problèmes et opportunités"
+
 #: src/portfolio.js:253
 msgid "Product Manager"
 msgstr "Product Manager"
 
+#: src/containers/theLink/TheLink.js:10
+msgid "Product Owner"
+msgstr "Product Owner"
+
 #: src/portfolio.js:141
 msgid "Product Roadmapping & Strategy"
 msgstr "Roadmap produit et stratégie"
+
+#: src/containers/skillProgress/skillProgress.js:17
+msgid "Proficiency"
+msgstr "Compétences"
 
 #: src/containers/recursyve/Recursyve.js:68
 msgid "Progress Tracking"
@@ -496,6 +671,7 @@ msgstr "Project Management Professional (PMP)®"
 msgid "Project Manager"
 msgstr "Gestionnaire de projet"
 
+#: src/containers/theLink/TheLink.js:8
 #: src/containers/recursyve/Recursyve.js:8
 #: src/containers/genetec/Genetec.js:8
 msgid "Project Overview"
@@ -504,6 +680,10 @@ msgstr "perçu du projet"
 #: src/portfolio.js:227
 msgid "Projects"
 msgstr "Projets"
+
+#: src/containers/theLink/TheLink.js:85
+msgid "Prototype Testing"
+msgstr "Test du prototype"
 
 #: src/containers/recursyve/Recursyve.js:23
 msgid "Provide Real-Time Feedback"
@@ -525,6 +705,10 @@ msgstr "Recursyve Solutions"
 msgid "Regularly tested the platform with QA to refine features and ensure usability."
 msgstr "J'ai régulièrement testé la plateforme avec l'assurance qualité pour affiner les fonctionnalités et garantir la convivialité."
 
+#: src/containers/theLink/TheLink.js:45
+msgid "Rely on market research, user feedback, and analytics to guide product decisions and prioritization."
+msgstr "S'appuyer sur la recherche de marché, les retours utilisateurs et les analyses pour guider les décisions et la priorisation du produit."
+
 #: src/portfolio.js:371
 #: src/components/header/Header.js:81
 msgid "Resume"
@@ -537,6 +721,14 @@ msgstr "Revelate est une plateforme d'intégration de données qui simplifie le 
 #: src/containers/recursyve/Recursyve.js:44
 msgid "Risk Management"
 msgstr "Gestion des risques"
+
+#: src/containers/theLink/TheLink.js:55
+msgid "Roadmap"
+msgstr "Roadmap"
+
+#: src/containers/theLink/TheLink.js:91
+msgid "Roadmap Refinement"
+msgstr "Affinement de la roadmap"
 
 #: src/containers/recursyve/Recursyve.js:8
 msgid "Ruse is an innovative AI-powered platform designed to address a critical gap in the poker community. While existing poker analysis tools provided data, they often failed to deliver real value to players. These tools lacked personalization, offered overly complex strategies, and provided little to no actionable feedback. Ruse aimed to change that by offering personalized, easy-to-understand insights and real-time feedback to help players improve their game."
@@ -586,6 +778,10 @@ msgstr "Simplifier la complexité"
 msgid "Skills"
 msgstr "Compétences"
 
+#: src/containers/theLink/TheLink.js:82
+msgid "Solution Adaptation"
+msgstr "Adaptation de la solution"
+
 #: src/portfolio.js:145
 msgid "Stakeholder Communication & Collaboration"
 msgstr "Communication et collaboration avec les parties prenantes"
@@ -602,9 +798,21 @@ msgstr "Conférences"
 msgid "Team Collaboration"
 msgstr "Collaboration d'équipe"
 
+#: src/containers/theLink/TheLink.js:86
+msgid "Test the updated solution with a target audience to ensure it effectively addresses identified problems."
+msgstr "Tester la solution mise à jour avec un public cible pour s'assurer qu'elle résout efficacement les problèmes identifiés."
+
+#: src/containers/theLink/TheLink.js:10
+msgid "The initial research phase for The Link by Evolvia has been both exciting and challenging. One of the biggest challenges has been navigating the uncertainties of a stealth project, where limited information can be shared externally. Balancing confidentiality with the need to gather valuable insights and feedback during the research phase required careful planning and creativity. Another significant challenge was identifying and validating the core problem we aim to solve, ensuring our solution is both innovative and viable in a competitive market."
+msgstr "La phase de recherche initiale pour The Link by Evolvia a été à la fois passionnante et stimulante. L'un des plus grands défis a été de naviguer dans les incertitudes d'un projet confidentiel, où peu d'informations peuvent être partagées à l'externe. Équilibrer la confidentialité avec le besoin de recueillir des insights et des retours précieux pendant la phase de recherche a nécessité une planification minutieuse et de la créativité. Un autre défi important a été d'identifier et de valider le problème central que nous visons à résoudre, en s'assurant que notre solution est à la fois innovante et viable sur un marché concurrentiel."
+
 #: src/portfolio.js:252
 msgid "The Link"
 msgstr "The Link"
+
+#: src/containers/theLink/TheLink.js:8
+msgid "The Link by Evolvia is an innovative stealth project designed to transform the landscape of entrepreneurship. As a startup initiative, it focuses on developing a cutting-edge solution to address a critical gap in the market. While specific details remain confidential at this stage, the project is driven by a vision to create a scalable, user-centric platform that delivers exceptional value and redefines user experiences. The goal is to build a product that not only meets market demands but also sets new benchmarks for innovation and efficiency."
+msgstr "The Link by Evolvia est un projet innovant et confidentiel conçu pour transformer le paysage de l'entrepreneuriat. En tant qu'initiative de startup, il se concentre sur le développement d'une solution de pointe pour combler une lacune critique sur le marché. Bien que les détails spécifiques restent confidentiels à ce stade, le projet est motivé par une vision visant à créer une plateforme évolutive et centrée sur l'utilisateur qui offre une valeur exceptionnelle et redéfinit les expériences utilisateurs. L'objectif est de construire un produit qui répond non seulement aux demandes du marché, mais établit également de nouveaux standards en matière d'innovation et d'efficacité."
 
 #: src/containers/recursyve/Recursyve.js:15
 msgid "The primary goal of Ruse was to revolutionize the way poker players analyze and improve their gameplay. Unlike existing tools that offered generic data and overly complex strategies, Ruse aimed to provide personalized, actionable insights that were easy to understand and implement. The objectives were."
@@ -634,17 +842,30 @@ msgstr "Université de Montréal"
 msgid "Use agile practices to break down tasks, deliver incremental improvements, and adapt quickly to changing requirements."
 msgstr "Utiliser des pratiques agiles pour décomposer les tâches, livrer des améliorations incrémentielles et s'adapter rapidement aux exigences changeantes."
 
+#: src/containers/theLink/TheLink.js:79
+msgid "User Feedback Form"
+msgstr "Formulaire de feedback utilisateur"
+
 #: src/containers/recursyve/Recursyve.js:47
 msgid "User Feedback Integration"
 msgstr "Intégration des retours utilisateurs"
 
+#: src/containers/theLink/TheLink.js:38
 #: src/containers/genetec/Genetec.js:38
 msgid "User-First Mindset"
 msgstr "État d'esprit centré sur l'utilisateur"
 
+#: src/containers/theLink/TheLink.js:30
+msgid "Validate the product through user testing, feedback, and iterative improvements to ensure it meets real-world needs."
+msgstr "Valider le produit grâce à des tests utilisateurs, des retours et des améliorations itératives pour s'assurer qu'il répond aux besoins réels."
+
 #: src/portfolio.js:280
 msgid "Validating my expertise and commitment to continuous learning"
 msgstr "Validation de mon expertise et de mon engagement envers l'apprentissage continu"
+
+#: src/containers/theLink/TheLink.js:73
+msgid "Vision and Value Proposition"
+msgstr "Vision et proposition de valeur"
 
 #: src/portfolio.js:239
 msgid "Visit Instagram"
