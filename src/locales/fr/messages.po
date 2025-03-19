@@ -103,7 +103,7 @@ msgstr "Application des connaissances théoriques à des défis business réels 
 
 #: src/containers/genetec/Genetec.js:9
 msgid "As a C# Developer on the ClearID team, I contributed to the development and enhancement of the platform’s core functionalities. My responsibilities included designing and implementing backend systems, integrating secure protocols, and optimizing performance to deliver a seamless user experience. I collaborated closely with cross-functional teams, including UI/UX designers, security experts, and QA engineers, to transform complex requirements into efficient and scalable code. Additionally, I played a role in troubleshooting, performance optimization, and ensuring the platform met the highest standards of security and reliability."
-msgstr "En tant que développeur C# dans l'équipe ClearID, j'ai contribué au développement et à l'amélioration des fonctionnalités principales de la plateforme. Mes responsabilités incluaient la conception et la mise en œuvre de systèmes backend, l'intégration de protocoles sécurisés et l'optimisation des performances pour offrir une expérience utilisateur fluide. J'ai collaboré étroitement avec des équipes interfonctionnelles, incluant des designers UI/UX, des experts en sécurité et des ingénieurs QA, pour transformer des exigences complexes en code efficace et évolutif. De plus, j'ai joué un rôle dans le dépannage, l'optimisation des performances et la garantie que la plateforme répondait aux normes les plus élevées de sécurité et de fiabilité."
+msgstr "En tant que développeuse dans l'équipe ClearID, j'ai contribué au développement et à l'amélioration des fonctionnalités principales de la plateforme. Mes responsabilités incluaient la conception et la mise en œuvre de systèmes backend, l'intégration de protocoles sécurisés et l'optimisation des performances pour offrir une expérience utilisateur fluide. J'ai collaboré étroitement avec des équipes interfonctionnelles, incluant des designers UI/UX, des experts en sécurité et des ingénieurs QA, pour transformer des exigences complexes en code efficace et évolutif. De plus, j'ai joué un rôle dans le dépannage, l'optimisation des performances et la garantie que la plateforme répondait aux normes les plus élevées de sécurité et de fiabilité."
 
 #: src/containers/ferya/FeryaEventDecor.js:9
 msgid "As a Co-Founder, I played a pivotal role in shaping Ferya Event Decor & Design. I defined the brand identity, values, and unique selling proposition, ensuring we stood out in a competitive market. I developed the business plan, pricing models, and target market strategies to drive growth. By building strong client relationships, I delivered customized solutions that surpassed expectations. I oversaw logistics, vendor partnerships, and team coordination to ensure seamless execution. Additionally, I researched and planned marketing campaigns, managed social media, and worked to build a strong online presence to attract clients in the future."
@@ -111,7 +111,7 @@ msgstr "En tant que co-fondatrice, j'ai joué un rôle central dans la création
 
 #: src/containers/theLink/TheLink.js:9
 msgid "As Product Owner, I drive the vision and execution of The Link by Evolvia. I conducted market research, competitor analysis, and user pain point studies to validate the app’s potential. Using a Business Model Canvas, I defined the business plan and identified key customer personas. I establish the product roadmap, prioritize features, and align stakeholders and teams with business goals. By gathering user feedback and iterating on the product, I ensure it meets user needs and business objectives, fostering innovation and ensuring viability."
-msgstr "En tant que Gestionnaire Produit, je pilote la vision et l'exécution de The Link by Evolvia. J'ai mené des études de marché, des analyses concurrentielles et des recherches sur les points de douleur des utilisateurs pour valider le potentiel de l'application. En utilisant un Business Model Canvas, j'ai défini le plan d'affaires et identifié les personas clients clés. J'établis la feuille de route produit, priorise les fonctionnalités et aligne les parties prenantes et les équipes sur les objectifs business. En recueillant les retours utilisateurs et en itérant sur le produit, je m'assure qu'il répond aux besoins des utilisateurs et aux objectifs business, en favorisant l'innovation et en garantissant la viabilité."
+msgstr "En tant que Gestionnaire Produit, je pilote la vision et l'exécution de The Link by Evolvia. J'ai mené des études de marché, des analyses concurrentielles et des recherches sur les irritations des utilisateurs pour valider le potentiel de l'application. En utilisant un Business Model Canvas, j'ai défini le plan d'affaires et identifié les personas clients clés. J'établis la feuille de route produit, priorise les fonctionnalités et aligne les parties prenantes et les équipes sur les objectifs business. En recueillant les retours utilisateurs et en itérant sur le produit, je m'assure qu'il répond aux besoins des utilisateurs et aux objectifs business, en favorisant l'innovation et en garantissant la viabilité."
 
 #: src/containers/recursyve/Recursyve.js:10
 msgid "As the Project Manager for Ruse, I was responsible for turning a bold vision into reality. My role required me to wear multiple hats, from strategist to problem-solver, while keeping the team motivated and focused."
@@ -173,6 +173,10 @@ msgstr "Construire un système capable de gérer des demandes croissantes des ut
 #: src/containers/theLink/TheLink.js:64
 msgid "Business Model Canvas"
 msgstr "Business Model Canvas"
+
+#: src/containers/recursyve/Recursyve.js:10
+msgid "By maintaining clear communication and setting realistic expectations, I kept everyone aligned and focused on the end goal. One of the most rewarding moments was successfully delivering the project within tight deadlines, enabling the founders to apply for grants and accelerate their startup. Knowing that our work made a real difference in the founders' journey was incredibly fulfilling."
+msgstr "En maintenant une communication claire et en fixant des attentes réalistes, j'ai gardé tout le monde aligné et concentré sur l'objectif final. L'un des moments les plus gratifiants a été de livrer le projet avec succès dans des délais serrés, permettant aux fondateurs de demander des subventions et d'accélérer leur startup. Savoir que notre travail a fait une réelle différence dans le parcours des fondateurs a été incroyablement gratifiant."
 
 #: src/portfolio.js:192
 #: src/containers/genetec/Genetec.js:10
@@ -564,7 +568,7 @@ msgstr "Identification des besoins et attentes des clients."
 
 #: src/containers/theLink/TheLink.js:68
 msgid "Identified and analyzed target user personas to better understand their needs and pain points."
-msgstr "Identification et analyse des personas utilisateurs cibles pour mieux comprendre leurs besoins et points de douleur."
+msgstr "Identification et analyse des personas utilisateurs cibles pour mieux comprendre leurs besoins et irritations."
 
 #: src/containers/ferya/FeryaEventDecor.js:92
 msgid "Implementation of a feedback system to continuously improve services."
@@ -826,7 +830,7 @@ msgstr "Étude de tarification"
 
 #: src/containers/theLink/TheLink.js:39
 msgid "Prioritize understanding user needs and pain points to create a solution that truly resonates."
-msgstr "Prioriser la compréhension des besoins et des points de douleur des utilisateurs pour créer une solution qui résonne vraiment."
+msgstr "Prioriser la compréhension des besoins et des irritations des utilisateurs pour créer une solution qui résonne vraiment."
 
 #: src/containers/genetec/Genetec.js:39
 msgid "Prioritize user needs to create an intuitive and efficient platform."
@@ -1056,7 +1060,7 @@ msgstr "The Link"
 
 #: src/containers/theLink/TheLink.js:8
 msgid "The Link by Evolvia is an innovative stealth project designed to transform the landscape of entrepreneurship. As a startup initiative, it focuses on developing a cutting-edge solution to address a critical gap in the market. While specific details remain confidential at this stage, the project is driven by a vision to create a scalable, user-centric platform that delivers exceptional value and redefines user experiences. The goal is to build a product that not only meets market demands but also sets new benchmarks for innovation and efficiency."
-msgstr "The Link by Evolvia est un projet innovant et confidentiel conçu pour transformer le paysage de l'entrepreneuriat. En tant qu'initiative de startup, il se concentre sur le développement d'une solution de pointe pour combler une lacune critique sur le marché. Bien que les détails spécifiques restent confidentiels à ce stade, le projet est motivé par une vision visant à créer une plateforme évolutive et centrée sur l'utilisateur qui offre une valeur exceptionnelle et redéfinit les expériences utilisateurs. L'objectif est de construire un produit qui répond non seulement aux demandes du marché, mais établit également de nouveaux standards en matière d'innovation et d'efficacité."
+msgstr "The Link by Evolvia est un projet innovant et confidentiel conçu pour transformer le visage de l'entrepreneuriat. En tant qu'initiative de startup, il se concentre sur le développement d'une solution de pointe pour combler une lacune critique sur le marché. Bien que les détails spécifiques restent confidentiels à ce stade, le projet est motivé par une vision visant à créer une plateforme évolutive et centrée sur l'utilisateur qui offre une valeur exceptionnelle et redéfinit les expériences utilisateurs. L'objectif est de construire un produit qui répond non seulement aux demandes du marché, mais établit également de nouveaux standards en matière d'innovation et d'efficacité."
 
 #: src/containers/recursyve/Recursyve.js:15
 msgid "The primary goal of Ruse was to revolutionize the way poker players analyze and improve their gameplay. Unlike existing tools that offered generic data and overly complex strategies, Ruse aimed to provide personalized, actionable insights that were easy to understand and implement. The objectives were."
@@ -1067,8 +1071,8 @@ msgid "Theme by"
 msgstr "Thème par"
 
 #: src/containers/recursyve/Recursyve.js:10
-msgid "To ensure success, I had to deeply understand the AI algorithm to effectively communicate its requirements to developers through user stories and epics. I also determined the development sequence, ensuring alignment with the roadmap. Balancing the needs of stakeholders—from founders eager for quick results to developers needing time to perfect the technology—was another key aspect of my role.\", \"By maintaining clear communication and setting realistic expectations, I kept everyone aligned and focused on the end goal. One of the most rewarding moments was successfully delivering the project within tight deadlines, enabling the founders to apply for grants and accelerate their startup. Knowing that our work made a real difference in the founders' journey was incredibly fulfilling."
-msgstr "Pour assurer le succès, j'ai dû comprendre en profondeur l'algorithme d'IA afin de communiquer efficacement ses exigences aux développeurs à travers des user stories et des epics. J'ai également déterminé la séquence de développement, en m'assurant qu'elle était alignée sur la feuille de route. Équilibrer les besoins des parties prenantes—des fondateurs désireux de résultats rapides aux développeurs ayant besoin de temps pour perfectionner la technologie—était un autre aspect clé de mon rôle. En maintenant une communication claire et en fixant des attentes réalistes, j'ai gardé tout le monde aligné et concentré sur l'objectif final. L'un des moments les plus gratifiants a été de livrer le projet avec succès dans des délais serrés, permettant aux fondateurs de demander des subventions et d'accélérer leur startup. Savoir que notre travail a fait une réelle différence dans le parcours des fondateurs a été incroyablement gratifiant."
+msgid "To ensure success, I had to deeply understand the AI algorithm to effectively communicate its requirements to developers through user stories and epics. I also determined the development sequence, ensuring alignment with the roadmap. Balancing the needs of stakeholders—from founders eager for quick results to developers needing time to perfect the technology—was another key aspect of my role."
+msgstr "Pour assurer le succès, j'ai dû comprendre en profondeur l'algorithme d'IA afin de communiquer efficacement ses exigences aux développeurs à travers des user stories et des epics. J'ai également déterminé la séquence de développement, en m'assurant qu'elle était alignée sur la feuille de route. Équilibrer les besoins des parties prenantes—des fondateurs désireux de résultats rapides aux développeurs ayant besoin de temps pour perfectionner la technologie—était un autre aspect clé de mon rôle."
 
 #: src/containers/recursyve/Recursyve.js:69
 msgid "Tools to help players monitor their improvement over time."
