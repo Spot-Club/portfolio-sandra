@@ -10,7 +10,7 @@ import { usePortfolio } from "../../portfolio";
 import { useLingui } from "@lingui/react/macro";
 import "./Greeting.scss";
 
-export default function Greeting() {
+export default function Greeting(language) {
   const { greeting, illustration } = usePortfolio();
   const { isDark } = useContext(StyleContext);
   const { t } = useLingui();
@@ -46,8 +46,8 @@ export default function Greeting() {
                 <Button text={t`Contact me`} href="#contact" />
                 {greeting.resumeLink && (
                   <a
-                    href={require("./resume.pdf")}
-                    download="Resume.pdf"
+                    href={language === "fr"?require( "./cv.pdf"):require("./resume.pdf")}
+                    download={t`Resume.pdf`}
                     className="download-link-button"
                   >
                     <Button text={t`Download my resume`} />

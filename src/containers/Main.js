@@ -55,7 +55,7 @@ const Main = ({ language, setLanguage }) => {
         ) : (
           <>
             <Header />
-            <Greeting />
+            <Greeting language={language}/>
             <Skills />
             <StackProgress />
             <Education />
