@@ -1,0 +1,1156 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-03-16 14:20-0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: fr\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/portfolio.js:255
+msgid "\"Contributed to an innovative stealth project aimed at transforming entrepreneurship through a scalable, user-centric platform. Managed the product side, including feature prioritization, user research, and roadmap development to align with business goals."
+msgstr "J'ai contribué à un projet innovant visant à transformer l'entrepreneuriat grâce à une plateforme évolutive et centrée sur l'utilisateur. J'ai géré le côté produit, incluant la priorisation des fonctionnalités, la recherche utilisateur et l'élaboration de la feuille de route pour aligner les objectifs business."
+
+#: src/portfolio.js:74
+msgid "⚡ Bridge the gap between technical teams and stakeholders with clear communication and a developer background"
+msgstr "⚡ Faire le lien entre les équipes techniques et les parties prenantes grâce à une communication claire et une expérience en développement"
+
+#: src/portfolio.js:73
+msgid "⚡ Prioritize and manage product backlogs to deliver maximum value with each sprint"
+msgstr "⚡ Prioriser et gérer les backlogs produit pour fournir une valeur maximale à chaque sprint"
+
+#: src/portfolio.js:72
+msgid "⚡ Transform complex business requirements into clear user stories and actionable tasks"
+msgstr "⚡ Transformer des exigences business complexes en user stories claires et en tâches actionnables"
+
+#: src/containers/recursyve/Recursyve.js:66
+msgid "A clean, intuitive design that made it easy for players to navigate and use the platform."
+msgstr "Un design propre et intuitif qui facilite la navigation et l'utilisation de la plateforme pour les joueurs."
+
+#: src/portfolio.js:49
+msgid "A Product Owner with a developer background, I bring a unique blend of technical expertise and user-centric vision to every project. Passionate about transforming bold ideas into impactful digital experiences, I thrive on bridging the gap between technology and business goals. Let’s shape the future, one user story at a time. 🚀"
+msgstr "En tant que Gestionnaire Produit avec une expérience en développement, je combine une expertise technique et une vision centrée sur l'utilisateur pour chaque projet. Passionnée par la transformation d'idées audacieuses en expériences numériques impactantes, j'excelle à faire le lien entre la technologie et les objectifs business. Ensemble, façonnons l'avenir, une user story à la fois. 🚀"
+
+#: src/containers/theLink/TheLink.js:29
+msgid "Achieve Market Validation"
+msgstr "Atteindre la validation du marché"
+
+#: src/components/header/Header.js:66
+msgid "Achievements"
+msgstr "Certifications"
+
+#: src/portfolio.js:111
+msgid "Acquired a solid foundation in software development, system design, and problem-solving, with a focus on building scalable and secure applications."
+msgstr "Acquisition d'une solide base en développement logiciel, conception de systèmes et résolution de problèmes, avec un accent sur la création d'applications évolutives et sécurisées."
+
+#: src/portfolio.js:100
+msgid "Acquired advanced skills in strategic management, leadership, and business decision-making, with a focus on driving innovation and operational efficiency in dynamic environments."
+msgstr "Acquisition de compétences avancées en gestion stratégique, leadership et prise de décision business, avec un accent sur l'innovation et l'efficacité opérationnelle dans des environnements dynamiques."
+
+#: src/containers/ferya/FeryaEventDecor.js:45
+msgid "Adapted quickly to challenges, from last-minute changes to logistical hurdles."
+msgstr "Adaptation rapide aux défis, des changements de dernière minute aux obstacles logistiques."
+
+#: src/containers/ferya/FeryaEventDecor.js:86
+msgid "Addition of new products and services based on customer feedback."
+msgstr "Ajout de nouveaux produits et services basés sur les retours clients."
+
+#: src/containers/theLink/TheLink.js:10
+msgid "Additionally, managing limited resources in the early stages—from budget constraints to building a skilled team—has tested my adaptability and strategic thinking. Despite these hurdles, the experience has been incredibly rewarding. I’ve gained valuable knowledge in areas such as grants, making strategic technology choices for both immediate and future development, and laying the groundwork for building a successful product from scratch."
+msgstr "De plus, la gestion des ressources limitées dans les premières étapes—des contraintes budgétaires à la constitution d'une équipe qualifiée—a testé mon adaptabilité et ma réflexion stratégique. Malgré ces obstacles, l'expérience a été incroyablement enrichissante. J'ai acquis des connaissances précieuses dans des domaines tels que les subventions, les choix technologiques stratégiques pour le développement immédiat et futur, et la mise en place des bases pour construire un produit réussi à partir de zéro."
+
+#: src/portfolio.js:137
+msgid "Agile & Scrum Methodologies"
+msgstr "Méthodologies Agile et Scrum"
+
+#: src/containers/genetec/Genetec.js:41
+msgid "Agile Development"
+msgstr "Développement Agile"
+
+#: src/containers/theLink/TheLink.js:41
+msgid "Agile Methodology"
+msgstr "Méthodologie Agile"
+
+#: src/containers/ferya/FeryaEventDecor.js:44
+msgid "Agile Problem-Solving"
+msgstr "Résolution de problèmes agile"
+
+#: src/containers/recursyve/Recursyve.js:57
+msgid "AI-powered analysis tailored to each player’s style and skill level."
+msgstr "Analyse basée sur l'IA, adaptée au style et au niveau de compétence de chaque joueur."
+
+#: src/containers/ferya/FeryaEventDecor.js:62
+msgid "Analysis of event decoration trends."
+msgstr "Analyse des tendances en décoration d'événements."
+
+#: src/containers/theLink/TheLink.js:83
+msgid "Analyze feedback to adapt and refine our solution to better meet user needs."
+msgstr "Analyser les retours pour adapter et affiner notre solution afin de mieux répondre aux besoins des utilisateurs."
+
+#: src/containers/genetec/Genetec.js:10
+msgid "Another challenge was adapting to the fast-paced environment of a large-scale project, where priorities and requirements often evolved rapidly. This demanded flexibility, quick decision-making, and a focus on delivering high-quality results under tight deadlines. Despite these hurdles, the experience has been incredibly enriching. I’ve deepened my expertise in secure software development, learned to navigate complex technical and organizational challenges, and contributed to building a product that enhances security operations for organizations worldwide."
+msgstr "Un autre défi était de s'adapter à l'environnement rapide d'un projet à grande échelle, où les priorités et les exigences évoluaient souvent rapidement. Cela exigeait de la flexibilité, une prise de décision rapide et une concentration sur la livraison de résultats de haute qualité dans des délais serrés. Malgré ces obstacles, l'expérience a été incroyablement enrichissante. J'ai approfondi mon expertise en développement logiciel sécurisé, appris à naviguer dans des défis techniques et organisationnels complexes, et contribué à la création d'un produit qui améliore les opérations de sécurité pour les organisations du monde entier."
+
+#: src/portfolio.js:103
+msgid "Applied theoretical knowledge to real-world business challenges through case studies and collaborative projects."
+msgstr "Application des connaissances théoriques à des défis business réels à travers des études de cas et des projets collaboratifs."
+
+#: src/containers/genetec/Genetec.js:9
+msgid "As a C# Developer on the ClearID team, I contributed to the development and enhancement of the platform’s core functionalities. My responsibilities included designing and implementing backend systems, integrating secure protocols, and optimizing performance to deliver a seamless user experience. I collaborated closely with cross-functional teams, including UI/UX designers, security experts, and QA engineers, to transform complex requirements into efficient and scalable code. Additionally, I played a role in troubleshooting, performance optimization, and ensuring the platform met the highest standards of security and reliability."
+msgstr "En tant que développeuse dans l'équipe ClearID, j'ai contribué au développement et à l'amélioration des fonctionnalités principales de la plateforme. Mes responsabilités incluaient la conception et la mise en œuvre de systèmes backend, l'intégration de protocoles sécurisés et l'optimisation des performances pour offrir une expérience utilisateur fluide. J'ai collaboré étroitement avec des équipes interfonctionnelles, incluant des designers UI/UX, des experts en sécurité et des ingénieurs QA, pour transformer des exigences complexes en code efficace et évolutif. De plus, j'ai joué un rôle dans le dépannage, l'optimisation des performances et la garantie que la plateforme répondait aux normes les plus élevées de sécurité et de fiabilité."
+
+#: src/containers/ferya/FeryaEventDecor.js:9
+msgid "As a Co-Founder, I played a pivotal role in shaping Ferya Event Decor & Design. I defined the brand identity, values, and unique selling proposition, ensuring we stood out in a competitive market. I developed the business plan, pricing models, and target market strategies to drive growth. By building strong client relationships, I delivered customized solutions that surpassed expectations. I oversaw logistics, vendor partnerships, and team coordination to ensure seamless execution. Additionally, I researched and planned marketing campaigns, managed social media, and worked to build a strong online presence to attract clients in the future."
+msgstr "En tant que co-fondatrice, j'ai joué un rôle central dans la création de Ferya Event Decor & Design. J'ai défini l'identité de la marque, ses valeurs et sa proposition de vente unique, garantissant ainsi une différenciation sur un marché concurrentiel. J'ai élaboré le plan d'affaires, les modèles de tarification et les stratégies de marché cible pour stimuler la croissance. En cultivant des relations solides avec les clients, j'ai fourni des solutions personnalisées qui ont dépassé leurs attentes. J'ai supervisé la logistique, les partenariats avec les fournisseurs et la coordination d'équipe pour assurer une exécution fluide. De plus, j'ai recherché et planifié des campagnes marketing, géré les réseaux sociaux et travaillé à la construction d'une forte présence en ligne pour attirer de futurs clients."
+
+#: src/containers/theLink/TheLink.js:9
+msgid "As Product Owner, I drive the vision and execution of The Link by Evolvia. I conducted market research, competitor analysis, and user pain point studies to validate the app’s potential. Using a Business Model Canvas, I defined the business plan and identified key customer personas. I establish the product roadmap, prioritize features, and align stakeholders and teams with business goals. By gathering user feedback and iterating on the product, I ensure it meets user needs and business objectives, fostering innovation and ensuring viability."
+msgstr "En tant que Gestionnaire Produit, je pilote la vision et l'exécution de The Link by Evolvia. J'ai mené des études de marché, des analyses concurrentielles et des recherches sur les irritations des utilisateurs pour valider le potentiel de l'application. En utilisant un Business Model Canvas, j'ai défini le plan d'affaires et identifié les personas clients clés. J'établis la feuille de route produit, priorise les fonctionnalités et aligne les parties prenantes et les équipes sur les objectifs business. En recueillant les retours utilisateurs et en itérant sur le produit, je m'assure qu'il répond aux besoins des utilisateurs et aux objectifs business, en favorisant l'innovation et en garantissant la viabilité."
+
+#: src/containers/recursyve/Recursyve.js:10
+msgid "As the Project Manager for Ruse, I was responsible for turning a bold vision into reality. My role required me to wear multiple hats, from strategist to problem-solver, while keeping the team motivated and focused."
+msgstr "En tant que chef de projet pour Ruse, j'étais responsable de transformer une vision audacieuse en réalité. Mon rôle exigeait de porter plusieurs casquettes, de stratège à résolveur de problèmes, tout en gardant l'équipe motivée et concentrée."
+
+#: src/containers/recursyve/Recursyve.js:33
+msgid "As the Project Manager, I adopted a user-first, agile approach to ensure the project’s success."
+msgstr "En tant que chef de projet, j'ai adopté une approche agile centrée sur l'utilisateur pour assurer le succès du projet."
+
+#: src/containers/recursyve/Recursyve.js:9
+msgid "As the Project Manager, I excelled in planning, execution, and team leadership. I defined clear objectives, created detailed roadmaps, and managed cross-functional teams to deliver results. By fostering collaboration and facilitating agile practices like stand-ups and retrospectives, I ensured seamless progress. I acted as the bridge between stakeholders and the team, translating business needs into actionable tasks like epics and user stories. Proactively identifying risks and implementing solutions, I kept projects on track. My focus on quality assurance and user feedback ensured the final product met high standards of functionality and usability."
+msgstr "En tant que chef de projet, j'ai excellé dans la planification, l'exécution et le leadership d'équipe. J'ai défini des objectifs clairs, créé des feuilles de route détaillées et géré des équipes interfonctionnelles pour obtenir des résultats. En favorisant la collaboration et en facilitant des pratiques agiles comme les stand-ups et les rétrospectives, j'ai assuré une progression fluide. J'ai servi de pont entre les parties prenantes et l'équipe, traduisant les besoins métiers en tâches actionnables comme des epics et des user stories. En identifiant et en atténuant les risques de manière proactive, j'ai maintenu les projets sur la bonne voie. Mon accent sur l'assurance qualité et les retours utilisateurs a permis au produit final de répondre à des normes élevées de fonctionnalité et de convivialité."
+
+#: src/portfolio.js:166
+msgid "Automated workflows in Jira to streamline processes across teams."
+msgstr "Automatisation des workflows dans Jira pour optimiser les processus entre les équipes."
+
+#: src/containers/ferya/FeryaEventDecor.js:89
+msgid "Automation of administrative processes to improve efficiency."
+msgstr "Automatisation des processus administratifs pour améliorer l'efficacité."
+
+#: src/portfolio.js:120
+msgid "Bachelor of Biomedical Sciences"
+msgstr "Baccalauréat en Sciences Biomédicales"
+
+#: src/portfolio.js:109
+msgid "Bachelor of Engineering in Software Engineering"
+msgstr "Baccalauréat en Ingénierie en Génie Logiciel"
+
+#: src/containers/ferya/FeryaEventDecor.js:10
+msgid "Balancing creativity with practicality remains a key focus. While we aim to deliver stunning designs, we also ensure they are feasible within clients' budgets and timelines."
+msgstr "L'équilibre entre créativité et praticité reste une priorité. Bien que nous visons à livrer des designs impressionnants, nous nous assurons également qu'ils sont réalisables dans les budgets et délais des clients."
+
+#: src/containers/theLink/TheLink.js:12
+msgid "bjectives"
+msgstr "Objectifs"
+
+#: src/portfolio.js:316
+#: src/components/header/Header.js:71
+msgid "Blogs"
+msgstr "Blogs"
+
+#: src/containers/recursyve/Recursyve.js:39
+msgid "Broke down the project into sprints, enabling continuous feedback and improvement throughout the development process."
+msgstr "J'ai divisé le projet en sprints, permettant un retour continu et des améliorations tout au long du processus de développement."
+
+#: src/containers/theLink/TheLink.js:23
+msgid "Build a Scalable Product"
+msgstr "Construire un produit évolutif"
+
+#: src/containers/ferya/FeryaEventDecor.js:23
+msgid "Build a Strong Network"
+msgstr "Construire un Réseau Solide"
+
+#: src/containers/genetec/Genetec.js:27
+msgid "Build a system capable of handling growing user demands and organizational complexity."
+msgstr "Construire un système capable de gérer des demandes croissantes des utilisateurs et une complexité organisationnelle."
+
+#: src/containers/theLink/TheLink.js:64
+msgid "Business Model Canvas"
+msgstr "Business Model Canvas"
+
+#: src/containers/recursyve/Recursyve.js:10
+msgid "By maintaining clear communication and setting realistic expectations, I kept everyone aligned and focused on the end goal. One of the most rewarding moments was successfully delivering the project within tight deadlines, enabling the founders to apply for grants and accelerate their startup. Knowing that our work made a real difference in the founders' journey was incredibly fulfilling."
+msgstr "En maintenant une communication claire et en fixant des attentes réalistes, j'ai gardé tout le monde aligné et concentré sur l'objectif final. L'un des moments les plus gratifiants a été de livrer le projet avec succès dans des délais serrés, permettant aux fondateurs de demander des subventions et d'accélérer leur startup. Savoir que notre travail a fait une réelle différence dans le parcours des fondateurs a été incroyablement gratifiant."
+
+#: src/portfolio.js:192
+#: src/containers/genetec/Genetec.js:10
+msgid "C# Developer"
+msgstr "Développeuse C#"
+
+#: src/portfolio.js:289
+#: src/portfolio.js:302
+msgid "Certification"
+msgstr "Certification"
+
+#: src/components/header/Header.js:66
+#~ msgid "Certifications"
+#~ msgstr "Certifications"
+
+#: src/portfolio.js:278
+msgid "Certifications 🏆 "
+msgstr "Certifications 🏆"
+
+#: src/portfolio.js:284
+#~ msgid "Certified Scrum Product Owner®"
+#~ msgstr "Scrum Product Owner Certification"
+
+#: src/portfolio.js:284
+msgid "Certified Scrum Product Owner® "
+msgstr "Scrum Product Owner Certification (CSPO)"
+
+#: src/containers/genetec/Genetec.js:8
+msgid "ClearID by Genetec is an advanced identity and access management solution designed to streamline and secure operations for organizations. As part of the Genetec ecosystem, ClearID focuses on providing a robust platform that simplifies identity verification, enhances security, and integrates seamlessly with existing systems. The project aims to deliver a reliable, scalable, and user-friendly solution that meets the evolving needs of modern security operations."
+msgstr "ClearID par Genetec est une solution avancée de gestion des identités et des accès conçue pour rationaliser et sécuriser les opérations des organisations. Faisant partie de l'écosystème Genetec, ClearID se concentre sur la fourniture d'une plateforme robuste qui simplifie la vérification des identités, améliore la sécurité et s'intègre de manière transparente aux systèmes existants. Le projet vise à fournir une solution fiable, évolutive et conviviale qui répond aux besoins changeants des opérations de sécurité modernes."
+
+#: src/containers/ferya/FeryaEventDecor.js:38
+msgid "Client-Centric Focus"
+msgstr "Concentration sur le Client"
+
+#: src/portfolio.js:235
+msgid "Co-founded and developed a unique event decoration brand, defining its identity, business strategy, and client-focused solutions. Managed the product side, including service design, pricing strategies, and customer experience optimization."
+msgstr "Co-fondation et développement d'une marque unique de décoration d'événements, en définissant son identité, sa stratégie business et des solutions centrées sur le client. Gestion du côté produit, incluant la conception des services, les stratégies de tarification et l'optimisation de l'expérience client."
+
+#: src/portfolio.js:233
+msgid "Co-Founder & Product Manager"
+msgstr "Co-fondatrice & Product Manager"
+
+#: src/containers/ferya/FeryaEventDecor.js:10
+msgid "Co-Founder & Product Owner"
+msgstr "Co-fondatrice & Gestionnaire Produit"
+
+#: src/containers/genetec/Genetec.js:17
+msgid "Collaborate Effectively"
+msgstr "Collaborer efficacement"
+
+#: src/containers/ferya/FeryaEventDecor.js:83
+msgid "Collaboration with influencers and partners to increase visibility."
+msgstr "Collaboration avec des influenceurs et des partenaires pour accroître la visibilité."
+
+#: src/containers/theLink/TheLink.js:47
+msgid "Collaborative Leadership"
+msgstr "Leadership collaboratif"
+
+#: src/containers/recursyve/Recursyve.js:35
+#: src/containers/ferya/FeryaEventDecor.js:41
+msgid "Collaborative Planning"
+msgstr "Planification collaborative"
+
+#: src/containers/ferya/FeryaEventDecor.js:62
+msgid "Competitive analysis to identify opportunities."
+msgstr "Analyse concurrentielle pour identifier les opportunités."
+
+#: src/portfolio.js:285
+msgid "Completed Certifcation from Scrum Alliance for CSPO"
+msgstr "Certification obtenue auprès de Scrum Alliance pour CSPO"
+
+#: src/containers/recursyve/Recursyve.js:48
+msgid "Conducted demos with clients to gather their feedback, making adjustments as needed to meet their expectations."
+msgstr "J'ai réalisé des démonstrations avec les clients pour recueillir leurs retours, en apportant des ajustements pour répondre à leurs attentes."
+
+#: src/containers/theLink/TheLink.js:62
+msgid "Conducted in-depth analysis of market trends and competitors to identify opportunities."
+msgstr "J'ai mené une analyse approfondie des tendances du marché et des concurrents pour identifier les opportunités."
+
+#: src/portfolio.js:125
+msgid "Conducted research requiring critical thinking, hypothesis testing, and data interpretation, fostering a structured problem-solving approach."
+msgstr "Réalisation de recherches nécessitant une pensée critique, des tests d'hypothèses et l'interprétation de données, favorisant une approche structurée de résolution de problèmes."
+
+#: src/containers/greeting/Greeting.js:46
+msgid "Contact me"
+msgstr "Contactez-moi"
+
+#: src/components/header/Header.js:85
+msgid "Contact Me"
+msgstr "Contactez-moi"
+
+#: src/portfolio.js:379
+msgid "Contact Me ☎️"
+msgstr "Contactez-moi ☎️"
+
+#: src/containers/genetec/Genetec.js:50
+#: src/containers/ferya/FeryaEventDecor.js:50
+msgid "Continuous Learning"
+msgstr "Apprentissage continu"
+
+#: src/containers/theLink/TheLink.js:92
+msgid "Continuously refine the product roadmap based on user feedback and market trends."
+msgstr "Affiner continuellement la feuille de route produit en fonction des retours utilisateurs et des tendances du marché."
+
+#: src/portfolio.js:186
+msgid "Contributed to the development of a generic data transformation solution (ETL)."
+msgstr "Contribution au développement d'une solution générique de transformation de données (ETL)."
+
+#: src/containers/ferya/FeryaEventDecor.js:65
+msgid "Cost and margin analysis for each service and product."
+msgstr "Analyse des coûts et des marges pour chaque service et produit."
+
+#: src/containers/genetec/Genetec.js:30
+msgid "Create a high-performance application that delivers a seamless user experience."
+msgstr "Créer une application haute performance offrant une expérience utilisateur fluide."
+
+#: src/containers/ferya/FeryaEventDecor.js:18
+msgid "Create a recognizable and trusted brand in the event decoration industry."
+msgstr "Créer une marque reconnaissable et de confiance dans l'industrie de la décoration d'événements."
+
+#: src/containers/theLink/TheLink.js:24
+msgid "Create a solution that can grow and adapt to evolving market demands and user expectations."
+msgstr "Créer une solution capable de croître et de s'adapter aux demandes changeantes du marché et aux attentes des utilisateurs."
+
+#: src/containers/recursyve/Recursyve.js:27
+msgid "Create an intuitive and engaging experience tailored to poker players' needs."
+msgstr "Créer une expérience intuitive et engageante adaptée aux besoins des joueurs de poker."
+
+#: src/containers/ferya/FeryaEventDecor.js:92
+msgid "Creation of customized packages to meet specific client needs."
+msgstr "Création de packages personnalisés pour répondre aux besoins spécifiques des clients."
+
+#: src/containers/ferya/FeryaEventDecor.js:74
+msgid "Creation of prototypes and testing with a target audience."
+msgstr "Création de prototypes et tests auprès d'un public cible."
+
+#: src/containers/recursyve/Recursyve.js:41
+msgid "Cross-Functional Teamwork"
+msgstr "Travail d'équipe interfonctionnel"
+
+#: src/containers/ferya/FeryaEventDecor.js:91
+msgid "Customer Experience"
+msgstr "Expérience client"
+
+#: src/portfolio.js:98
+msgid "D.E.S.S. in Management"
+msgstr "D.E.S.S. en Gestion"
+
+#: src/containers/theLink/TheLink.js:44
+msgid "Data-Driven Decisions"
+msgstr "Décisions basées sur les données"
+
+#: src/containers/theLink/TheLink.js:18
+msgid "Define a clear and compelling value proposition that differentiates The Link by Evolvia in the market."
+msgstr "Définir une proposition de valeur claire et convaincante qui différencie The Link by Evolvia sur le marché."
+
+#: src/containers/theLink/TheLink.js:65
+msgid "Defined the business model, value proposition, and revenue streams."
+msgstr "Définition du modèle d'affaires, de la proposition de valeur et des flux de revenus."
+
+#: src/containers/ferya/FeryaEventDecor.js:65
+msgid "Definition of a competitive pricing strategy."
+msgstr "Définition d'une stratégie de tarification compétitive."
+
+#: src/containers/ferya/FeryaEventDecor.js:68
+msgid "Definition of the visual identity and core values of the brand."
+msgstr "Définition de l'identité visuelle et des valeurs fondamentales de la marque."
+
+#: src/containers/theLink/TheLink.js:51
+msgid "Deliver a high-quality product that not only meets but exceeds user expectations."
+msgstr "Livrer un produit de haute qualité qui dépasse les attentes des utilisateurs."
+
+#: src/containers/recursyve/Recursyve.js:18
+msgid "Deliver a platform that truly helps players improve their skills and performance."
+msgstr "Livrer une plateforme qui aide réellement les joueurs à améliorer leurs compétences et leurs performances."
+
+#: src/containers/genetec/Genetec.js:23
+msgid "Deliver a Secure Solution"
+msgstr "Fournir une solution sécurisée"
+
+#: src/containers/theLink/TheLink.js:20
+msgid "Deliver a User-Centric Solution"
+msgstr "Fournir une solution centrée sur l'utilisateur"
+
+#: src/containers/ferya/FeryaEventDecor.js:20
+msgid "Deliver Exceptional Experiences"
+msgstr "Offrir des expériences exceptionnelles"
+
+#: src/portfolio.js:203
+msgid "Designed user interfaces with ReactJS, TypeScript, and MaterialUI."
+msgstr "Conception d'interfaces utilisateur avec ReactJS, TypeScript et MaterialUI."
+
+#: src/containers/ferya/FeryaEventDecor.js:10
+msgid "Despite these challenges, seeing our clients' reactions to our work and building a reputation for excellence make every hurdle worthwhile. This experience continues to teach me the importance of resilience, adaptability, and client-centric thinking in growing a successful business."
+msgstr "Malgré ces défis, voir les réactions de nos clients à notre travail et bâtir une réputation d'excellence rendent chaque obstacle valable. Cette expérience continue de m'enseigner l'importance de la résilience, de l'adaptabilité et d'une réflexion centrée sur le client pour développer une entreprise prospère."
+
+#: src/containers/genetec/Genetec.js:24
+msgid "Develop a platform that prioritizes security and compliance with industry standards."
+msgstr "Développer une plateforme qui priorise la sécurité et la conformité aux normes de l'industrie."
+
+#: src/containers/theLink/TheLink.js:21
+msgid "Develop a platform that prioritizes user needs, ensuring an intuitive and seamless experience."
+msgstr "Développer une plateforme qui priorise les besoins des utilisateurs, en assurant une expérience intuitive et fluide."
+
+#: src/containers/theLink/TheLink.js:80
+msgid "Develop and deploy a feedback form to gather insights on real user problems and validate our solution."
+msgstr "Développer et déployer un formulaire de feedback pour recueillir des insights sur les problèmes réels des utilisateurs et valider notre solution."
+
+#: src/containers/ferya/FeryaEventDecor.js:24
+msgid "Develop relationships with reliable vendors, suppliers, and industry partners."
+msgstr "Développer des relations avec des fournisseurs, des vendeurs et des partenaires industriels fiables."
+
+#: src/portfolio.js:122
+msgid "Developed analytical and problem-solving skills through the study of complex biological systems and research projects."
+msgstr "Développement de compétences analytiques et de résolution de problèmes grâce à l'étude de systèmes biologiques complexes et à des projets de recherche."
+
+#: src/portfolio.js:188
+msgid "Developed and executed unit tests to ensure the proper functioning of all features."
+msgstr "Développement et exécution de tests unitaires pour garantir le bon fonctionnement de toutes les fonctionnalités."
+
+#: src/portfolio.js:102
+msgid "Developed expertise in project management, Agile methodologies, and cross-functional team leadership."
+msgstr "Développement d'une expertise en gestion de projet, méthodologies Agile et leadership d'équipes pluridisciplinaires."
+
+#: src/portfolio.js:201
+msgid "Developed microservices using C# and ASP.NET."
+msgstr "Développement de microservices en utilisant C# et ASP.NET."
+
+#: src/portfolio.js:114
+msgid "Developed practical skills in web development, operating systems, and software security through coursework and team projects."
+msgstr "Acquisition de compétences pratiques en développement web, systèmes d'exploitation et sécurité logicielle à travers des cours et des projets d'équipe."
+
+#: src/containers/ferya/FeryaEventDecor.js:80
+msgid "Development of a user-friendly and responsive e-commerce website."
+msgstr "Développement d'un site e-commerce convivial et réactif."
+
+#: src/containers/greeting/Greeting.js:53
+msgid "Download my resume"
+msgstr "Télécharger mon CV"
+
+#: src/containers/recursyve/Recursyve.js:63
+msgid "Easy-to-understand tips and strategies, avoiding unnecessary complexity."
+msgstr "Conseils et stratégies faciles à comprendre, évitant toute complexité inutile."
+
+#: src/containers/education/Education.js:13
+msgid "Education"
+msgstr "Éducation"
+
+#: src/containers/genetec/Genetec.js:45
+msgid "Embed security best practices into every aspect of development to ensure a robust and reliable platform."
+msgstr "Intégrer les meilleures pratiques de sécurité dans chaque aspect du développement pour garantir une plateforme robuste et fiable."
+
+#: src/containers/genetec/Genetec.js:20
+msgid "Enhance User Experience"
+msgstr "Améliorer l'expérience utilisateur"
+
+#: src/containers/recursyve/Recursyve.js:17
+msgid "Enhance User Value"
+msgstr "Améliorer la valeur pour l'utilisateur"
+
+#: src/portfolio.js:198
+msgid "Enhanced meeting efficiency by implementing structured agendas and time management techniques."
+msgstr "Amélioration de l'efficacité des réunions grâce à la mise en place d'ordres du jour structurés et de techniques de gestion du temps."
+
+#: src/containers/genetec/Genetec.js:26
+msgid "Ensure Scalability"
+msgstr "Assurer l'évolutivité"
+
+#: src/containers/recursyve/Recursyve.js:26
+msgid "Ensure User-Centric Design"
+msgstr "Assurer une conception centrée sur l'utilisateur"
+
+#: src/containers/ferya/FeryaEventDecor.js:17
+msgid "Establish a Unique Brand"
+msgstr "Établir une marque unique"
+
+#: src/containers/theLink/TheLink.js:17
+msgid "Establish a Unique Value Proposition"
+msgstr "Définir une proposition de valeur unique"
+
+#: src/containers/theLink/TheLink.js:74
+msgid "Established a clear vision and defined the unique value The Link brings to its users."
+msgstr "Établir une vision claire et définir la valeur unique que The Link apporte à ses utilisateurs."
+
+#: src/containers/ferya/FeryaEventDecor.js:27
+msgid "Expand our client base and service offerings while maintaining profitability."
+msgstr "Élargir notre base de clients et nos offres de services tout en maintenant la rentabilité."
+
+#: src/containers/ferya/FeryaEventDecor.js:85
+msgid "Expansion of Offerings"
+msgstr "Expansion des offres"
+
+#: src/containers/ferya/FeryaEventDecor.js:86
+msgid "Exploration of collaborations with local event planners and vendors."
+msgstr "Exploration de collaborations avec des organisateurs d'événements locaux et des fournisseurs."
+
+#: src/containers/theLink/TheLink.js:89
+msgid "Explore collaborations with industry partners to enhance the platform's reach and impact."
+msgstr "Explorer des collaborations avec des partenaires industriels pour accroître la portée et l'impact de la plateforme."
+
+#: src/portfolio.js:187
+msgid "Facilitated email customization through an API as part of a custom notification service powered by Spring Boot."
+msgstr "Facilitation de la personnalisation des e-mails via une API dans le cadre d'un service de notifications personnalisées utilisant Spring Boot."
+
+#: src/portfolio.js:199
+msgid "Facilitated the transition from a Kanban to Shape Up development process, streamlining workflows and increasing productivity."
+msgstr "Facilitation de la transition d'un processus de développement Kanban à Shape Up, optimisant les workflows et augmentant la productivité."
+
+#: src/containers/recursyve/Recursyve.js:52
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#: src/portfolio.js:254
+msgid "February 2025 – Ongoing"
+msgstr "Février 2025 – En cours"
+
+#: src/containers/theLink/TheLink.js:10
+msgid "February 2025 — Ongoing"
+msgstr "Février 2025 — En cours"
+
+#: src/portfolio.js:372
+msgid "Feel free to download my resume"
+msgstr "N'hésitez pas à télécharger mon CV"
+
+#: src/portfolio.js:232
+msgid "Ferya Event Decor & Design"
+msgstr "Ferya, Décoration et design d'évènements"
+
+#: src/containers/ferya/FeryaEventDecor.js:8
+msgid "Ferya Event Decor & Design is a creative venture specializing in custom event decoration and design for special occasions. From weddings and corporate events to private parties, we transform spaces into unforgettable experiences. Our mission is to blend creativity, elegance, and functionality to bring our clients' visions to life."
+msgstr "Ferya Event Decor & Design est une entreprise créative spécialisée dans la décoration et le design d'événements sur mesure pour des occasions spéciales. Des mariages et événements d'entreprise aux fêtes privées, nous transformons les espaces en expériences inoubliables. Notre mission est de combiner créativité, élégance et fonctionnalité pour donner vie à la vision de nos clients."
+
+#: src/containers/genetec/Genetec.js:21
+msgid "Focus on intuitive design and functionality to ensure the platform is easy to use and meets user needs."
+msgstr "Se concentrer sur une conception intuitive et une fonctionnalité pour garantir que la plateforme est facile à utiliser et répond aux besoins des utilisateurs."
+
+#: src/containers/theLink/TheLink.js:50
+msgid "Focus on Quality"
+msgstr "Se concentrer sur la qualité"
+
+#: src/containers/ferya/FeryaEventDecor.js:48
+msgid "Focused on delivering exceptional quality, even if it meant taking on fewer projects initially."
+msgstr "Concentration sur la livraison d'une qualité exceptionnelle, même si cela signifiait accepter moins de projets au départ."
+
+#: src/containers/theLink/TheLink.js:48
+msgid "Foster a culture of teamwork and open communication to ensure alignment and shared ownership of the product vision."
+msgstr "Favoriser une culture de travail d'équipe et de communication ouverte pour assurer l'alignement et la propriété partagée de la vision du produit."
+
+#: src/containers/theLink/TheLink.js:26
+msgid "Foster Innovation"
+msgstr "Favoriser l'innovation"
+
+#: src/containers/genetec/Genetec.js:48
+msgid "Foster open communication and teamwork to address challenges, share knowledge, and achieve shared goals."
+msgstr "Favoriser une communication ouverte et le travail d'équipe pour relever les défis, partager les connaissances et atteindre des objectifs communs."
+
+#: src/containers/recursyve/Recursyve.js:42
+msgid "Fostered collaboration between developers, designers, and the product owner to align on priorities and ensure seamless execution."
+msgstr "J'ai favorisé la collaboration entre les développeurs, les designers et le gestionnaire produit pour aligner les priorités et assurer une exécution fluide."
+
+#: src/portfolio.js:124
+msgid "Gained expertise in analyzing complex systems, translating to breaking down intricate product challenges and identifying root causes."
+msgstr "Acquisition d'une expertise dans l'analyse de systèmes complexes, permettant de décomposer des défis produits complexes et d'identifier les causes profondes."
+
+#: src/portfolio.js:113
+msgid "Gained hands-on experience in software engineering principles, including object-oriented programming, algorithms, and database management."
+msgstr "Acquisition d'une expérience pratique en principes de génie logiciel, incluant la programmation orientée objet, les algorithmes et la gestion de bases de données."
+
+#: src/portfolio.js:196
+msgid "Genetec is a global leader in security solutions, providing innovative technologies for video surveillance, access control, and analytics. I contributed to enhancing development processes, building microservices, and designing user interfaces."
+msgstr "Genetec est un leader mondial en solutions de sécurité, fournissant des technologies innovantes pour la vidéosurveillance, le contrôle d'accès et l'analyse. J'ai contribué à l'amélioration des processus de développement, à la construction de microservices et à la conception d'interfaces utilisateur."
+
+#: src/containers/ferya/FeryaEventDecor.js:26
+msgid "Grow the Business"
+msgstr "Faire croître l'entreprise"
+
+#: src/portfolio.js:96
+msgid "HEC Montreal"
+msgstr "HEC Montréal"
+
+#: src/portfolio.js:47
+msgid "Hi there! I'm Sandra"
+msgstr "Salut ! Je m'appelle Sandra"
+
+#: src/containers/ferya/FeryaEventDecor.js:71
+msgid "Identification and selection of reliable suppliers for materials and products."
+msgstr "Identification et sélection de fournisseurs fiables pour les matériaux et produits."
+
+#: src/containers/ferya/FeryaEventDecor.js:62
+msgid "Identification of client needs and expectations."
+msgstr "Identification des besoins et attentes des clients."
+
+#: src/containers/theLink/TheLink.js:68
+msgid "Identified and analyzed target user personas to better understand their needs and pain points."
+msgstr "Identification et analyse des personas utilisateurs cibles pour mieux comprendre leurs besoins et irritations."
+
+#: src/containers/ferya/FeryaEventDecor.js:92
+msgid "Implementation of a feedback system to continuously improve services."
+msgstr "Mise en place d'un système de feedback pour améliorer continuellement les services."
+
+#: src/containers/ferya/FeryaEventDecor.js:89
+msgid "Implementation of a stock and order management system."
+msgstr "Mise en place d'un système de gestion des stocks et des commandes."
+
+#: src/portfolio.js:204
+msgid "Implemented asynchronous communication with an event-driven system."
+msgstr "Mise en œuvre d'une communication asynchrone avec un système basé sur les événements."
+
+#: src/containers/recursyve/Recursyve.js:10
+msgid "In the end, my role was about more than delivering a product—it was about fostering collaboration, solving problems, and creating something that truly resonated with users. This experience reinforced the importance of adaptability, clear communication, and a user-first mindset in driving successful projects."
+msgstr "Au final, mon rôle allait au-delà de la livraison d'un produit : il s'agissait de favoriser la collaboration, de résoudre des problèmes et de créer quelque chose qui résonne vraiment avec les utilisateurs. Cette expérience a renforcé l'importance de l'adaptabilité, de la communication claire et d'un état d'esprit centré sur l'utilisateur pour mener à bien des projets réussis."
+
+#: src/containers/theLink/TheLink.js:27
+msgid "Incorporate cutting-edge technologies and creative ideas to keep the product ahead of industry trends."
+msgstr "Intégrer des technologies de pointe et des idées créatives pour maintenir le produit en avance sur les tendances de l'industrie."
+
+#: src/containers/ferya/FeryaEventDecor.js:29
+msgid "Innovate Continuously"
+msgstr "Innover continuellement"
+
+#: src/portfolio.js:228
+msgid "INNOVATIVE INITIATIVES I'VE SHAPED FROM CONCEPT TO EXECUTION"
+msgstr "INITIATIVES INNOVANTES QUE J'AI CONÇUES ET MISES EN ŒUVRE"
+
+#: src/containers/recursyve/Recursyve.js:60
+msgid "Instant recommendations during gameplay to help players make better decisions"
+msgstr "Recommandations instantanées pendant le jeu pour aider les joueurs à prendre de meilleures décisions"
+
+#: src/containers/ferya/FeryaEventDecor.js:80
+msgid "Integration of a secure booking and payment system."
+msgstr "Intégration d'un système de réservation et de paiement sécurisé."
+
+#: src/containers/recursyve/Recursyve.js:65
+msgid "Interactive Interface"
+msgstr "Interface interactive"
+
+#: src/containers/recursyve/Recursyve.js:38
+msgid "Iterative Development"
+msgstr "Développement itératif"
+
+#: src/portfolio.js:195
+msgid "January 2023 – August 2024"
+msgstr "Janvier 2023 – Août 2024"
+
+#: src/containers/genetec/Genetec.js:10
+msgid "January 2023 — August 2024"
+msgstr "Janvier 2023 — Août 2024"
+
+#: src/portfolio.js:180
+msgid "Java Backend Developer"
+msgstr "Développeuse Backend Java"
+
+#: src/containers/ferya/FeryaEventDecor.js:82
+msgid "Launch Campaign"
+msgstr "Campagne de lancement"
+
+#: src/containers/ferya/FeryaEventDecor.js:79
+msgid "Launch of the Online Platform"
+msgstr "Lancement de la plateforme en ligne"
+
+#: src/containers/ferya/FeryaEventDecor.js:10
+msgid "Launching Ferya Event Decor & Design is both exhilarating and challenging. One of the most significant challenges is establishing credibility in a highly competitive market. We consistently prove our value and creativity to differentiate ourselves. Another ongoing challenge is managing limited resources, especially in the early stages, from navigating budget constraints to building a reliable network of suppliers and vendors."
+msgstr "Lancer Ferya Event Decor & Design est à la fois exaltant et stimulant. L'un des défis les plus importants est d'établir une crédibilité sur un marché très concurrentiel. Nous prouvons constamment notre valeur et notre créativité pour nous différencier. Un autre défi permanent est la gestion des ressources limitées, surtout dans les premières étapes, de la navigation dans les contraintes budgétaires à la construction d'un réseau fiable de fournisseurs et de vendeurs."
+
+#: src/portfolio.js:164
+msgid "Led client meetings to define and refine application requirements."
+msgstr "Animation de réunions clients pour définir et affiner les exigences applicatives."
+
+#: src/containers/theLink/TheLink.js:42
+msgid "Leverage agile practices to ensure flexibility, transparency, and continuous improvement throughout the development process."
+msgstr "Utiliser des pratiques agiles pour assurer flexibilité, transparence et amélioration continue tout au long du processus de développement."
+
+#: src/portfolio.js:381
+msgid "Looking to hire or discuss a project? Let's connect and explore how I can add value to your team or initiative!"
+msgstr "Vous cherchez à recruter ou à discuter d'un projet ? Contactez-moi pour explorer comment je peux apporter de la valeur à votre équipe ou initiative !"
+
+#: src/components/footer/Footer.js:16
+msgid "Made with ❤️ by DeveloperFolio Team | Adapted by Your Next Product Owner "
+msgstr "Fait avec ❤️ par l'équipe DeveloperFolio | Adapté par Votre Futur Product Owner"
+
+#: src/containers/recursyve/Recursyve.js:21
+msgid "Make advanced poker strategies accessible to players of all levels."
+msgstr "Rendre les stratégies de poker avancées accessibles aux joueurs de tous niveaux."
+
+#: src/portfolio.js:202
+msgid "Managed NoSQL databases such as MongoDB and ElasticSearch."
+msgstr "Gestion de bases de données NoSQL telles que MongoDB et ElasticSearch."
+
+#: src/portfolio.js:183
+msgid "March 2022 – November 2022"
+msgstr "Mars 2022 - Novembre 2022"
+
+#: src/containers/theLink/TheLink.js:61
+msgid "Market and Competitor Research"
+msgstr "Recherche de marché et analyse concurrentielle"
+
+#: src/containers/ferya/FeryaEventDecor.js:61
+msgid "Market Research"
+msgstr "Étude de marché"
+
+#: src/containers/ferya/FeryaEventDecor.js:67
+msgid "Marketing and Branding Strategy"
+msgstr "Stratégie de marketing et de branding"
+
+#: src/components/modalContent/ModalContent.js:70
+msgid "Milestones Achieved"
+msgstr "Étapes clés Accomplies"
+
+#: src/portfolio.js:168
+msgid "Monitored project progression and applied corrective measures as needed."
+msgstr "Suivi de la progression du projet et application de mesures correctives si nécessaire."
+
+#: src/portfolio.js:173
+#: src/portfolio.js:209
+#: src/portfolio.js:244
+#: src/portfolio.js:264
+msgid "More"
+msgstr "Plus"
+
+#: src/containers/theLink/TheLink.js:34
+#: src/containers/recursyve/Recursyve.js:31
+#: src/containers/genetec/Genetec.js:34
+#: src/containers/ferya/FeryaEventDecor.js:34
+msgid "My approach"
+msgstr "Mon approche"
+
+#: src/containers/theLink/TheLink.js:36
+msgid "My approach is centered on collaboration, agility, and a relentless focus on delivering value. I believe in working closely with stakeholders, developers, and users to ensure the product aligns with both business goals and user expectations. By embracing an iterative process, I aim to adapt quickly to challenges and opportunities, ensuring the product evolves in response to real-world feedback."
+msgstr "Mon approche est centrée sur la collaboration, l'agilité et une concentration inébranlable sur la livraison de valeur. Je crois en un travail étroit avec les parties prenantes, les développeurs et les utilisateurs pour m'assurer que le produit est aligné sur les objectifs business et les attentes des utilisateurs. En adoptant un processus itératif, je vise à m'adapter rapidement aux défis et opportunités, en veillant à ce que le produit évolue en fonction des retours du monde réel."
+
+#: src/containers/genetec/Genetec.js:36
+msgid "My approach is rooted in collaboration and precision. I believe in working closely with teams to understand requirements, solve problems, and deliver solutions that align with both technical and business objectives. By embracing agile methodologies and a user-first mindset, I ensure the platform is both secure and intuitive."
+msgstr "Mon approche est ancrée dans la collaboration et la précision. Je crois en un travail étroit avec les équipes pour comprendre les exigences, résoudre les problèmes et fournir des solutions alignées sur les objectifs techniques et business. En adoptant des méthodologies agiles et un état d'esprit centré sur l'utilisateur, je m'assure que la plateforme est à la fois sécurisée et intuitive."
+
+#: src/containers/ferya/FeryaEventDecor.js:36
+msgid "My approach is rooted in creativity, collaboration, and a commitment to excellence. I believe in putting clients at the heart of every project, ensuring their vision is brought to life with precision and passion. By fostering teamwork, embracing adaptability, and maintaining a relentless focus on quality, I strive to deliver exceptional results that leave a lasting impression."
+msgstr "Mon approche est ancrée dans la créativité, la collaboration et un engagement envers l'excellence. Je crois en la mise des clients au cœur de chaque projet, en m'assurant que leur vision prend vie avec précision et passion. En favorisant le travail d'équipe, en adoptant l'adaptabilité et en maintenant une concentration inébranlable sur la qualité, je m'efforce de fournir des résultats exceptionnels qui laissent une impression durable."
+
+#: src/containers/theLink/TheLink.js:9
+#: src/containers/recursyve/Recursyve.js:9
+#: src/containers/genetec/Genetec.js:9
+#: src/containers/ferya/FeryaEventDecor.js:9
+msgid "My Contributions"
+msgstr "Mes contributions"
+
+#: src/containers/theLink/TheLink.js:10
+#: src/containers/recursyve/Recursyve.js:10
+#: src/containers/genetec/Genetec.js:10
+#: src/containers/ferya/FeryaEventDecor.js:10
+msgid "My Experience"
+msgstr "Mon expérience"
+
+#: src/containers/ferya/FeryaEventDecor.js:15
+msgid "My primary objectives are to build a strong foundation for Ferya Event Decor & Design, ensuring its growth and sustainability in a competitive market. I aim to create a brand that stands out for its creativity, reliability, and ability to deliver unforgettable experiences. By focusing on innovation, client satisfaction, and strategic partnerships, I strive to position the company as a leader in the event decoration industry while fostering long-term success and continuous improvement."
+msgstr "Mes principaux objectifs sont de construire une base solide pour Ferya Event Decor & Design, en assurant sa croissance et sa durabilité sur un marché concurrentiel. Je vise à créer une marque qui se distingue par sa créativité, sa fiabilité et sa capacité à offrir des expériences inoubliables. En me concentrant sur l'innovation, la satisfaction des clients et les partenariats stratégiques, je m'efforce de positionner l'entreprise comme un leader dans l'industrie de la décoration d'événements tout en favorisant un succès à long terme et une amélioration continue."
+
+#: src/containers/genetec/Genetec.js:15
+msgid "My primary objectives for ClearID were to deliver a secure, scalable, and user-friendly identity management platform that meets the evolving needs of organizations. I aimed to ensure the platform’s reliability, performance, and compliance with industry standards while driving continuous improvement."
+msgstr "Mes principaux objectifs pour ClearID étaient de fournir une plateforme de gestion des identités sécurisée, évolutive et conviviale qui répond aux besoins changeants des organisations. Je visais à garantir la fiabilité, les performances et la conformité de la plateforme aux normes de l'industrie tout en favorisant une amélioration continue."
+
+#: src/containers/theLink/TheLink.js:15
+msgid "My primary objectives for The Link by Evolvia are to establish a strong product-market fit, deliver a solution that exceeds user expectations, and position the product as a leader in its space. I aim to create a scalable and sustainable platform that not only addresses current market needs but also anticipates future trends. By fostering innovation, collaboration, and continuous improvement, I strive to ensure the product’s long-term success and impact."
+msgstr "Mes principaux objectifs pour The Link by Evolvia sont d'établir un fort product-market fit, de livrer une solution qui dépasse les attentes des utilisateurs et de positionner le produit comme un leader dans son domaine. Je vise à créer une plateforme évolutive et durable qui répond non seulement aux besoins actuels du marché, mais anticipe également les tendances futures. En favorisant l'innovation, la collaboration et l'amélioration continue, je m'efforce d'assurer le succès et l'impact à long terme du produit."
+
+#: src/containers/ferya/FeryaEventDecor.js:71
+msgid "Negotiation of contracts and supply terms."
+msgstr "Négociation des contrats et des conditions d'approvisionnement."
+
+#: src/components/modalContent/ModalContent.js:71
+msgid "Next Horizons"
+msgstr "Prochaines Étapes"
+
+#: src/containers/recursyve/Recursyve.js:12
+#: src/containers/genetec/Genetec.js:12
+#: src/containers/ferya/FeryaEventDecor.js:12
+msgid "Objectives"
+msgstr "Objectifs"
+
+#: src/containers/recursyve/Recursyve.js:24
+msgid "Offer immediate, actionable recommendations during gameplay."
+msgstr "Offrir des recommandations immédiates et actionnables pendant le jeu."
+
+#: src/containers/recursyve/Recursyve.js:10
+msgid "One of the biggest challenges was addressing the core problem with existing poker tools: they provided data but failed to deliver actionable, personalized insights. Players often found the strategies too complex and the feedback too generic. Ruse aimed to solve this by leveraging AI algorithms to analyze gameplay and provide tailored recommendations that were easy to understand and implement."
+msgstr "L'un des plus grands défis était de résoudre le problème central des outils de poker existants : ils fournissaient des données mais ne livraient pas d'analyses actionnables et personnalisées. Les joueurs trouvaient souvent les stratégies trop complexes et les retours trop génériques. Ruse visait à résoudre cela en utilisant des algorithmes d'IA pour analyser le gameplay et fournir des recommandations sur mesure, faciles à comprendre et à mettre en œuvre."
+
+#: src/portfolio.js:298
+msgid "Ongoing Certifcation from Project Management Institute for PMP"
+msgstr "Certification en cours auprès du Project Management Institute pour PMP"
+
+#: src/components/header/Header.js:61
+msgid "Open Source"
+msgstr "Open Source"
+
+#: src/containers/ferya/FeryaEventDecor.js:88
+msgid "Operations Optimization"
+msgstr "Optimisation des opérations"
+
+#: src/containers/genetec/Genetec.js:29
+msgid "Optimize Performance"
+msgstr "Optimiser les performances"
+
+#: src/portfolio.js:167
+msgid "Optimized development processes through creation and improvement initiatives."
+msgstr "Optimisation des processus de développement grâce à des initiatives de création et d'amélioration."
+
+#: src/portfolio.js:200
+msgid "Organized and led team-building events to foster collaboration and improve team dynamics."
+msgstr "Organisation et animation d'événements de team-building pour favoriser la collaboration et améliorer la dynamique d'équipe."
+
+#: src/containers/ferya/FeryaEventDecor.js:58
+msgid "Our journey at Ferya Event Decor & Design is a blend of strategic milestones and ambitious future plans. Below, you'll find a snapshot of what we've accomplished so far and where we're headed next, as we continue to innovate and deliver exceptional experiences for our clients."
+msgstr "Notre parcours chez Ferya Event Decor & Design est un mélange d'étapes stratégiques et de plans ambitieux pour l'avenir. Ci-dessous, vous trouverez un aperçu de ce que nous avons accompli jusqu'à présent et de nos prochaines étapes, alors que nous continuons à innover et à offrir des expériences exceptionnelles à nos clients."
+
+#: src/containers/theLink/TheLink.js:58
+msgid "Our journey with The Link by Evolvia is driven by a commitment to solving real-world problems through innovative solutions. Below, you'll find a summary of the key milestones we've achieved and the exciting steps we're planning to take as we refine our vision and deliver impactful value"
+msgstr "Notre parcours avec The Link by Evolvia est motivé par un engagement à résoudre des problèmes réels grâce à des solutions innovantes. Ci-dessous, vous trouverez un résumé des étapes clés que nous avons franchies et des étapes passionnantes que nous prévoyons de prendre pour affiner notre vision et fournir une valeur impactante."
+
+#: src/containers/theLink/TheLink.js:88
+msgid "Partnership Exploration"
+msgstr "Exploration de partenariats"
+
+#: src/portfolio.js:63
+msgid "Passionate about continuous learning and growth as a Product Owner, with a strong focus on motivating teams and delivering impactful, innovative solutions."
+msgstr "Passionnée par l'apprentissage continu et la croissance en tant que Gestionnaire Produit, avec un accent fort sur la motivation des équipes et la livraison de solutions innovantes et impactantes."
+
+#: src/containers/theLink/TheLink.js:67
+msgid "Persona Analysis"
+msgstr "Analyse des personas"
+
+#: src/containers/recursyve/Recursyve.js:56
+msgid "Personalized Insights"
+msgstr "Analyses personnalisées"
+
+#: src/containers/theLink/TheLink.js:71
+msgid "Pinpointed key problems and opportunities in the market."
+msgstr "Identification des problèmes et opportunités clés sur le marché."
+
+#: src/containers/ferya/FeryaEventDecor.js:83
+msgid "Planning and execution of a digital marketing campaign (social media, targeted ads, etc.)."
+msgstr "Planification et exécution d'une campagne de marketing digital (réseaux sociaux, publicités ciblées, etc.)."
+
+#: src/containers/ferya/FeryaEventDecor.js:68
+msgid "Planning of photo sessions to create an attractive portfolio."
+msgstr "Planification de séances photo pour créer un portfolio attractif."
+
+#: src/portfolio.js:107
+msgid "Polytechnique Montreal"
+msgstr "Polytechnique Montréal"
+
+#: src/containers/ferya/FeryaEventDecor.js:64
+msgid "Pricing Study"
+msgstr "Étude de tarification"
+
+#: src/containers/theLink/TheLink.js:39
+msgid "Prioritize understanding user needs and pain points to create a solution that truly resonates."
+msgstr "Prioriser la compréhension des besoins et des irritations des utilisateurs pour créer une solution qui résonne vraiment."
+
+#: src/containers/genetec/Genetec.js:39
+msgid "Prioritize user needs to create an intuitive and efficient platform."
+msgstr "Prioriser les besoins des utilisateurs pour créer une plateforme intuitive et efficace."
+
+#: src/containers/ferya/FeryaEventDecor.js:39
+msgid "Prioritized understanding clients' visions and translating them into stunning designs."
+msgstr "Priorisation de la compréhension des visions des clients et de leur traduction en designs époustouflants."
+
+#: src/containers/recursyve/Recursyve.js:45
+msgid "Proactively identified and mitigated risks to keep the project on track and within scope."
+msgstr "J'ai identifié et atténué les risques de manière proactive pour maintenir le projet sur la bonne voie et dans le cadre défini."
+
+#: src/containers/theLink/TheLink.js:70
+msgid "Problem and Opportunity Identification"
+msgstr "Identification des problèmes et opportunités"
+
+#: src/portfolio.js:253
+msgid "Product Manager"
+msgstr "Product Manager"
+
+#: src/containers/ferya/FeryaEventDecor.js:73
+msgid "Product Offering Development"
+msgstr "Développement de l'offre de produits"
+
+#: src/containers/theLink/TheLink.js:10
+msgid "Product Owner"
+msgstr "Gestionnaire Produit"
+
+#: src/portfolio.js:141
+msgid "Product Roadmapping & Strategy"
+msgstr "Feuille de route produit et stratégie"
+
+#: src/containers/skillProgress/skillProgress.js:17
+msgid "Proficiency"
+msgstr "Compétences"
+
+#: src/containers/recursyve/Recursyve.js:68
+msgid "Progress Tracking"
+msgstr "Suivi des progrès"
+
+#: src/portfolio.js:297
+msgid "Project Management Professional (PMP)®"
+msgstr "Project Management Professional (PMP)®"
+
+#: src/portfolio.js:158
+#: src/containers/recursyve/Recursyve.js:10
+msgid "Project Manager"
+msgstr "Gestionnaire de projet"
+
+#: src/containers/theLink/TheLink.js:8
+#: src/containers/recursyve/Recursyve.js:8
+#: src/containers/genetec/Genetec.js:8
+#: src/containers/ferya/FeryaEventDecor.js:8
+msgid "Project Overview"
+msgstr "perçu du projet"
+
+#: src/portfolio.js:227
+msgid "Projects"
+msgstr "Projets"
+
+#: src/containers/theLink/TheLink.js:85
+msgid "Prototype Testing"
+msgstr "Test du prototype"
+
+#: src/containers/ferya/FeryaEventDecor.js:21
+msgid "Provide clients with personalized, high-quality designs that exceed their expectations."
+msgstr "Fournir aux clients des designs personnalisés et de haute qualité qui dépassent leurs attentes."
+
+#: src/containers/recursyve/Recursyve.js:23
+msgid "Provide Real-Time Feedback"
+msgstr "Fournir des retours en temps réel"
+
+#: src/containers/ferya/FeryaEventDecor.js:47
+msgid "Quality Over Quantity"
+msgstr "Qualité avant quantité"
+
+#: src/containers/recursyve/Recursyve.js:59
+msgid "Real-Time Feedback"
+msgstr "Retour en temps réel"
+
+#: src/portfolio.js:162
+msgid "Recursyve is a dynamic software development company specializing in innovative, scalable, and user-centric solutions. I optimized processes, translated client needs into tasks, and ensured seamless project execution."
+msgstr "Recursyve est une entreprise dynamique de développement logiciel spécialisée dans des solutions innovantes, évolutives et centrées sur l'utilisateur. J'ai optimisé les processus, traduit les besoins clients en tâches et assuré une exécution fluide des projets."
+
+#: src/portfolio.js:159
+msgid "Recursyve Solutions"
+msgstr "Recursyve Solutions"
+
+#: src/containers/recursyve/Recursyve.js:48
+msgid "Regularly tested the platform with QA to refine features and ensure usability."
+msgstr "J'ai régulièrement testé la plateforme avec l'assurance qualité pour affiner les fonctionnalités et garantir la convivialité."
+
+#: src/containers/theLink/TheLink.js:45
+msgid "Rely on market research, user feedback, and analytics to guide product decisions and prioritization."
+msgstr "S'appuyer sur la recherche de marché, les retours utilisateurs et les analyses pour guider les décisions et la priorisation du produit."
+
+#: src/portfolio.js:371
+#: src/components/header/Header.js:81
+msgid "Resume"
+msgstr "CV"
+
+#: src/containers/greeting/Greeting.js:50
+msgid "Resume.pdf"
+msgstr "Cv.pdf"
+
+#: src/portfolio.js:184
+msgid "Revelate is a data integration platform that simplifies data sharing and monetization for businesses. I contributed to building scalable ETL solutions and enhancing notification services using Spring Boot."
+msgstr "Revelate est une plateforme d'intégration de données qui simplifie le partage et la monétisation des données pour les entreprises. J'ai contribué à la construction de solutions ETL évolutives et à l'amélioration des services de notifications en utilisant Spring Boot."
+
+#: src/containers/recursyve/Recursyve.js:44
+msgid "Risk Management"
+msgstr "Gestion des risques"
+
+#: src/containers/theLink/TheLink.js:55
+#: src/containers/ferya/FeryaEventDecor.js:55
+msgid "Roadmap"
+msgstr "Feuille de route"
+
+#: src/containers/theLink/TheLink.js:91
+msgid "Roadmap Refinement"
+msgstr "Affinement de la feuille de route"
+
+#: src/containers/recursyve/Recursyve.js:8
+msgid "Ruse is an innovative AI-powered platform designed to address a critical gap in the poker community. While existing poker analysis tools provided data, they often failed to deliver real value to players. These tools lacked personalization, offered overly complex strategies, and provided little to no actionable feedback. Ruse aimed to change that by offering personalized, easy-to-understand insights and real-time feedback to help players improve their game."
+msgstr "Ruse est une plateforme innovante alimentée par l'IA, conçue pour combler une lacune critique dans la communauté du poker. Alors que les outils d'analyse de poker existants fournissaient des données, ils ne livraient souvent pas de réelle valeur aux joueurs. Ces outils manquaient de personnalisation, proposaient des stratégies trop complexes et offraient peu ou pas de retours actionnables. Ruse visait à changer cela en offrant des analyses personnalisées, faciles à comprendre, et des retours en temps réel pour aider les joueurs à améliorer leur jeu."
+
+#: src/containers/recursyve/Recursyve.js:54
+msgid "Ruse was designed to address the shortcomings of existing poker tools by offering the following key features"
+msgstr "Ruse a été conçu pour pallier les lacunes des outils de poker existants en offrant les fonctionnalités clés suivantes"
+
+#: src/containers/genetec/Genetec.js:44
+msgid "Security-Focused Design"
+msgstr "Conception axée sur la sécurité"
+
+#: src/containers/ferya/FeryaEventDecor.js:68
+msgid "Selection of a photo style that reflects Ferya's elegance and creativity."
+msgstr "Sélection d'un style photo qui reflète l'élégance et la créativité de Ferya."
+
+#: src/containers/ferya/FeryaEventDecor.js:74
+msgid "Selection of items to sell (e.g., wedding menus, cake toppers for birthdays, centerpieces, etc.)."
+msgstr "Sélection des articles à vendre (par exemple, menus de mariage, cake toppers pour anniversaires, centres de table, etc.)."
+
+#: src/portfolio.js:121
+msgid "September 2014 - April 2017"
+msgstr "Septembre 2014 - Avril 2017"
+
+#: src/portfolio.js:110
+msgid "September 2017 - August 2021"
+msgstr "Septembre 2017 - Août 2021"
+
+#: src/portfolio.js:99
+msgid "September 2021 - April 2023"
+msgstr "Septembre 2021 - Avril 2023"
+
+#: src/portfolio.js:161
+msgid "September 2021 – February 2022"
+msgstr "Septembre 2021 - Février 2022"
+
+#: src/containers/recursyve/Recursyve.js:10
+msgid "September 2021 — December 2021"
+msgstr "Septembre 2021 — Décembre 2021"
+
+#: src/portfolio.js:234
+msgid "September 2024 – Ongoing"
+msgstr "Septembre 2024 – En cours"
+
+#: src/containers/ferya/FeryaEventDecor.js:10
+msgid "September 2024 — Ongoing"
+msgstr "Septembre 2024 — En cours"
+
+#: src/containers/recursyve/Recursyve.js:62
+msgid "Simplified Strategies"
+msgstr "Stratégies simplifiées"
+
+#: src/containers/recursyve/Recursyve.js:20
+msgid "Simplify Complexity"
+msgstr "Simplifier la complexité"
+
+#: src/components/header/Header.js:51
+msgid "Skills"
+msgstr "Compétences"
+
+#: src/containers/theLink/TheLink.js:82
+msgid "Solution Adaptation"
+msgstr "Adaptation de la solution"
+
+#: src/portfolio.js:145
+msgid "Stakeholder Communication & Collaboration"
+msgstr "Communication et collaboration avec les parties prenantes"
+
+#: src/containers/ferya/FeryaEventDecor.js:30
+msgid "Stay ahead of trends and incorporate new ideas to keep our designs fresh and relevant."
+msgstr "Rester en avance sur les tendances et intégrer de nouvelles idées pour garder nos designs frais et pertinents."
+
+#: src/containers/genetec/Genetec.js:51
+msgid "Stay updated on industry trends and technologies to drive innovation."
+msgstr "Rester à jour sur les tendances et technologies de l'industrie pour stimuler l'innovation."
+
+#: src/containers/ferya/FeryaEventDecor.js:51
+msgid "Stayed updated on industry trends and incorporated feedback to improve our services."
+msgstr "Rester à jour sur les tendances de l'industrie et intégrer les retours pour améliorer nos services."
+
+#: src/containers/ferya/FeryaEventDecor.js:70
+msgid "Supplier Research"
+msgstr "Recherche de fournisseurs"
+
+#: src/components/header/Header.js:76
+msgid "Talks"
+msgstr "Conférences"
+
+#: src/containers/genetec/Genetec.js:47
+msgid "Team Collaboration"
+msgstr "Collaboration d'équipe"
+
+#: src/containers/theLink/TheLink.js:86
+msgid "Test the updated solution with a target audience to ensure it effectively addresses identified problems."
+msgstr "Tester la solution mise à jour avec un public cible pour s'assurer qu'elle résout efficacement les problèmes identifiés."
+
+#: src/containers/theLink/TheLink.js:10
+msgid "The initial research phase for The Link by Evolvia has been both exciting and challenging. One of the biggest challenges has been navigating the uncertainties of a stealth project, where limited information can be shared externally. Balancing confidentiality with the need to gather valuable insights and feedback during the research phase required careful planning and creativity. Another significant challenge was identifying and validating the core problem we aim to solve, ensuring our solution is both innovative and viable in a competitive market."
+msgstr "La phase de recherche initiale pour The Link by Evolvia a été à la fois passionnante et stimulante. L'un des plus grands défis a été de naviguer dans les incertitudes d'un projet confidentiel, où peu d'informations peuvent être partagées à l'externe. Équilibrer la confidentialité avec le besoin de recueillir des insights et des retours précieux pendant la phase de recherche a nécessité une planification minutieuse et de la créativité. Un autre défi important a été d'identifier et de valider le problème central que nous visons à résoudre, en s'assurant que notre solution est à la fois innovante et viable sur un marché concurrentiel."
+
+#: src/portfolio.js:252
+msgid "The Link"
+msgstr "The Link"
+
+#: src/containers/theLink/TheLink.js:8
+msgid "The Link by Evolvia is an innovative stealth project designed to transform the landscape of entrepreneurship. As a startup initiative, it focuses on developing a cutting-edge solution to address a critical gap in the market. While specific details remain confidential at this stage, the project is driven by a vision to create a scalable, user-centric platform that delivers exceptional value and redefines user experiences. The goal is to build a product that not only meets market demands but also sets new benchmarks for innovation and efficiency."
+msgstr "The Link by Evolvia est un projet innovant et confidentiel conçu pour transformer le visage de l'entrepreneuriat. En tant qu'initiative de startup, il se concentre sur le développement d'une solution de pointe pour combler une lacune critique sur le marché. Bien que les détails spécifiques restent confidentiels à ce stade, le projet est motivé par une vision visant à créer une plateforme évolutive et centrée sur l'utilisateur qui offre une valeur exceptionnelle et redéfinit les expériences utilisateurs. L'objectif est de construire un produit qui répond non seulement aux demandes du marché, mais établit également de nouveaux standards en matière d'innovation et d'efficacité."
+
+#: src/containers/recursyve/Recursyve.js:15
+msgid "The primary goal of Ruse was to revolutionize the way poker players analyze and improve their gameplay. Unlike existing tools that offered generic data and overly complex strategies, Ruse aimed to provide personalized, actionable insights that were easy to understand and implement. The objectives were."
+msgstr "L'objectif principal de Ruse était de révolutionner la façon dont les joueurs de poker analysent et améliorent leur jeu. Contrairement aux outils existants qui offraient des données génériques et des stratégies trop complexes, Ruse visait à fournir des analyses personnalisées et actionnables, faciles à comprendre et à mettre en œuvre. Les objectifs étaient les suivants."
+
+#: src/components/footer/Footer.js:19
+msgid "Theme by"
+msgstr "Thème par"
+
+#: src/containers/recursyve/Recursyve.js:10
+msgid "To ensure success, I had to deeply understand the AI algorithm to effectively communicate its requirements to developers through user stories and epics. I also determined the development sequence, ensuring alignment with the roadmap. Balancing the needs of stakeholders—from founders eager for quick results to developers needing time to perfect the technology—was another key aspect of my role."
+msgstr "Pour assurer le succès, j'ai dû comprendre en profondeur l'algorithme d'IA afin de communiquer efficacement ses exigences aux développeurs à travers des user stories et des epics. J'ai également déterminé la séquence de développement, en m'assurant qu'elle était alignée sur la feuille de route. Équilibrer les besoins des parties prenantes—des fondateurs désireux de résultats rapides aux développeurs ayant besoin de temps pour perfectionner la technologie—était un autre aspect clé de mon rôle."
+
+#: src/containers/recursyve/Recursyve.js:69
+msgid "Tools to help players monitor their improvement over time."
+msgstr "Outils pour aider les joueurs à suivre leurs progrès au fil du temps."
+
+#: src/portfolio.js:165
+msgid "Translated customer needs into Stories and sub-tasks within the Backlog."
+msgstr "Traduction des besoins clients en Stories et sous-tâches dans le Backlog."
+
+#: src/portfolio.js:118
+msgid "University of Montreal"
+msgstr "Université de Montréal"
+
+#: src/containers/genetec/Genetec.js:42
+msgid "Use agile practices to break down tasks, deliver incremental improvements, and adapt quickly to changing requirements."
+msgstr "Utiliser des pratiques agiles pour décomposer les tâches, livrer des améliorations incrémentielles et s'adapter rapidement aux exigences changeantes."
+
+#: src/containers/theLink/TheLink.js:79
+msgid "User Feedback Form"
+msgstr "Formulaire de feedback utilisateur"
+
+#: src/containers/recursyve/Recursyve.js:47
+msgid "User Feedback Integration"
+msgstr "Intégration des retours utilisateurs"
+
+#: src/containers/theLink/TheLink.js:38
+#: src/containers/genetec/Genetec.js:38
+msgid "User-First Mindset"
+msgstr "État d'esprit centré sur l'utilisateur"
+
+#: src/containers/theLink/TheLink.js:30
+msgid "Validate the product through user testing, feedback, and iterative improvements to ensure it meets real-world needs."
+msgstr "Valider le produit grâce à des tests utilisateurs, des retours et des améliorations itératives pour s'assurer qu'il répond aux besoins réels."
+
+#: src/portfolio.js:280
+msgid "Validating my expertise and commitment to continuous learning"
+msgstr "Validation de mon expertise et de mon engagement envers l'apprentissage continu"
+
+#: src/containers/theLink/TheLink.js:73
+msgid "Vision and Value Proposition"
+msgstr "Vision et proposition de valeur"
+
+#: src/portfolio.js:239
+msgid "Visit Instagram"
+msgstr "Visiter Instagram"
+
+#: src/portfolio.js:259
+msgid "Visit Website"
+msgstr "Visiter le site web"
+
+#: src/portfolio.js:62
+msgid "What I do"
+msgstr "Ce que je fais"
+
+#: src/portfolio.js:318
+msgid "With Love for Developing cool stuff, I love to write and teach others what I have learnt."
+msgstr "Avec une passion pour le développement de choses cool, j'adore écrire et partager ce que j'ai appris."
+
+#: src/containers/genetec/Genetec.js:18
+msgid "Work closely with cross-functional teams to align technical solutions with business goals."
+msgstr "Travailler en étroite collaboration avec des équipes interfonctionnelles pour aligner les solutions techniques sur les objectifs business."
+
+#: src/components/header/Header.js:56
+msgid "Work Experiences"
+msgstr "Expériences professionnelles"
+
+#: src/containers/recursyve/Recursyve.js:36
+msgid "Worked closely with stakeholders to define clear objectives and deliverables, ensuring alignment with business goals and user needs."
+msgstr "J'ai travaillé en étroite collaboration avec les parties prenantes pour définir des objectifs et des livrables clairs, en m'assurant qu'ils étaient alignés sur les objectifs business et les besoins des utilisateurs."
+
+#: src/containers/ferya/FeryaEventDecor.js:42
+msgid "Worked closely with the team and clients to ensure every detail was perfect."
+msgstr "Travailler en étroite collaboration avec l'équipe et les clients pour s'assurer que chaque détail était parfait."
+
+#: src/containers/genetec/Genetec.js:10
+msgid "Working on ClearID has been both challenging and rewarding. One of the main challenges was developing a secure and scalable identity management system capable of handling diverse organizational needs while maintaining high performance. Balancing the technical complexity of security protocols with user-friendly functionality required innovative problem-solving and close collaboration with the team."
+msgstr "Travailler sur ClearID a été à la fois stimulant et gratifiant. L'un des principaux défis était de développer un système de gestion des identités sécurisé et évolutif capable de répondre aux divers besoins organisationnels tout en maintenant des performances élevées. Équilibrer la complexité technique des protocoles de sécurité avec une fonctionnalité conviviale nécessitait une résolution de problèmes innovante et une collaboration étroite avec l'équipe."

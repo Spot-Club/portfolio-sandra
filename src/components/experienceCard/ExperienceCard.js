@@ -78,6 +78,7 @@ export default function ExperienceCard({ cardInfo, isDark }) {
         <ul>
           <GetDescBullets descBullets={cardInfo.descBullets} isDark={isDark} />
         </ul>
+        <div className="filler"></div>
         <div className="experience-footer">
           {cardInfo.footerLink ? (
             <div className="experience-card-footer">

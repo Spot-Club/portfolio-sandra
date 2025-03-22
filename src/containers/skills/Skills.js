@@ -4,10 +4,12 @@ import engrenage from "../../assets/lottie/engrenage";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
 import StyleContext from "../../contexts/StyleContext";
-import { illustration, skillsSection } from "../../portfolio";
+import { usePortfolio } from "../../portfolio";
 import "./Skills.scss";
 
 export default function Skills() {
+  const { illustration, skillsSection } = usePortfolio();
+
   const { isDark } = useContext(StyleContext);
   if (!skillsSection.display) {
     return null;

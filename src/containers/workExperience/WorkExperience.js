@@ -3,10 +3,11 @@ import { Fade } from "react-reveal";
 import ExperienceCard from "../../components/experienceCard/ExperienceCard";
 import { Modal } from "../../components/modal/modal";
 import StyleContext from "../../contexts/StyleContext";
-import { workExperiences } from "../../portfolio";
+import { usePortfolio } from "../../portfolio";
 import "./WorkExperience.scss";
 
 export default function WorkExperience() {
+  const { workExperiences } = usePortfolio();
   const { isDark } = useContext(StyleContext);
   const [showModal, setshowModal] = useState(false);
   const [modalContent, setmodalContent] = useState();
