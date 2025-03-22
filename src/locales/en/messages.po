@@ -188,6 +188,10 @@ msgstr "C# Developer"
 msgid "Certification"
 msgstr "Certification"
 
+#: src/components/header/Header.js:66
+#~ msgid "Certifications"
+#~ msgstr "Certifications"
+
 #: src/portfolio.js:278
 msgid "Certifications 🏆 "
 msgstr "Certifications 🏆 "
